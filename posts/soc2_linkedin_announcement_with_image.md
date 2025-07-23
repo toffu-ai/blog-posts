@@ -4,7 +4,6 @@ description: "LinkedIn announcement celebrating Toffu's SOC 2 certification achi
 date: "2025-07-23"
 platform: "linkedin"
 type: "social_post"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/49fbefaa-6840-4dc2-9096-b3b06c092d58.png"
 ---
 
 🎉 Exciting news! Toffu is now SOC 2 certified! 
