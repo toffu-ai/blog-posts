@@ -13,9 +13,10 @@ blog-posts/
 ├── README.md                           # This file
 ├── images/                             # Cover images and assets
 │   └── *.png                          # Blog post cover images
-├── ai-automation-productivity-paradox.md
-├── [other-blog-posts].md
-└── [future-blog-posts].md
+├── posts/                              # All blog post markdown files
+│   ├── ai-automation-productivity-paradox.md
+│   ├── [other-blog-posts].md
+│   └── [future-blog-posts].md
 ```
 
 ## 📋 Blog Post Format
@@ -74,6 +75,7 @@ Blog posts target high-volume, low-difficulty keywords such as:
 
 ### Latest Publications
 - **AI Automation Productivity Paradox** (2025-07-24)
+  - Location: `posts/ai-automation-productivity-paradox.md`
   - Keywords: ai automation, ai for automation, automate processes
   - Focus: Reality vs. expectations in workplace AI implementation
 
@@ -83,7 +85,7 @@ Blog posts are created using our AI-powered research and writing workflow:
 2. **Keyword Research**: High-volume, low-difficulty keyword identification
 3. **Content Creation**: Data-driven writing with real examples and quotes
 4. **Humanization**: AI-assisted content optimization
-5. **Publication**: Automated GitHub deployment with proper frontmatter
+5. **Publication**: Automated GitHub deployment to `posts/` folder with proper frontmatter
 
 ## 🛠 Technical Setup
 
@@ -92,6 +94,11 @@ Blog posts are created using our AI-powered research and writing workflow:
 - GitHub repository hosting
 - CDN image hosting via Toffu infrastructure
 - Automated deployment pipeline
+
+### File Organization
+- **Posts Directory**: All markdown files stored in `/posts/` folder
+- **Images Directory**: Cover images stored in `/images/` directory
+- **Naming Convention**: `blog-post-slug.md` format for all posts
 
 ### Image Management
 - Cover images stored in `/images/` directory
@@ -122,6 +129,13 @@ This repository is maintained by the Toffu marketing team. Blog posts are create
 - **Content Generation**: AI-powered writing with human oversight
 - **Quality Assurance**: Fact-checking and link verification
 - **SEO Optimization**: Keyword research and internal linking strategy
+
+### Workflow for New Posts
+1. Research topic and create outline
+2. Write content following guidelines above
+3. Save markdown file to `/posts/` directory
+4. Upload cover image to `/images/` directory
+5. Update frontmatter with correct image URL and metadata
 
 ## 📞 Contact
 
