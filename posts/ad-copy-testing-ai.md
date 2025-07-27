@@ -22,7 +22,7 @@ Here's what real advertisers discovered about ad testing challenges:
 
 ### The Client Visibility Problem
 
-One agency shared their ongoing struggle with systematic ad testing:
+From Reddit PPC discussions:
 
 > "We have a great client, but she constantly searches Google for ads and if one comes up she doesn't like she'll send an urgent message. We send reports showing it's a very low percentage of people who see that combination, but she still wants it changed." - [Reddit PPC Discussion](https://www.reddit.com/r/PPC/comments/1ja9tn0/best_ways_to_run_ad_copy_tests_with_rsa/)
 
@@ -42,7 +42,7 @@ But their recommended process reveals the manual complexity:
 
 **The Hidden Scaling Problem**
 
-The biggest issue isn't running individual tests - it's applying insights systematically across your entire account. One expert described their solution approach:
+The biggest issue isn't running individual tests - it's applying insights systematically across your entire account:
 
 > "One incredibly effective tactic was creating separate RSAs with identical headlines but different description lines - this isolates the variable and gives much cleaner test data than trying to decipher Google's black box optimization." - [u/QuantumWolf99](https://www.reddit.com/r/PPC/comments/1ja9tn0/best_ways_to_run_ad_copy_tests_with_rsa/)
 
@@ -63,8 +63,6 @@ You discover that "Free Shipping" headlines perform 40% better in Campaign A, bu
 **The Variation Management Problem**
 
 With 15 headlines and 4 descriptions per responsive search ad, you're managing potentially hundreds of combinations per campaign. Manually tracking which elements work becomes impossible at scale.
-
-As one practitioner noted:
 
 > "I use one RSA that's fully unpinned for performance but also run a second 'client visibility' ad with strategic pinning that only gets 10-15% of impressions. This way when she searches....she mostly sees the controlled messaging she approves of, while the algorithm still gets to work its magic with the bulk of the traffic." - [u/QuantumWolf99](https://www.reddit.com/r/PPC/comments/1ja9tn0/best_ways_to_run_ad_copy_tests_with_rsa/)
 
@@ -167,7 +165,7 @@ This connects to broader [marketing workflow automation](https://toffu.ai/academ
 
 **Real Performance Improvements**
 
-Companies implementing AI-powered creative testing typically see:
+Systematic creative testing typically delivers:
 
 - **25-40% improvement** in CTR through systematic creative optimization
 - **15-30% reduction** in CPA as better creative drives higher Quality Scores
@@ -194,8 +192,6 @@ Testing in one campaign while ignoring similar campaigns wastes opportunities. A
 
 **Mistake 3: Creative Elements Testing in Isolation**
 Individual headline or description testing misses combination effects. AI analyzes creative performance holistically.
-
-One expert noted the importance of systematic approaches:
 
 > "I found that a pinned ad performed very close to just letting the black box do its thing. The key there - as I see it - was the customer research that went into the headlines and descriptions." - [u/jessebastide](https://www.reddit.com/r/PPC/comments/1ja9tn0/best_ways_to_run_ad_copy_tests_with_rsa/)
 
