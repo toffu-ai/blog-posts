@@ -2,7 +2,7 @@
 title: "How to Use AI for LinkedIn Content Creation and Automation"
 description: "Learn how to automate LinkedIn content creation with AI, schedule posts strategically, and build professional authority through consistent, engaging content."
 date: "2025-02-26"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/linkedin-automation-content.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/linkedin-content-automation-hero.png"
 slug: "linkedin-content-automation-ai"
 ---
 
