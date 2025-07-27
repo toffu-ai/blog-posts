@@ -1,7 +1,7 @@
 ---
 title: "How to Use AI Automation for Google Ads Ad Copy Testing"
 description: "Learn how to automate Google Ads ad copy testing with AI, scale winning variations across campaigns, and systematically optimize creative performance."
-date: "2025-01-24"
+date: "2025-01-22"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/7e0aac2b-617f-4af1-b7d5-9db46fe8cb4c.png"
 slug: "ai-automation-google-ads-ad-copy-testing"
 ---
