@@ -1,7 +1,7 @@
 ---
 title: "The AI Automation Productivity Paradox"
 description: "Discover why 70% of AI automation projects fail and learn the proven strategies successful companies use to actually boost productivity with AI tools."
-date: "2025-07-24"
+date: "2025-01-15"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/18331dc5-07ad-4b72-9b73-d092f37ff50e.png"
 slug: "ai-automation-productivity-paradox"
 ---
