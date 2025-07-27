@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Google Ads AI Automation"
 publishedAt: "2024-09-20"
 summary: "Master Google Ads AI automation with this comprehensive guide covering smart bidding, automated campaigns, machine learning optimization, and advanced AI strategies for maximum ROI."
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ultimate-google-ads-ai-guide-hero.avif"
-author: "Or Arbel"
+authorImage: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/or-arbel-author.png"
 authorImage: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/or-arbel.png"
 tags: ["Google Ads", "AI Automation", "Smart Bidding", "Machine Learning", "PPC Strategy", "Campaign Optimization"]
 ---
