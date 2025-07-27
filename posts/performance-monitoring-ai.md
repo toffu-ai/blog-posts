@@ -1,7 +1,7 @@
 ---
 title: "How to Use AI Automation for Google Ads Performance Monitoring"
 description: "Learn how to set up automated Google Ads performance monitoring with AI, scheduled tasks, and email alerts to catch issues before they become expensive disasters."
-date: "2025-07-24"
+date: "2025-01-29"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/a1124f03-5b54-49dd-aaa7-669e3a0d66e1.png"
 slug: "ai-automation-google-ads-performance-monitoring"
 ---
