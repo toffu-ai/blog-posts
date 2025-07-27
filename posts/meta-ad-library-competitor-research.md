@@ -2,7 +2,7 @@
 title: "How to Use Meta Ad Library for Competitor Research and Analysis"
 description: "Learn how to use Meta Ad Library effectively for competitor research, analyze competitor ad strategies, and improve your Facebook and Instagram advertising."
 date: "2025-03-05"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/meta-ad-library-research.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/meta-ad-library-research-hero.png"
 slug: "meta-ad-library-competitor-research"
 ---
 
