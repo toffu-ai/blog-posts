@@ -3,7 +3,7 @@ title: "AI Automation for Negative Keywords in Google Ads"
 publishedAt: "2024-09-15"
 summary: "Learn how AI automation can revolutionize your negative keyword management in Google Ads, reducing wasted spend and improving campaign performance with smart optimization techniques."
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ai-automation-negative-keywords-google-ads-hero.avif"
-author: "Or Arbel"
+authorImage: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/or-arbel-author.png"
 authorImage: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/or-arbel.png"
 tags: ["Google Ads", "AI Automation", "Negative Keywords", "PPC Optimization"]
 ---
