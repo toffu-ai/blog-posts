@@ -71,7 +71,7 @@ Sales teams often make one or two calls, send one email, then mark the lead as "
 But here's the reality: B2B buyers need 7-13 touchpoints before they're ready to have a sales conversation. Your "unresponsive" lead might just need three more emails and a LinkedIn message.
 
 ## The Attribution Disaster
-Remember our [ROI tracking problems from the previous post](https://github.com/toffu-ai/blog-posts/blob/main/posts/why-your-marketing-roi-numbers-are-wrong.md)? They're even worse when sales and marketing aren't aligned.
+Remember our [ROI tracking problems from the previous post](https://toffu.ai/blog/why-your-marketing-roi-numbers-are-wrong)? They're even worse when sales and marketing aren't aligned.
 Remember our ROI tracking problems from the previous post? They're even worse when sales and marketing aren't aligned.
 
 [One marketer shared their frustration](https://reddit.com/r/marketing/comments/1ltzpvl/sales_blames_marketing_prove_them_wrong_whats_the/): *"We cross check platform reported view through data with our CRM and web analytics. When direct signals are missing, we use probabilistic modeling."*
