@@ -8,7 +8,7 @@ tags: ["marketing attribution", "ROI tracking", "analytics", "marketing measurem
 ---
 
 Last week, I was browsing r/marketing when I stumbled across this question that made me stop scrolling:
-
+Last week, I was browsing r/marketing when I stumbled across [this question](https://reddit.com/r/marketing/comments/1m6naqy/ad_roi_calculation_and_tracking_methods_across/) that made me stop scrolling:
 *"Marketers managing ads across platforms - what's your reporting workflow and how do you track ROI? Do you use any tools other than Excel and Google Sheets?"*
 
 The responses were... enlightening. And by enlightening, I mean they confirmed what I suspected: most of us are flying blind when it comes to actual ROI measurement.
@@ -16,7 +16,7 @@ The responses were... enlightening. And by enlightening, I mean they confirmed w
 ## The Spreadsheet Nightmare Is Real
 
 One marketer laid it out perfectly:
-
+One marketer [laid it out perfectly](https://reddit.com/r/marketing/comments/1m6naqy/ad_roi_calculation_and_tracking_methods_across/):
 *"Excel and Google Sheets are fine for small scale or one channel reporting. But the moment you go multi-platform (Google, Meta, LinkedIn), things get messy fast."*
 
 Sound familiar? You start with one Google Ads campaign. Simple enough - throw the numbers in a spreadsheet, calculate your ROAS, call it a day. Then you add Facebook ads. Now you need another tab. Then LinkedIn. Another tab. Suddenly you're the person with 47 spreadsheet tabs trying to figure out which platform is actually making you money.
@@ -30,7 +30,7 @@ Let's talk about the elephant in the room: platform attribution is broken. Googl
 Quick math check: 100 + 80 + 60 = 240 conversions from what was actually 50 real customers.
 
 One Reddit user explained their solution:
-
+One Reddit user [explained their solution](https://reddit.com/r/marketing/comments/1m6naqy/ad_roi_calculation_and_tracking_methods_across/):
 *"Once we started analyzing influence across the funnel like assisted conversions, multi-touch journeys, our budget allocation decisions got way sharper."*
 
 The problem is that platforms only see their slice of the customer journey. Facebook doesn't know that your customer saw a Google ad first, visited your site three times, read two blog posts, then finally converted after clicking a retargeting ad.
@@ -42,11 +42,11 @@ I learned this lesson the hard way with a client who was convinced Facebook ads 
 Then we dug deeper. Turns out Facebook was driving 40% of the top-of-funnel traffic that was later converting through Google Ads searches. Kill the Facebook campaigns, and Google Ads conversions dropped by 35% two weeks later.
 
 This is why another Redditor mentioned they *"apply a scaling factor to our attributed revenue to make it match our channel experimental results."* They're basically saying the attribution is so off that they have to guess at what the real numbers should be.
-
+This is why [another Redditor mentioned](https://reddit.com/r/marketing/comments/1m6naqy/ad_roi_calculation_and_tracking_methods_across/) they *"apply a scaling factor to our attributed revenue to make it match our channel experimental results."* They're basically saying the attribution is so off that they have to guess at what the real numbers should be.
 ## The "It's Complicated" Problem
 
 Here's what one marketer shared about their tracking setup:
-
+Here's what [one marketer shared](https://reddit.com/r/marketing/comments/1m6naqy/ad_roi_calculation_and_tracking_methods_across/) about their tracking setup:
 *"A customer comes to the site via an ad click, our internal tracking resolves source and performs identity resolution, then the data dumped into bigquery. If the customer makes a purchase, our MTA allocates credit based on the last X number of days."*
 
 Reading that made my head spin, and I do this for a living. Most small businesses don't have a data engineering team to build custom attribution models in BigQuery.
@@ -89,7 +89,7 @@ You don't need to build a custom data warehouse to get better attribution. Here 
 Your marketing ROI numbers are probably wrong. Not because you're bad at math, but because you're trying to solve a complex attribution puzzle with incomplete data and platform bias.
 
 The solution isn't more complex tracking or fancier tools (though those can help). It's getting comfortable with the fact that attribution will never be perfect, and building systems that give you directionally correct insights instead of precisely wrong numbers.
-
+As [one marketer put it perfectly](https://reddit.com/r/marketing/comments/1m6naqy/ad_roi_calculation_and_tracking_methods_across/): *"We cross check platform reported view through data with our CRM and web analytics. When direct signals are missing, we use probabilistic modeling."*
 As one marketer put it perfectly: *"We cross check platform reported view through data with our CRM and web analytics. When direct signals are missing, we use probabilistic modeling."*
 
 Translation: they make educated guesses based on multiple data sources instead of trusting any single platform's claims.
