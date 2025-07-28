@@ -1,13 +1,12 @@
 ---
-title: "Google Ads Transparency Center: AI-Powered Competitive Research"
-publishedAt: "2024-09-10"
-summary: "Discover how to leverage Google's Ad Transparency Center with AI automation to conduct competitive research, uncover competitor strategies, and gain valuable insights for your campaigns."
+title: "Google Ads Transparency Center Research with AI"
+description: "Automate Google Ads Transparency Center competitive research with AI. Uncover competitor strategies and gain valuable insights for your campaigns."
+date: "2024-09-10"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-transparency-research-hero.avif"
-authorImage: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/or-arbel-author.png"
-tags: ["Google Ads", "Competitive Research", "AI Automation", "Ad Transparency", "Market Intelligence"]
+slug: "google-ads-transparency-research"
 ---
 
-# Google Ads Transparency Center: AI-Powered Competitive Research
+# Google Ads Transparency Center Research with AI
 
 Google's Ad Transparency Center has opened up unprecedented opportunities for competitive research in digital advertising. When combined with AI automation, this tool becomes a powerful weapon for understanding your competitive landscape and optimizing your own campaigns. Here's how to leverage it effectively.
 
