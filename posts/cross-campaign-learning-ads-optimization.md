@@ -2,7 +2,7 @@
 title: "How to Use Cross-Campaign Learning for Google Ads Optimization"
 description: "Learn how to scale successful Google Ads insights across multiple campaigns with AI automation. Stop reinventing the wheel and optimize your entire account systematically."
 date: "2025-07-24"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/0591ef97-80e7-4878-8d19-4f1e2be4bd5f.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/cross-campaign-learning-hero.avif"
 slug: "cross-campaign-learning-google-ads-optimization"
 ---
 
