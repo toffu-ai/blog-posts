@@ -2,7 +2,7 @@
 title: "AI Automation for LinkedIn Content Creation and Posting"
 description: "Automate LinkedIn content creation with AI. Stop spending hours on manual posting and start building consistent professional thought leadership automatically."
 date: "2025-02-26"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/91d85cb9-c031-47ba-8a66-2d1df918328d.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/linkedin-content-automation-hero.avif"
 slug: "linkedin-content-automation-ai"
 ---
 
