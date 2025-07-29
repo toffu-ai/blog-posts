@@ -1,7 +1,7 @@
 ---
 title: "How to Use AI for Google Ads Search Term Analysis"
 description: "Learn how to automate Google Ads search term analysis with AI, identify high-value keywords, and optimize campaigns based on actual search behavior."
-image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/ai-search-term-analysis-hero.png
+image: https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ai-search-term-analysis-hero-new.avif
 slug: "ai-search-term-analysis-google-ads"
 ---
 
