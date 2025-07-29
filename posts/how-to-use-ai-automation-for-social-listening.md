@@ -2,7 +2,7 @@
 title: "How to Use AI Automation for Social Listening"
 description: "Learn how to set up automated social listening with AI tools. Monitor Reddit discussions, track sentiment in Google Sheets, and get real-time alerts for brand mentions."
 date: "2025-07-24"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/cba6fe7b-be11-4fd7-bc94-bcd934c6b98c.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/social-listening-ai-hero.avif"
 slug: "how-to-use-ai-automation-for-social-listening"
 ---
 
