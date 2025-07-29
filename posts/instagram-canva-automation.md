@@ -2,7 +2,7 @@
 title: "Instagram Content Automation and Engagement Management"
 description: "Automate Instagram visual content creation with Toffu's Canva integration. Generate branded designs for feed posts, Stories, and Reels automatically."
 date: "2025-01-24"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/239ec1fc-f321-401a-9e8a-4f1ecd8797a5.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/instagram-canva-automation-hero.avif"
 slug: "instagram-content-automation-canva"
 ---
 
