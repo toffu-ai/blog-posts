@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Ad Library Competitor Research with AI Automation"
 description: "Master competitor research across Meta, Google, and LinkedIn ad libraries with AI automation. Complete cross-platform competitive intelligence strategy."
 date: "2025-01-24"
-image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ultimate-ad-library-research-hero.avif"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ultimate-ad-library-research-hero-v2.avif"
 slug: "ultimate-ad-library-competitor-research-guide"
 featured: true
 ---
