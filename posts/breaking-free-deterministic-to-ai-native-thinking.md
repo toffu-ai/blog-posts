@@ -2,7 +2,7 @@
 title: "Breaking Free: From Deterministic Habits to AI-Native Thinking"
 description: "The hidden struggle every professional faces when transitioning from structured workflows to the chaotic creativity of AI collaboration. Learn how to develop AI-native thinking patterns."
 date: "2025-01-29"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/deterministic-ai-thinking-hero.png"
+image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/deterministic-ai-thinking-hero.avif"
 slug: "breaking-free-deterministic-to-ai-native-thinking"
 ---
 
