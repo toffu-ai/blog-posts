@@ -123,8 +123,6 @@ AI enables sophisticated analysis manual research can't achieve:
 - **Cross-campaign coordination detection**: Spotting coordinated messaging changes indicating major strategic pivots
 - **Market opportunity identification**: Finding gaps in competitor positioning and messaging
 
-This connects to [competitive analysis workflows](https://toffu.ai/academy/competitive-analysis) where Transparency Center insights inform overall campaign strategy.
-
 ## Results from Automated Transparency Center Research
 
 Companies using AI-powered Transparency Center analysis typically see:
