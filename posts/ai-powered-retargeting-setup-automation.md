@@ -1,8 +1,8 @@
 ---
 title: "AI-Powered Retargeting: From Setup Hell to One-Click Automation"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/retargeting-automation-hero.avif"
+description: "Toffu's new Google Analytics integration enables complete retargeting automation - from custom audiences to campaign launch through AI conversation."
 date: "2025-07-29"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/retargeting-automation-blog.png"
 slug: "ai-powered-retargeting-setup-automation"
 ---
 
