@@ -22,7 +22,7 @@ The complexity of Meta competitive analysis becomes overwhelming when you realiz
 
 From Reddit social media advertising discussions, marketers struggle with Meta competitive intelligence:
 
-> "I can see my competitors' ads in Ad Library, but I have no idea which ones are actually performing well or what their testing strategy looks like. I'm just guessing based on which ads appear frequently." - [r/FacebookAds](https://www.reddit.com/r/FacebookAds/)
+According to [MagicBrief's comprehensive 2024 guide](https://magicbrief.com/post/complete-guide-master-the-facebook-ad-library-in-2023), effective Meta Ad Library research requires:
 
 ### The Strategic Context Challenge
 
@@ -32,7 +32,7 @@ According to [Social Media Examiner's Ad Library guide](https://www.socialmediae
 
 But manual implementation reveals the complexity:
 
-> "Monitor competitor ad frequency and longevity, analyze creative variations and testing approaches, identify successful ad formats and messaging themes, and track competitive spending patterns over time."
+> "The Facebook Ad Library has evolved well beyond its initial purpose and is now one of the most useful tools to keep track of your competitors while staying on-top of market trends." - [Foreplay's Complete 2025 Guide](https://www.foreplay.co/post/facebook-ads-library)
 
 **The Intelligence Gap Problem**
 
@@ -110,7 +110,7 @@ Tell Toffu exactly what competitive intelligence you need:
 5. Provides specific recommendations for improving my Meta campaign performance
 
 Focus on actionable competitive intelligence rather than basic ad monitoring."
-```
+[Research from Foreplay shows](https://www.foreplay.co/post/facebook-ads-library) that systematic Meta Ad Library analysis delivers measurable benefits:
 
 **Advanced Meta Competitive Intelligence**
 
