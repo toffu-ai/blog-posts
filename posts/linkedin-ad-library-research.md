@@ -112,8 +112,6 @@ AI identifies strategic patterns manual research misses:
 - **Strategic positioning shifts**: Changes indicating new product launches or market pivots
 - **Competitive response timing**: How quickly competitors respond to market changes
 
-This connects to [competitive intelligence workflows](https://toffu.ai/academy/competitive-analysis) where LinkedIn research informs overall go-to-market strategy.
-
 ## Results from Automated LinkedIn Competitive Research
 
 Companies using AI-powered LinkedIn competitor monitoring typically see:
