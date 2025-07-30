@@ -29,7 +29,7 @@ The problem? Traditional retargeting requires juggling multiple platforms:
 
 ## The AI Solution: Complete Retargeting Automation
 
-Toffu now handles the entire retargeting workflow through simple conversation, just like our approach to [Google Ads performance monitoring](https://toffu.ai/blog/performance-monitoring-ai):
+Toffu now handles the entire retargeting workflow through simple conversation:
 
 ```
 @toffu Set up retargeting for users who visited our pricing page but didn't convert. Target them with our free trial campaign.
@@ -43,7 +43,7 @@ Toffu now handles the entire retargeting workflow through simple conversation, j
 - ✅ Applies [Smart Bidding strategies](https://support.google.com/google-ads/answer/7065882)
 - ✅ Monitors and optimizes performance
 
-**Result**: [280% improvement in lead generation](https://www.demandsage.com/retargeting-statistics/) from content
+## Real Examples
 
 ### E-commerce Cart Recovery
 ```
@@ -57,14 +57,14 @@ Toffu now handles the entire retargeting workflow through simple conversation, j
 @toffu Retarget free trial users who haven't upgraded after 14 days. Focus on premium features.
 ```
 
-**Result**: [65% increase in trial-to-paid conversions](https://blog.hubspot.com/marketing/retargeting-campaigns) - similar to results we've seen with [automated campaign optimization](https://toffu.ai/blog/cross-campaign-learning-ads-optimization)
+**Result**: [65% increase in trial-to-paid conversions](https://blog.hubspot.com/marketing/retargeting-campaigns)
 
 ### B2B Lead Warming
 ```
 @toffu Target blog readers interested in marketing automation who haven't downloaded our guide.
 ```
 
-**Result**: [280% improvement in lead generation](https://www.wordstream.com/blog/ws/2017/07/05/retargeting-stats) from content
+**Result**: [280% improvement in lead generation](https://www.demandsage.com/retargeting-statistics/) from content
 
 ## Advanced AI Capabilities
 
@@ -75,7 +75,7 @@ Toffu now handles the entire retargeting workflow through simple conversation, j
 
 **Smart Campaign Optimization**
 - [Automatic bid adjustments](https://support.google.com/google-ads/answer/2472725) based on audience performance
-- Creative testing across audience segments - using the same principles from our [ad copy testing automation](https://toffu.ai/blog/ad-copy-testing-ai)
+- Creative testing across audience segments
 - Budget allocation based on conversion probability
 
 **Multi-Touch Sequences**
@@ -83,7 +83,7 @@ Toffu now handles the entire retargeting workflow through simple conversation, j
 @toffu Set up 3-step retargeting: initial ad for cart abandoners, discount after 3 days, final offer with free shipping after 7 days.
 ```
 
-This automated sequence approach works seamlessly with our [Smart Bidding protection](https://toffu.ai/blog/smart-bidding-protection) to prevent overspending while maximizing conversions.
+This automated sequence approach works seamlessly with advanced [Smart Bidding strategies](https://toffu.ai/blog/ultimate-google-ads-ai-guide#smart-bidding) to prevent overspending while maximizing conversions.
 
 ## Why This Changes Everything
 
@@ -91,12 +91,12 @@ This automated sequence approach works seamlessly with our [Smart Bidding protec
 
 **After**: Minutes of setup through conversation, automated optimization, no technical expertise needed
 
-This transformation mirrors what we've achieved with [negative keyword automation](https://toffu.ai/blog/ai-automation-negative-keywords-google-ads) - taking complex, time-consuming processes and making them conversational.
+This transformation mirrors what we've achieved with our comprehensive [Google Ads AI automation approach](https://toffu.ai/blog/ultimate-google-ads-ai-guide) - taking complex, time-consuming processes and making them conversational.
 
 ## Getting Started
 
 1. **Connect accounts**: Let Toffu link your [Google Analytics and Google Ads](https://support.google.com/analytics/answer/1033961)
-2. **Analyze current setup**: Get AI recommendations for retargeting opportunities - similar to our [search term analysis](https://toffu.ai/blog/ai-search-term-analysis) approach
+2. **Analyze current setup**: Get AI recommendations for retargeting opportunities
 3. **Start simple**: Begin with cart abandoners or page viewers
 4. **Scale gradually**: Expand to sophisticated audience strategies
 
@@ -110,11 +110,11 @@ Just like with our [Slack integration](https://toffu.ai/blog/toffu-slack-integra
 
 For businesses using multiple marketing channels, this retargeting automation integrates perfectly with:
 
-- [Social media automation](https://toffu.ai/blog/linkedin-content-automation) for cross-platform retargeting
-- [Competitor analysis](https://toffu.ai/blog/competitor-filtering-ai) to identify retargeting opportunities
-- [Content automation workflows](https://toffu.ai/blog/how-to-automate-your-blog-with-ai-and-github) for nurturing content creation
+- Social media automation for cross-platform retargeting
+- Competitor analysis to identify retargeting opportunities  
+- Content automation workflows for nurturing content creation
 
-The same conversational interface handles everything, eliminating the tool-switching problem we discussed in [our marketing tools overwhelm guide](https://toffu.ai/blog/drowning-in-marketing-tools-automation-solution).
+The same conversational interface handles everything, eliminating the tool-switching problem discussed in our [comprehensive AI automation guide](https://toffu.ai/blog/ultimate-google-ads-ai-guide).
 
 ## The Bottom Line
 
@@ -124,12 +124,12 @@ Whether you're recovering abandoned carts, nurturing trial users, or warming B2B
 
 **Ready to start?** Sign up for Toffu and say: `Set up complete retargeting based on my Google Analytics data.`
 
-Your AI marketing manager handles the rest - just like it does for [all your other marketing automation needs](https://toffu.ai/blog/ultimate-google-ads-ai-guide).
+Your AI marketing manager handles the rest - just like it does for [all your other Google Ads automation needs](https://toffu.ai/blog/ultimate-google-ads-ai-guide).
 
 ---
 
 **Related Resources:**
 - [The Ultimate Guide to Google Ads AI Automation](https://toffu.ai/blog/ultimate-google-ads-ai-guide)
-- [How to Use AI for Google Ads Search Term Analysis](https://toffu.ai/blog/ai-search-term-analysis)
-- [Smart Bidding Protection: AI Safeguards for Google Ads](https://toffu.ai/blog/smart-bidding-protection)
 - [Toffu Slack Integration: AI Marketing in Your Workspace](https://toffu.ai/blog/toffu-slack-integration)
+- [Toffu Academy: Marketing Integrations](https://toffu.ai/academy/integrations)
+- [Getting Started with Toffu](https://toffu.ai/academy/getting-started)
