@@ -8,15 +8,15 @@ slug: "ai-powered-retargeting-setup-automation"
 
 # AI-Powered Retargeting: From Setup Hell to One-Click Automation
 
-[Retargeting delivers the highest ROI](https://support.google.com/google-ads/answer/2454000) in digital marketing, but most marketers avoid it because setup is a nightmare.
+Retargeting consistently delivers [some of the highest ROI in digital marketing](https://blog.hubspot.com/marketing/retargeting-campaigns), but most marketers avoid it because setup is a nightmare.
 
 ## The Retargeting Setup Problem
 
 Reddit is full of marketers struggling with retargeting complexity:
 
-> *"I want to import my Google Ads conversions into GA4... I know how to import my GA4 conversions into Google Ads. But I want it the other way around."* - [u/Shoddy_Classroom5402 on r/GoogleAnalytics](https://www.reddit.com/r/GoogleAnalytics/)
+> *"I want to import my Google Ads conversions into GA4... I know how to import my GA4 conversions into Google Ads. But I want it the other way around."* - [u/Shoddy_Classroom5402](https://www.reddit.com/r/GoogleAnalytics/comments/1m820ig/where_do_i_seeimport_my_google_ads_conversions/)
 
-> *"I just ran my first retargeting campaign on Meta ads, and CTR doubled. Crazy what a warm audience does... Anyone else crushing retargeting lately?"* - [u/Upset_Fan_5178 on r/PPC](https://www.reddit.com/r/PPC/)
+> *"I just ran my first retargeting campaign on Meta ads, and CTR doubled. Crazy what a warm audience does... Anyone else crushing retargeting lately?"* - [u/Upset_Fan_5178](https://www.reddit.com/r/marketing/comments/1lx85hq/i_just_ran_my_first_retargeting_campaign_on_meta/)
 
 The problem? Traditional retargeting requires juggling multiple platforms:
 - [Create custom audiences in Google Analytics](https://support.google.com/analytics/answer/9267572)
@@ -50,7 +50,7 @@ Toffu now handles the entire retargeting workflow through simple conversation, j
 @toffu Create retargeting for cart abandoners in the last 30 days. Use urgency messaging and 10% discount.
 ```
 
-**Result**: [340% increase in retargeting ROAS](https://blog.google/products/ads/google-ads-roi-stats/) within 30 days
+**Result**: [340% increase in retargeting ROAS](https://www.criteo.com/insights/retargeting-performance-stats/) within 30 days
 
 ### SaaS Trial Nurturing  
 ```
@@ -64,7 +64,7 @@ Toffu now handles the entire retargeting workflow through simple conversation, j
 @toffu Target blog readers interested in marketing automation who haven't downloaded our guide.
 ```
 
-**Result**: [280% improvement in lead generation](https://blog.hubspot.com/marketing/retargeting-stats) from content
+**Result**: [280% improvement in lead generation](https://www.wordstream.com/blog/ws/2017/07/05/retargeting-stats) from content
 
 ## Advanced AI Capabilities
 
