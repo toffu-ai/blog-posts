@@ -77,7 +77,7 @@ AI automation transforms Twitter marketing from time-intensive manual posting in
 
 **Toffu's Twitter/X Marketing Automation**
 
-With [Toffu's social media capabilities](https://toffu.ai/tools/social-media), you can automate comprehensive Twitter workflows:
+With [Toffu's social media capabilities](https://toffu.ai/academy/social-media), you can automate comprehensive Twitter workflows:
 
 - Generate Twitter-optimized content from blog posts and longer content
 - Schedule posts and threads for optimal engagement timing using [scheduled tasks](https://toffu.ai/academy/scheduled-tasks)
