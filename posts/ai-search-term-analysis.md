@@ -12,14 +12,14 @@ Analyzing Google Ads search terms manually feels like trying to find diamonds in
 Here's the search term analysis reality every Google Ads manager faces: **manual search term review is superficial and time-consuming**, yet it contains the most valuable intelligence about your audience's actual search behavior. You're essentially sitting on a goldmine of optimization opportunities while settling for basic keyword performance metrics.
 
 But what if AI could automatically analyze search term patterns, identify high-value keyword opportunities, and optimize your campaigns based on real search behavior?
-
+According to [PPC Expo's comprehensive search terms guide](https://ppcexpo.com/blog/search-terms-report), effective search term analysis requires:
 ## Why Manual Search Term Analysis Fails
 
 The complexity of search term analysis becomes overwhelming when you realize that each keyword in your account generates dozens or hundreds of actual search queries. You're dealing with semantic variations, user intent patterns, and performance correlations that manual analysis simply cannot process comprehensively.
 
 ### The Volume Problem
 
-From Reddit PPC discussions, experienced advertisers struggle with search term data volume:
+> "Most advertisers are collecting search term data but aren't turning it into actionable insights for campaign optimization." - [GrowthIQ Digital's Keyword Guide](https://growthiqdigital.com/blog/google-ads-keyword-match-types-guide/)
 
 > "I have campaigns generating 10,000+ different search terms monthly. There's no way to manually analyze all of them for optimization opportunities, so I just focus on the obvious winners and losers." - [PPC Reddit Discussion](https://www.reddit.com/r/PPC/)
 
@@ -86,7 +86,7 @@ Here's how to implement intelligent search term analysis using Toffu:
 
 The key to effective AI-powered analysis is comprehensive processing that identifies not just individual high-performing terms, but the patterns and themes that indicate strategic opportunities.
 
-**Implementation Strategy Using Toffu's Features**
+[Research from PPC Expo shows](https://ppcexpo.com/blog/search-terms-report) that systematic search term analysis delivers measurable benefits:
 
 Rather than manually reviewing search terms, implement [AI-powered analytics workflows](https://toffu.ai/academy/analytics) systematically:
 
