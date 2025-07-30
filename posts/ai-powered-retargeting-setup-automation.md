@@ -43,7 +43,7 @@ Toffu now handles the entire retargeting workflow through simple conversation, j
 - ✅ Applies [Smart Bidding strategies](https://support.google.com/google-ads/answer/7065882)
 - ✅ Monitors and optimizes performance
 
-## Real Examples
+**Result**: [280% improvement in lead generation](https://www.demandsage.com/retargeting-statistics/) from content
 
 ### E-commerce Cart Recovery
 ```
