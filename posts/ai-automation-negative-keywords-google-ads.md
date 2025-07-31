@@ -2,7 +2,7 @@
 title: "How to Use AI Automation for Google Ads Negative Keywords"
 description: "Learn how to use AI for Google Ads negative keyword management, automate search term analysis, and prevent wasted ad spend with intelligent automation."
 date: "2025-02-05"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/b0abc0a7-d6d3-46d6-94d7-6e7c1f1d4509.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ai-automation-negative-keywords-google-ads-hero.avif"
 slug: "ai-automation-negative-keywords-google-ads"
 ---
 
