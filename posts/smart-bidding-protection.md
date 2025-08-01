@@ -86,17 +86,17 @@ When using portfolio bidding strategies, implement safeguards across the entire 
 ## Implementation Framework
 
 ### Phase 1: Monitoring Infrastructure
-
+## Setting Up Your Protection Framework
 #### Essential Monitoring Tools
-1. **Google Ads Scripts**: Custom scripts for advanced monitoring
+**Phase 1: Get the Monitoring Infrastructure Right**
 2. **Third-party platforms**: Tools like Optmyzr, WordStream, or custom solutions
-3. **Google Analytics integration**: Comprehensive performance tracking
+**Tools You'll Need:**
 4. **Custom dashboards**: Real-time visibility into key metrics
 
 #### Key Metrics to Monitor
 ```
 Critical Protection Metrics:
-- Cost per conversion vs. target (daily)
+**Metrics That Actually Matter:**
 - ROAS vs. target (daily)
 - Daily spend vs. budget allocation
 - Conversion volume changes (week-over-week)
@@ -108,9 +108,9 @@ Critical Protection Metrics:
 
 #### Basic Protection Rules
 Start with fundamental safeguards:
-
+**Phase 2: Start with Basic Automated Rules**
 1. **Overspend Protection**
-   ```
+Build your foundation with simple, effective safeguards:
    Rule: If daily spend > 200% of average daily budget
    Action: Reduce bids by 30% and send alert
    ```
@@ -135,9 +135,9 @@ Implement sophisticated AI-powered rules:
    - Automatically adjust daily budgets to prevent overruns
    - Account for seasonal patterns and market conditions
 
-2. **Competitive Pressure Detection**
+**Phase 3: Advanced AI Integration (Optional)**
    - Monitor auction insights for competitive changes
-   - Adjust bidding aggressiveness based on competitive landscape
+Once basic protection works, consider these advanced approaches:
    - Implement dynamic bid strategies for high-competition periods
 
 3. **Quality Score Protection**
@@ -152,20 +152,20 @@ Develop custom ML models for:
 
 - **Anomaly detection**: Identify unusual patterns in campaign performance
 - **Predictive analytics**: Forecast performance issues before they occur
-- **Dynamic optimization**: Adjust protection thresholds based on performance
+## Protection by Bidding Strategy
 - **Market intelligence**: Incorporate external market data into protection algorithms
-
+Different Smart Bidding strategies need different protection approaches:
 #### Integration Points
-```
+**Target CPA Protection**
 AI Protection System Architecture:
-1. Data ingestion (Google Ads API, Analytics, external sources)
+Target CPA campaigns often fail when the AI bids too aggressively for unrealistic targets.
 2. Real-time processing (anomaly detection, pattern recognition)
-3. Decision engine (automated rule evaluation)
+**Common Issues:**
 4. Action execution (bid adjustments, pauses, alerts)
 5. Learning system (continuous improvement based on outcomes)
 ```
 
-## Specific Protection Strategies by Bidding Type
+**Your Protection Strategy:**
 
 ### Target CPA Protection
 
@@ -173,16 +173,16 @@ AI Protection System Architecture:
 - AI bidding too aggressively to meet unrealistic targets
 - Seasonal fluctuations causing target misalignment
 - Poor quality traffic driving up actual CPA
-
+**Target ROAS Protection**
 #### Protection Measures:
-```
+ROAS campaigns struggle with conversion value tracking issues and market changes.
 Target CPA Safeguards:
-- Set maximum CPC limits at 3x target CPA
+**Common Issues:**
 - Implement volume-based alerts (>50% conversion drop)
 - Use seasonality adjustments for predictable patterns
 - Monitor search term reports for irrelevant traffic
 ```
-
+**Your Protection Strategy:**
 ### Target ROAS Protection
 
 #### Common Issues:
