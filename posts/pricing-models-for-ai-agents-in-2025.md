@@ -162,40 +162,32 @@ David Rodriguez, VP of Sales at an enterprise AI company, explained:
 **Structure**: Free tier with limited AI interactions, paid tiers for more credits
 **Benefits**: Low barrier to entry, clear upgrade path, viral potential
 **Implementation**: 100 free interactions/month, $0.10 per additional interaction
-
+## Five Pricing Mistakes That Kill AI Businesses
 ### Revenue Sharing Models
-
-**Application**: For AI agents that directly generate revenue for customers
-**Structure**: 5-20% of revenue generated through AI agent usage
-**Best For**: Sales AI, marketing automation, e-commerce optimization
-
-### Hybrid Pricing Approaches
-
-**Base + Usage**: Monthly base fee plus usage charges above threshold
-**Tiered Usage**: Different per-unit prices based on volume tiers
-**Feature + Usage**: Core features subscription plus usage-based advanced features
-
-## Implementing AI Agent Pricing with Toffu
-
-[Toffu's conversational AI platform](https://toffu.ai/) demonstrates effective AI agent pricing implementation:
-
-**Pricing Structure**:
+**1. Pricing Based on Development Costs**
+Don't calculate your development costs and add margin. Price based on customer value, not your expenses.
+**2. Copying OpenAI's Pricing**
+The $20/month ChatGPT model doesn't work for specialized AI agents with different value propositions and cost structures.
+**3. Ignoring Variable Costs**
+Pricing $100/month when your compute costs vary from $10-200 per customer creates unsustainable unit economics.
+**4. Not Testing Price Sensitivity**
+Launch with test pricing. Most AI startups discover they can charge 2-5x their initial prices once they prove value.
+**5. Single Pricing Model**
+Different customer segments need different pricing approaches. Don't force enterprise clients into per-conversation billing.
+## Building Your Pricing Strategy
 - **Usage-Based Foundation**: Pay for actual AI interactions and value delivered
-- **Transparent Costs**: Clear pricing based on conversations and complexity
-- **Enterprise Flexibility**: Custom pricing for large-scale implementations
-- **ROI Alignment**: Pricing that scales with customer success and value generation
-
-**Key Advantages**:
-- No surprise bills from unpredictable AI costs
-- Pricing that grows with business value
-- Flexible models for different business sizes
-- Transparent cost structure for budget planning
-
-## Getting Your AI Agent Pricing Right
-
-### Step 1: Understand Your Costs
-
-**Calculate True Unit Economics**:
+**Start Here**
+1. *Calculate your true variable costs* (compute, API calls, infrastructure)
+2. *Research customer budgets* for similar solutions in their workflow
+3. *Test with 3-5 design partners* to validate pricing assumptions
+4. *Choose your primary model* based on customer preference and unit economics
+5. *Plan pricing evolution* as you scale and add features
+**Questions to Ask**
+- What's the customer currently spending to solve this problem?
+- How predictable do they need their costs to be?
+- Would they prefer paying per usage or flat monthly fees?
+- What's their budget approval process for software purchases?
+- How do they measure ROI for productivity tools?
 - Computational costs per interaction
 - Infrastructure and scaling costs  
 - Customer acquisition and support costs
