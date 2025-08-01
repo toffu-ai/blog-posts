@@ -82,31 +82,31 @@ The key to effective AI-powered analysis is comprehensive processing that identi
 
 Rather than manually reviewing search terms, implement [AI-powered analytics workflows](https://toffu.ai/academy/analytics) systematically:
 
-**Week 1**: Set up comprehensive search term data collection and baseline analysis using [scheduled tasks](https://toffu.ai/academy/scheduled-tasks).
+## Getting Started with AI Analysis
 
-**Week 2**: Implement pattern recognition for high-value keyword discovery and match type optimization.
+**Step 1: Set Up Comprehensive Monitoring**
 
-**Week 3+**: Expand to predictive analysis that identifies emerging search trends before competitors.
-
-**Conversation-Based Search Term Optimization**
-
-Tell Toffu exactly what you want to achieve:
+Start a conversation with Toffu and explain your goals:
 
 ```
+"Set up automated search term analysis for my Google Ads campaigns. I want AI to analyze all search terms weekly, identify high-converting patterns, discover new keyword opportunities, and provide optimization recommendations. Create detailed reports in Google Sheets with actionable insights."
+```
+
+**Step 2: Define Your Analysis Focus**
 "I want comprehensive search term analysis that turns search behavior data into campaign optimization strategies. Create automated analysis that:
-
+Be specific about what you want to discover:
 1. Identifies high-converting search patterns not covered by existing keywords
-2. Discovers new keyword opportunities with traffic and conversion potential
-3. Recommends match type adjustments based on actual search variations
-4. Finds seasonal and trending search patterns for proactive optimization
-5. Generates actionable insights that directly improve campaign performance
-
-Focus on strategic intelligence rather than basic performance reporting."
 ```
+"Focus on: search terms with conversion rates above campaign average, high-volume terms not covered by existing keywords, seasonal patterns in search behavior, and opportunities to improve match type strategies. Prioritize insights that can directly improve campaign performance."
+```
+5. Generates actionable insights that directly improve campaign performance
+**Step 3: Configure Reporting**
+Focus on strategic intelligence rather than basic performance reporting."
+Set up regular insights delivery:
 
-**Advanced Search Term Intelligence**
-
-Unlike manual analysis that examines performance superficially, AI identifies complex strategic patterns:
+```
+"Generate weekly search term intelligence reports showing: top-performing search patterns, new keyword opportunities with volume estimates, match type optimization recommendations, and negative keyword suggestions. Email me actionable insights every Monday."
+```
 
 - **Intent segmentation**: Understanding different search intents within keyword themes
 - **Competitive analysis**: Identifying searches where competitors are winning traffic
