@@ -129,9 +129,8 @@ Different customer types need completely different pricing approaches. Here's wh
 Sarah Kim, who runs a personal AI writing assistant, shared her approach:
 > "We tried usage-based pricing first, but consumers hated unpredictable bills. Switched to $9.99/month unlimited and our conversions doubled overnight."
 *Framework That Works*:
-- *Free Tier*: Limited usage to demonstrate value
-- *Personal*: $9.99/month for standard usage
-- *Premium*: $19.99/month for unlimited access + advanced features
+Consumer AI agents ($5-50/month) work best with simple subscription tiers. User research shows consumers strongly prefer predictable monthly fees over usage-based pricing for personal productivity tools.
+*Framework That Works*:
 ### Small Business AI Agents ($50-500/month)
 - Enterprise: Custom annual contracts
 *Target*: SMBs wanting efficiency without complexity
