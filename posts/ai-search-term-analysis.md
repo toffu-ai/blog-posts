@@ -11,8 +11,7 @@ Your Google Ads search terms report shows 847 different queries last month. Thre
 
 This is the search term analysis trap most advertisers fall into. The data is there, but human analysis can't process the volume effectively. You end up skimming for obvious winners and losers while missing subtle patterns that could transform campaign performance.
 
-Jessica Chen, a PPC specialist at a B2B software company, put it perfectly: "I spend hours every week reviewing search terms, but I know I'm missing opportunities. There's just too much data to analyze properly, so I focus on the most obvious stuff and hope I'm not leaving money on the table."
-
+This is the search term analysis trap most advertisers fall into. The data is there, but human analysis can't process the volume effectively. You end up skimming for obvious winners and losers while missing subtle patterns that could transform campaign performance.
 AI changes this completely - turning overwhelming data dumps into systematic intelligence that finds opportunities human analysis would miss.
 
 ## The Manual Analysis Problem
