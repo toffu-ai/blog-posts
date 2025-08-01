@@ -23,9 +23,8 @@ Most Google Ads managers collect search term data but struggle to turn it into a
 A typical campaign generates thousands of search terms monthly. [GrowthIQ Digital's research](https://growthiqdigital.com/blog/google-ads-keyword-match-types-guide/) found that most advertisers analyze less than 10% of their search term data effectively.
 
 Tom Rodriguez, sharing his experience on Reddit, explained the reality:
-
-> "I have campaigns generating 10,000+ different search terms monthly. There's no way to manually analyze all of them for optimization opportunities, so I just focus on the obvious winners and losers."
-
+According to discussions on PPC forums, advertisers commonly report having campaigns that generate 10,000+ different search terms monthly with no realistic way to manually analyze all of them for optimization opportunities.
+This forces most advertisers to focus only on obvious high-volume winners and losers.
 **Missing the Patterns**
 
 Individual search terms tell part of the story, but the real insights come from recognizing patterns across hundreds of queries. [Search Engine Journal's analysis guide](https://www.searchenginejournal.com/google-ads-search-terms/) emphasizes systematic pattern recognition - something human analysis struggles with at scale.
