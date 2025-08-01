@@ -120,47 +120,37 @@ After analyzing successful AI businesses and countless pricing experiments, thes
 
 **Target**: Large organizations requiring custom solutions and compliance
 **Pricing Approach**: Custom value-based pricing with annual contracts
-**Examples**: Complex automation, industry-specific solutions, multi-department deployments
+## Pricing by Market Segment
 
-**Successful Framework**:
-- **Department License**: $2,500/month per department
-- **Company-Wide**: $10,000-25,000/month for organization-wide deployment
+Different customer types need completely different pricing approaches. Here's what actually works:
+### Consumer AI Agents ($5-50/month)
 - **Custom Enterprise**: $25,000+/month for specialized industry solutions
-
-## Competitive AI Agent Pricing Analysis 2025
-
-### Market Leaders and Their Strategies
-
-**OpenAI Business Model**: 
-- Developer API: Usage-based ($0.002-0.20 per 1K tokens)
-- ChatGPT Plus: $20/month subscription
-- Enterprise: Custom pricing starting at $25/user/month
-
-**Anthropic Approach**:
-- Claude API: Usage-based ($0.25-15.00 per million tokens)  
-- Claude Pro: $20/month subscription
+*Target*: Individual users seeking personal productivity or entertainment
+*Sweet Spot*: Simple subscription tiers with clear value props
+Sarah Kim, who runs a personal AI writing assistant, shared her approach:
+> "We tried usage-based pricing first, but consumers hated unpredictable bills. Switched to $9.99/month unlimited and our conversions doubled overnight."
+*Framework That Works*:
+- *Free Tier*: Limited usage to demonstrate value
+- *Personal*: $9.99/month for standard usage
+- *Premium*: $19.99/month for unlimited access + advanced features
+### Small Business AI Agents ($50-500/month)
 - Enterprise: Custom annual contracts
-
-**Microsoft Copilot Strategy**:
-- Microsoft 365 Copilot: $30/user/month (added to existing Office subscriptions)
-- Copilot Studio: Usage-based for custom agents
-- Enterprise: Volume discounting and custom packages
-
-**Google AI Pricing**:
-- Gemini Pro API: Usage-based ($0.50-15.00 per million tokens)
-- Workspace AI: $10-30/user/month depending on tier
+*Target*: SMBs wanting efficiency without complexity
+*Sweet Spot*: Value-focused tiers based on team size
+*Framework That Works*:
+- *Small Team*: $49/month for up to 5 users
+- *Growing Business*: $149/month for up to 25 users
+- *Professional*: $299/month for unlimited users + integrations
+### Enterprise AI Agents ($1,000-50,000/month)
 - Cloud AI: Custom enterprise pricing
-
-### Pricing Trends and Insights
-
-**Key Market Patterns**:
-1. **Standardization around $20/month** for consumer AI subscriptions
-2. **Usage-based API pricing** becoming dominant for developers
-3. **Per-user enterprise pricing** ranging from $25-100/month
-4. **Custom enterprise deals** for specialized implementations
-
-## Advanced AI Agent Pricing Strategies
-
+*Target*: Large organizations requiring custom solutions
+*Sweet Spot*: Value-based pricing with annual contracts
+David Rodriguez, VP of Sales at an enterprise AI company, explained:
+> "We don't talk price until we understand their current costs. If they're spending $50K/month on customer service labor, a $15K/month AI solution that cuts that in half is an easy sell."
+*Successful Framework*:
+- *Department License*: $2,500/month per department
+- *Company-Wide*: $10,000-25,000/month for org-wide deployment
+- *Custom Enterprise*: $25,000+/month for specialized solutions
 ### Dynamic Pricing Models
 
 **Concept**: Adjust pricing based on demand, computational costs, and customer value
