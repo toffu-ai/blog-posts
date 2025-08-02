@@ -84,9 +84,13 @@ Dynamic audiences adapt automatically. They update as customer behavior changes,
 - Manages audience sizes to ensure consistent serving
 
 ## Beyond Traditional Customer Match
-
-Dynamic lookalike creation goes beyond basic customer email lists:
-
+*Ready to build lookalike audiences that actually work? [Toffu](https://toffu.ai) creates dynamic lookalike segments that update automatically and optimize based on real performance data.*
+*This is Part 3 of our 5-part Audience Management Automation series:*
+- *[Part 1: Custom Audience Creation](https://toffu.ai/blog/audience-management-automation-custom-audiences)*
+- *[Part 2: Audience Exclusions & Overlap Management](https://toffu.ai/blog/audience-exclusions-overlap-management-automation)*
+- *Part 3: Dynamic Lookalike Audiences (you are here)*
+- *[Part 4: Cross-Channel Audience Synchronization](https://toffu.ai/blog/cross-channel-audience-synchronization-automation)*
+- *[Part 5: Performance Optimization & Reporting](https://toffu.ai/blog/audience-performance-optimization-reporting-automation)*
 **Value-Based Segments**: Separate lookalikes for high-value vs low-value customers, so you're not diluting performance with mixed signals.
 
 **Behavioral Patterns**: Lookalikes based on website behavior, purchase timing, and engagement patterns rather than just demographic data.
