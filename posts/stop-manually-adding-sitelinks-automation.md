@@ -44,58 +44,38 @@ The PPC managers who thrive in the next few years will be the ones who embrace a
 It's not about replacing human expertise - it's about using that expertise where it matters most. Let AI handle the repetitive setup work. You focus on the stuff that actually requires thinking.
 ## Where to Start
 If this resonates with you, here's what I'd suggest. First, track how much time you're actually spending on sitelinks setup and management. I bet it's more than you think.
-Then pick one or two campaigns and test an automated approach. Don't try to automate everything at once - that's a recipe for stress. Start small, see how it works, then expand.
-Most importantly, measure the results. How much time did you save? How did performance change? What could you accomplish with those extra hours?
-The goal isn't to automate everything just because you can. It's to automate the stuff that doesn't require your brain so you can use your brain on the stuff that matters.
----
-Look, I know change is hard. Especially when you're already busy and stressed and adding "learn new automation tools" to your to-do list feels overwhelming. But the alternative is continuing to spend your weekends adding sitelinks manually while your competitors get ahead by working smarter.
-The choice is yours. Keep clicking through setup screens, or let AI handle the busy work while you focus on strategy. Which sounds better?
-*If you're ready to stop wasting time on manual sitelinks setup, [Toffu](https://toffu.ai) can help you automate the tedious stuff so you can focus on what actually matters.*
-### Real Impact: From Hours to Minutes
-
-With automation, what used to take hours now happens in minutes:
-
-- **New campaigns**: AI instantly adds relevant sitelinks
-- **Optimization**: Automatic testing of different sitelink combos
-- **Monitoring**: Real-time alerts when sitelinks aren't working
-- **Scaling**: New campaigns get optimized sitelinks automatically
-
-## Beyond Basic Automation: Smarter Sitelinks
-
-Modern AI doesn't just automate the boring work—it makes sitelinks smarter.
-
-### Dynamic Optimization
-
-Advanced automation looks at:
-- **What users are searching for**: Matching sitelinks to specific keywords
-- **Seasonal patterns**: Adjusting for holidays, sales cycles, etc.
-- **What's working**: Learning which combinations perform best
-- **Competition**: Adapting to what competitors are doing
-
-### Learning Across Campaigns
-
-AI systems spot patterns across your whole account:
-- Which sitelinks work for different industries
-- Best sitelink combos for different stages of the buyer journey
-- Performance differences between branded and non-branded campaigns
-- Best practices that work across multiple clients
-
-## Making the Switch: What to Expect
-
-### Quick Wins
-
-Within the first week of automated sitelinks:
-- **Time back**: Get 10-15 hours per month back
-- **Better coverage**: All eligible campaigns have sitelinks
-- **Consistent optimization**: No more forgotten or outdated sitelinks
-
-### Long-Term Gains
-
-Over time, automated systems deliver:
-- **Better CTRs**: AI finds the winning combinations
-- **Higher Quality Scores**: More relevant sitelinks improve ad relevance
-- **More conversions**: Better user experience drives more actions
-
+## How Toffu Automates Sitelinks (The Actual Solution)
+Here's where things get practical. Instead of you clicking through setup screens for hours, [Toffu's campaign optimization workflows](https://toffu.ai/academy/campaign-optimization) can handle the entire sitelinks process automatically.
+**Setting Up Automated Sitelinks with Toffu**
+The setup is conversational - you just tell Toffu what you want:
+```
+"I want to automate sitelinks for all my Google Ads campaigns. Analyze my website, create relevant sitelinks with proper character limits, and apply them across campaigns based on what makes sense for each one. Focus on my main service pages and top-converting landing pages."
+```
+Toffu will then:
+- Scan your website to identify the best pages for sitelinks
+- Create sitelink text that fits Google's character limits
+- Write compelling descriptions that drive clicks
+- Apply sitelinks at the right campaign and ad group levels
+- Set up tracking to monitor performance
+**Advanced Sitelinks Automation**
+Once basic automation is working, you can get more sophisticated:
+```
+"Set up dynamic sitelinks that change based on keywords and seasons. For my 'running shoes' campaigns, prioritize product category pages. For branded campaigns, focus on customer service and company info pages. Update sitelinks automatically when I add new products or pages."
+```
+This connects to Toffu's [scheduled task automation](https://toffu.ai/academy/scheduled-tasks) - you can have sitelinks update automatically when your website changes or performance data suggests better options.
+**Monitoring and Optimization**
+The best part about automated sitelinks? Continuous improvement without your involvement:
+```
+"Monitor sitelinks performance across all campaigns. If certain sitelinks consistently underperform, replace them with better options. Send me weekly reports showing which sitelinks drive the most clicks and conversions, and suggest improvements."
+```
+This uses Toffu's [analytics and reporting capabilities](https://toffu.ai/academy/analytics) to track performance and make data-driven optimizations.
+But it's not just about speed (though going from hours to minutes is pretty nice). Smart automation can do things you'd never have time for manually.
+It can match sitelinks to specific keywords so your "running shoes" ads show different links than your "basketball shoes" ads. It can adjust for seasonal trends - highlighting winter gear in December, swimwear in June. It can test different sitelink combinations and automatically use the ones that perform better.
+The really cool part is cross-campaign learning. If certain types of sitelinks work well for one client in your industry, the AI can apply those insights across similar campaigns. You're not starting from scratch every time.
+**Integration with Your Existing Workflow**
+The automation doesn't replace your expertise - it amplifies it. You still make strategic decisions about which pages matter most, what messaging resonates with your audience, and how sitelinks fit into your overall campaign strategy.
+But instead of spending hours on manual setup, you spend minutes giving Toffu strategic direction. This is similar to how [AI automation works for negative keywords](https://toffu.ai/blog/ai-automation-negative-keywords-google-ads) - you focus on strategy while AI handles execution.
+## Beyond Basic Automation: What's Possible
 ## The Future of Google Ads Management
 
 Manual sitelinks setup is just one example of the repetitive tasks that eat up PPC managers' time. The future belongs to marketers who use automation for routine stuff while focusing their skills on strategy and optimization.
