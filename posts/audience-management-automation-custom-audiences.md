@@ -45,8 +45,6 @@ Every account has audiences named things like:
 
 Good luck figuring out what any of those contain or which campaigns should use them.
 
-As [jmorr93 struggled with on r/PPC](https://reddit.com/r/PPC/comments/1ie0yfv/customer_match_lists_targeting_question/): understanding how different audience types work together is confusing, especially across multiple campaign types.
-
 ## How Toffu Automates This
 
 Instead of manual audience creation, [Toffu's campaign optimization](https://toffu.ai/academy/campaign-optimization) handles everything automatically.
