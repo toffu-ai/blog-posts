@@ -90,9 +90,13 @@ Automated cross-channel sync enables targeting strategies impossible to manage m
 **Channel-Specific Exclusions**: High-value customers excluded from discount campaigns across all channels automatically.
 
 **Cross-Platform Lookalikes**: Lookalike audiences built from unified customer data perform better than platform-specific segments.
-
-**Unified Suppression**: Converters suppressed from prospecting across all channels immediately after conversion.
-
+*Ready to stop managing audience data in silos? [Toffu](https://toffu.ai) synchronizes customer data and audience segments across all your marketing channels so you get accurate attribution and coordinated targeting.*
+*This is Part 4 of our 5-part Audience Management Automation series:*
+- *[Part 1: Custom Audience Creation](https://toffu.ai/blog/audience-management-automation-custom-audiences)*
+- *[Part 2: Audience Exclusions & Overlap Management](https://toffu.ai/blog/audience-exclusions-overlap-management-automation)*
+- *[Part 3: Dynamic Lookalike Audiences](https://toffu.ai/blog/dynamic-lookalike-audiences-automation)*
+- *Part 4: Cross-Channel Audience Synchronization (you are here)*
+- *[Part 5: Performance Optimization & Reporting](https://toffu.ai/blog/audience-performance-optimization-reporting-automation)*
 ## Real Results
 
 Teams using cross-channel audience synchronization report:
