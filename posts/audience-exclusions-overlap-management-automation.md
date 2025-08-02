@@ -88,7 +88,7 @@ Teams using automated exclusion management report:
 - *Part 2: Audience Exclusions & Overlap Management (you are here)*
 - *[Part 3: Dynamic Lookalike Audiences](https://toffu.ai/blog/dynamic-lookalike-audiences-automation)*
 - *[Part 4: Cross-Channel Audience Synchronization](https://toffu.ai/blog/cross-channel-audience-synchronization-automation)*
-- *[Part 5: Performance Optimization & Reporting](https://toffu.ai/blog/audience-performance-optimization-reporting-automation)*
+- *[Part 4: Cross-Channel Audience Data Management](https://toffu.ai/blog/cross-channel-audience-synchronization-automation)*
 
 ## Integration with Campaign Strategy
 
