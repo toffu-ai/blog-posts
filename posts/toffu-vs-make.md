@@ -155,13 +155,12 @@ Build a complex scenario with multiple branches handling different lead scores, 
 The pattern's obvious: Make turns you into a workflow architect, while Toffu lets you focus on [marketing strategy](https://toffu.ai/use-cases/social-media-strategy).
 
 ## When Make Might Still Make Sense
-
-Despite all its problems, there are a few scenarios where Make's visual approach might still be worth it:
-
-### Highly Regulated Industries
-
-Organizations with strict compliance requirements might need the explicit audit trail that visual workflows provide, though AI systems are getting more transparent every day.
-
+*Ready to choose the right automation platform? Try [Toffu](https://toffu.ai/) for conversation-driven marketing automation that doesn't require technical workflows.*
+*Compare more automation tools:*
+- *Toffu vs Make (you are here)*
+- *[Toffu vs N8N: Prompt-Based vs Complex Workflows](https://toffu.ai/blog/toffu-vs-n8n-prompt-based-automation-vs-complex-workflows)*
+- *[Zapier vs N8N Comparison](https://toffu.ai/blog/zapier-vs-n8n)*
+- *[N8N vs Clay Analysis](https://toffu.ai/blog/n8n-vs-clay)*
 ### Existing Make Infrastructure
 
 Teams that have already sunk tons of time into Make expertise and have working scenarios might stick with what they know rather than switch.
