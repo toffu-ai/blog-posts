@@ -91,13 +91,12 @@ With [Toffu's Canva integration](https://toffu.ai/tools/canva) and [Instagram pu
 **Week 1**: Set up Canva integration and automated visual generation across all Instagram formats
 **Week 2**: Optimize design templates, timing, and visual themes based on engagement patterns
 **Week 3+**: Scale visual output with advanced Story/Reel designs and trend integration
-
-This connects to [social media workflows](https://toffu.ai/academy/social-media) and [content marketing strategies](https://toffu.ai/academy/content-marketing) for comprehensive visual brand building.
-
-## Results from Automated Instagram Visual Creation
-
-Companies using Toffu's Canva integration typically see:
-- Higher engagement rates vs manually designed posts
+*Learn more about [Toffu's Canva integration](https://toffu.ai/tools/canva), [Instagram publishing](https://toffu.ai/tools/instagram), [scheduled tasks](https://toffu.ai/academy/scheduled-tasks), [social media workflows](https://toffu.ai/academy/social-media), and [comprehensive marketing tools](https://toffu.ai/tools).*
+*Part of our social media automation series:*
+- *[LinkedIn Content Automation](https://toffu.ai/blog/linkedin-content-automation)*
+- *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-marketing-automation-ai-scheduling)*
+- *Instagram Content Automation (you are here)*
+- *[AI Social Listening Automation](https://toffu.ai/blog/how-to-use-ai-automation-for-social-listening)*
 - Major time savings (3-5 hours to minutes) in visual creation
 - Consistent visual branding across all Instagram formats
 - Better design quality through Canva's professional templates
