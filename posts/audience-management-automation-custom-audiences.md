@@ -81,6 +81,10 @@ Start with your core remarketing audiences. Let automation handle the creation, 
 
 ---
 
-*Ready to stop wasting time on audience admin? [Toffu](https://toffu.ai) automates custom audience creation and management so you can focus on strategy instead of spreadsheets.*
-
-*This is Part 1 of our Audience Management series. Coming up: audience exclusions, lookalike creation, and performance optimization.*
+*Ready to escape the audience management nightmare? [Toffu](https://toffu.ai) automates custom audience creation and management so you can focus on strategy instead of spreadsheets.*
+*This is Part 1 of our 5-part Audience Management Automation series:*
+- *Part 1: Custom Audience Creation (you are here)*
+- *[Part 2: Audience Exclusions & Overlap Management](https://toffu.ai/blog/audience-exclusions-overlap-management-automation)*
+- *[Part 3: Dynamic Lookalike Audiences](https://toffu.ai/blog/dynamic-lookalike-audiences-automation)*
+- *[Part 4: Cross-Channel Audience Synchronization](https://toffu.ai/blog/cross-channel-audience-synchronization-automation)*
+- *[Part 5: Performance Optimization & Reporting](https://toffu.ai/blog/audience-performance-optimization-reporting-automation)*
