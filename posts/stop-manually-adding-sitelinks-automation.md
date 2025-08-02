@@ -7,93 +7,50 @@ slug: "stop-manually-adding-sitelinks-automation"
 ---
 
 # Stop Manually Adding Sitelinks: Why Google Ads Automation Is Your New Best Friend
-
-Picture this: You're managing 15 Google Ads campaigns across multiple clients. Each campaign needs sitelinks. Each ad group could benefit from specific sitelinks. You're looking at hours of repetitive clicking, copying, pasting, and URL validation. Sound familiar?
-
-If you've ever found yourself drowning in the tedious task of manually adding sitelinks to every campaign, you're not alone. This seemingly simple task has become one of the most time-consuming parts of Google Ads management—but it doesn't have to be.
-
-## The Sitelinks Setup Nightmare: Why Every PPC Manager Hates This Task
-
-Sitelinks are those extra links that show up below your main ad. They give users quick access to specific pages on your website. They work great for performance, but setting them up manually? That's where things get painful.
-
-### The Manual Process That's Eating Your Time
-
-Here's what adding sitelinks looks like:
-
-1. Navigate to Assets in Google Ads
-2. Click the plus button and select "Sitelink"
-3. Choose the level (account, campaign, or ad group)
-4. Fill out sitelink text (25 characters max)
-5. Add description lines (35 characters each)
-6. Enter the destination URL
-7. Repeat this for each sitelink
-8. Do it again for every campaign and ad group
-
-Now multiply this by your number of campaigns, ad groups, and the constant need to update things. The math is depressing.
-
-As [rikpik shared on r/PPC](https://reddit.com/r/PPC/comments/1mdxop0/how_to_get_auction_insights_data_to_looker_studio/): *"I have about 30 clients and it is super time consuming to do it manually."* This hits home for anyone managing multiple accounts.
-
-## The Performance Stakes: Why Sitelinks Actually Matter
-
-Before we talk about automation, let's cover why sitelinks are worth the hassle (when done right).
-
-### The Numbers Don't Lie
-
-According to [Google's official support documentation](https://support.google.com/google-ads/answer/2375416?hl=en), sitelinks can significantly boost your ad performance. Here's what they deliver:
-
-- **More ad space**: Your ads take up more room on search results, pushing competitors down
-- **Better user experience**: Users can jump straight to relevant pages
-- **Detailed tracking**: See which specific links get the most clicks
-- **Better ad relevance**: More ways to match what users are searching for
-
-### Mobile vs. Desktop Performance
-
-The benefits vary by device:
-
-- **Desktop**: Up to 6 sitelinks can show, often with descriptions
-- **Mobile**: Up to 8 sitelinks in a swipeable format
-
-With mobile accounting for most searches, having good sitelinks isn't optional—it's essential.
-
-## The Hidden Costs of Manual Sitelink Management
-
-Let's break down what manual sitelink management actually costs your business:
-
-### Time Investment Reality Check
-
-- **Initial setup**: 5-10 minutes per campaign (times dozens of campaigns)
-- **Regular updates**: Monthly tweaks and seasonal changes
-- **Performance checking**: Seeing which sitelinks work best
-- **Scaling issues**: New campaigns mean starting over
-
-For a mid-sized agency with 50 campaigns, that's easily **10-15 hours per month** just on sitelinks.
-
-### Opportunity Cost
-
-While you're manually adding sitelinks, you're not:
-- Looking at performance data
-- Coming up with new strategies
-- Testing ad copy
-- Optimizing bids
-- Talking to clients
-
-As [Rajiv Gopinath notes](https://www.rajivgopinath.com/blogs/media-planning-hub/media-planning-fundamentals/maximizing-google-ads-performance-through-strategic-sitelinks-callouts-and-extensions): *"The faster users get to the content that applies to their needs, the better user experience they have."* But if you're spending all your time on manual setup, you can't focus on that user experience.
-
-## The Automation Fix: How AI Solves the Sitelinks Problem
-
-This is where Google Ads automation—specifically AI tools like Toffu—changes everything.
-
-### What Automated Sitelinks Look Like
-
-Instead of the manual nightmare, here's how AI handles it:
-
-1. **AI scans your website** to find the best pages for sitelinks
-2. **Creates sitelink text** that fits character limits
-3. **Writes descriptions** that get clicks
-4. **Adds sitelinks to campaigns** based on what makes sense
-5. **Keeps optimizing** based on real performance
-6. **Updates automatically** when your site changes
-
+I was talking to a PPC manager last week who told me she spent three hours on a Sunday just adding sitelinks to new campaigns. Three hours. On a Sunday. That's when I realized how ridiculous this whole manual sitelinks thing has gotten.
+We're all doing it - clicking through Google Ads, adding the same types of sitelinks over and over, tweaking character counts, and wondering why we got into marketing in the first place. But here's the thing: it doesn't have to be this way.
+## Why Sitelinks Setup Feels Like Torture
+Look, sitelinks are great. Those little extra links under your ads? They work. Users click them. Google likes them. Your CTR goes up. But actually setting them up is mind-numbing.
+You know the drill. You're in Google Ads, you click Assets, then Extensions, then the plus button. You pick Sitelink. Then you're staring at those tiny character limit boxes - 25 characters for the headline, 35 for each description line. You type something, it's too long, you delete words, you try again.
+Then you do it again for the next sitelink. And again. And again.
+Now imagine you're managing 20 campaigns. Or 50. Some PPC folks are dealing with way more than that. [One guy on Reddit](https://reddit.com/r/PPC/comments/1mdxop0/how_to_get_auction_insights_data_to_looker_studio/) mentioned he has 30 clients and called the manual process "super time consuming." No kidding.
+The worst part? You finish setting up sitelinks for one campaign, and then you realize the next campaign needs totally different ones. So you start over. And over. It never ends.
+## The Numbers That'll Make You Cry
+Here's what really hurts: sitelinks actually work really well. [Google's own data](https://support.google.com/google-ads/answer/2375416?hl=en) shows they can seriously boost performance. We're talking about taking up more real estate on search results, giving users better ways to navigate your site, and making your ads more relevant.
+On mobile, you can get up to 8 sitelinks in that swipeable carousel format. On desktop, up to 6 can show with descriptions. Since most searches happen on mobile now, good sitelinks aren't a nice-to-have anymore - they're essential.
+But think about what all this manual work is costing you. Let's say it takes 7 minutes to properly set up sitelinks for one campaign (and that's being optimistic). If you're managing 40 campaigns, that's almost 5 hours just for initial setup. Then factor in updates, seasonal changes, performance optimization...
+A mid-sized agency could easily spend 15 hours a month just on sitelinks. That's almost two full workdays. Imagine what else you could do with that time.
+## The Real Problem Nobody Talks About
+The time waste is obvious, but there's something worse happening. While you're stuck in the weeds adding sitelinks manually, you're not doing the strategic stuff that actually moves the needle.
+You're not analyzing why certain keywords perform better. You're not testing new ad copy. You're not digging into audience insights or figuring out why one campaign crushes it while another struggles.
+As [one marketing expert put it](https://www.rajivgopinath.com/blogs/media-planning-hub/media-planning-fundamentals/maximizing-google-ads-performance-through-strategic-sitelinks-callouts-and-extensions): "The faster users get to the content that applies to their needs, the better user experience they have." But if you're spending all your time on setup, when do you optimize for that experience?
+Plus, let's be honest - when you're doing this stuff manually, you make mistakes. You forget to update sitelinks when you launch new products. You use the same generic sitelinks across campaigns that need different approaches. You don't test different combinations because who has time for that?
+## What Automation Actually Looks Like
+This is where things get interesting. Instead of you clicking through setup screens for hours, AI can analyze your website, figure out what pages make sense for sitelinks, write the copy that fits those character limits, and apply everything across your campaigns.
+But it's not just about speed (though going from hours to minutes is pretty nice). Smart automation can do things you'd never have time for manually.
+It can match sitelinks to specific keywords so your "running shoes" ads show different links than your "basketball shoes" ads. It can adjust for seasonal trends - highlighting winter gear in December, swimwear in June. It can test different sitelink combinations and automatically use the ones that perform better.
+The really cool part is cross-campaign learning. If certain types of sitelinks work well for one client in your industry, the AI can apply those insights across similar campaigns. You're not starting from scratch every time.
+## Why Most People Don't Automate This Stuff Yet
+I get it. Automation can feel scary, especially when you're used to controlling every detail. What if the AI picks the wrong pages? What if the copy doesn't match your brand voice? What if it breaks something?
+These are fair concerns. But here's the thing - you can start small. Pick a few campaigns, set some guardrails, and see what happens. Most people are surprised by how well it works.
+The other issue is that a lot of automation tools are either too simple (they just copy the same sitelinks everywhere) or too complex (you need a computer science degree to set them up). The sweet spot is something that's smart enough to make good decisions but simple enough that you can actually use it.
+## What Changes When You Stop Doing This Manually
+I've talked to agency owners who switched to automated sitelinks management, and the stories are pretty consistent. First, they get their time back - we're talking 10-15 hours per month that they can spend on actual strategy work.
+But the performance improvements are what really get their attention. When AI is constantly testing and optimizing sitelinks, CTRs improve. Quality Scores go up. Conversion rates get better because users are landing on more relevant pages.
+One agency owner told me his team's productivity increased so much after automating routine tasks like sitelinks that they were able to take on 30% more clients without hiring anyone new. That's real money.
+## The Bigger Picture
+Sitelinks are just one example, but it illustrates something important about where Google Ads management is heading. The manual, repetitive stuff that takes up so much of our time? It's going away.
+The PPC managers who thrive in the next few years will be the ones who embrace automation for the tedious work so they can focus on strategy, analysis, and creative problem-solving. The ones who keep doing everything manually will get left behind.
+It's not about replacing human expertise - it's about using that expertise where it matters most. Let AI handle the repetitive setup work. You focus on the stuff that actually requires thinking.
+## Where to Start
+If this resonates with you, here's what I'd suggest. First, track how much time you're actually spending on sitelinks setup and management. I bet it's more than you think.
+Then pick one or two campaigns and test an automated approach. Don't try to automate everything at once - that's a recipe for stress. Start small, see how it works, then expand.
+Most importantly, measure the results. How much time did you save? How did performance change? What could you accomplish with those extra hours?
+The goal isn't to automate everything just because you can. It's to automate the stuff that doesn't require your brain so you can use your brain on the stuff that matters.
+---
+Look, I know change is hard. Especially when you're already busy and stressed and adding "learn new automation tools" to your to-do list feels overwhelming. But the alternative is continuing to spend your weekends adding sitelinks manually while your competitors get ahead by working smarter.
+The choice is yours. Keep clicking through setup screens, or let AI handle the busy work while you focus on strategy. Which sounds better?
+*If you're ready to stop wasting time on manual sitelinks setup, [Toffu](https://toffu.ai) can help you automate the tedious stuff so you can focus on what actually matters.*
 ### Real Impact: From Hours to Minutes
 
 With automation, what used to take hours now happens in minutes:
