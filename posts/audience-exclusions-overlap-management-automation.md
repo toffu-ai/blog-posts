@@ -82,9 +82,13 @@ Automated exclusion management enables strategies impossible to maintain manuall
 
 Teams using automated exclusion management report:
 - 25-40% reduction in wasted spend from audience overlap
-- 30% improvement in campaign efficiency 
-- 60% time savings on exclusion maintenance
-- Better overall account performance from eliminated bid competition
+*Ready to stop your campaigns from competing against each other? [Toffu](https://toffu.ai) automates audience exclusions and overlap management so your budget goes to the right people at the right time.*
+*This is Part 2 of our 5-part Audience Management Automation series:*
+- *[Part 1: Custom Audience Creation](https://toffu.ai/blog/audience-management-automation-custom-audiences)*
+- *Part 2: Audience Exclusions & Overlap Management (you are here)*
+- *[Part 3: Dynamic Lookalike Audiences](https://toffu.ai/blog/dynamic-lookalike-audiences-automation)*
+- *[Part 4: Cross-Channel Audience Synchronization](https://toffu.ai/blog/cross-channel-audience-synchronization-automation)*
+- *[Part 5: Performance Optimization & Reporting](https://toffu.ai/blog/audience-performance-optimization-reporting-automation)*
 
 ## Integration with Campaign Strategy
 
