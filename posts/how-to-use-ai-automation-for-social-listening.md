@@ -66,15 +66,13 @@ That's exactly what we're going to fix.
 5. **Define what matters**: Tell Toffu:
 ```
 "I want to be alerted immediately if:
-- Someone complains about our product with negative sentiment
-- There's a discussion comparing us to competitors
-- Someone asks for solutions in our industry
-- There's high engagement on posts mentioning our brand"
-```
-
-### Connect Reddit Integration
-
-6. **Connect your Reddit account**: Toffu will guide you through connecting Reddit using OAuth authentication. This lets it monitor discussions across all relevant subreddits.
+**Start your social listening conversation with automated tracking today**: [toffu.ai](https://toffu.ai/)
+Your brand's reputation is being shaped right now in Reddit communities. The question is whether you'll have the data and insights needed to respond effectively and measure your success.
+*Part of our social media automation series:*
+- *[LinkedIn Content Automation](https://toffu.ai/blog/linkedin-content-automation)*
+- *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-marketing-automation-ai-scheduling)*
+- *[Instagram Automation with Canva](https://toffu.ai/blog/instagram-canva-automation)*
+- *AI Social Listening Automation (you are here)*
 
 ## Step 2: Create Your Social Listening Tracking Sheet
 
