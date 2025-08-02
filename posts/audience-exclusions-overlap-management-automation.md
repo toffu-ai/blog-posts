@@ -74,9 +74,8 @@ Automated exclusion management enables strategies impossible to maintain manuall
 
 **Funnel-Based Exclusions**: Users move through exclusion stages automatically. Website visitors excluded from awareness campaigns. Cart abandoners excluded from top-funnel targeting.
 
-**Time-Based Exclusions**: Recent converters excluded from acquisition campaigns for 30 days, then re-enter prospecting pools.
-
-**Value-Based Exclusions**: High-value customers get priority targeting. Lower-value segments excluded when higher-value audiences are available.
+When [budget reallocation](https://toffu.ai/blog/budget-reallocation-automation-winning-campaigns) moves money between campaigns, exclusions adjust automatically to prevent overlap.
+When new [custom audiences](https://toffu.ai/blog/audience-management-automation-custom-audiences) are created, exclusion rules apply immediately across relevant campaigns.
 
 ## Real Results
 
