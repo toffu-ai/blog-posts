@@ -32,11 +32,11 @@ Smart Bidding can optimize performance, but it introduces risks that manual bidd
 
 ### Real Reddit Experiences
 
-The Google Ads community on Reddit is full of Smart Bidding horror stories. One advertiser shared: *"I recently increased budgets on Google PMax campaigns for a beauty/makeup client of mine that typically performs extremely well. They usually average around a 30 Google ROAS. We got additional budget this month, so I increased budgets... and performance has declined significantly - ROAS now averaging around a 9."*
+The Google Ads community on Reddit is full of Smart Bidding horror stories. One advertiser [shared their experience](https://www.reddit.com/r/adwords/comments/1gpptk2/google_ads_increased_budget_made_performance_worse/): *"I recently increased budgets on Google PMax campaigns for a beauty/makeup client of mine that typically performs extremely well. They usually average around a 30 Google ROAS. We got additional budget this month, so I increased budgets... and performance has declined significantly - ROAS now averaging around a 9."*
 
-Another user reported: *"I have had already more than 5 different days this month when google has overspent by about 25% on my campaign."* This pattern of unexpected overspending is exactly why protection systems are crucial.
+Another user [reported frequent overspending issues](https://www.reddit.com/r/PPC/comments/15xxpqx/when_campaign_overspends_what_is_it_trying_to/): *"I have had already more than 5 different days this month when google has overspent by about 25% on my campaign."* This pattern of unexpected overspending is exactly why protection systems are crucial.
 
-As one experienced advertiser noted: *"Smart Bidding is great, but also has flaws. If you're not careful, it will overspend like crazy. The biggest danger of widely adopted automated bidding is the lack of control."*
+As one experienced advertiser [noted about automation risks](https://medium.com/@ivitskiy/mastering-google-ads-portfolio-bid-strategies-for-better-campaigns-862f21d81918): *"Smart Bidding is great, but also has flaws. If you're not careful, it will overspend like crazy. The biggest danger of widely adopted automated bidding is the lack of control."*
 
 ## AI-Powered Protection Strategies
 
@@ -96,7 +96,7 @@ Recommended Bid Limits:
 - Portfolio limits: Prevent single campaigns from dominating budget
 ```
 
-As one Reddit user wisely noted: *"You can increase budgets but it will have to be something like (max) 20% every 14 days, if you have smart bidding enabled. Reducing budgets will not work as expected since Google Ads deliver ads notoriously slower compared to other platforms."*
+As one Reddit user [wisely noted about budget scaling](https://www.reddit.com/r/PPC/comments/1iq8l7k/google_ads_increase_in_budget_forces_relearning/): *"You can increase budgets but it will have to be something like (max) 20% every 14 days, if you have smart bidding enabled. Reducing budgets will not work as expected since Google Ads deliver ads notoriously slower compared to other platforms."*
 
 #### Portfolio Bidding Protection
 
@@ -206,7 +206,7 @@ Target ROAS Safeguards:
 - AI chasing low-quality conversions to maximize volume
 - Seasonal spikes causing budget allocation problems
 
-**Real User Experience:** A Reddit advertiser shared: *"Our Google reps have always told us that if you have a $100/day budget the campaign may spend more or less than $100 on any given day, but it will not spend more than $3k over a 30 day period. Typically this happens on value based bidding strategies (tROAS and MCV especially) where the campaign sees good search volume and goes after it even if budget is capped."*
+**Real User Experience:** A Reddit advertiser [explained Google's spending patterns](https://www.reddit.com/r/PPC/comments/15xxpqx/when_campaign_overspends_what_is_it_trying_to/): *"Our Google reps have always told us that if you have a $100/day budget the campaign may spend more or less than $100 on any given day, but it will not spend more than $3k over a 30 day period. Typically this happens on value based bidding strategies (tROAS and MCV especially) where the campaign sees good search volume and goes after it even if budget is capped."*
 
 **Protection Measures:**
 ```
@@ -287,6 +287,9 @@ Protection systems need regular testing. Run monthly "what-if" scenarios to vali
 According to [Google's Smart Bidding documentation](https://support.google.com/google-ads/answer/6263057), budget changes of more than 20% can trigger a new learning phase, making gradual adjustments crucial.
 
 ### 3. Continuous Learning
+
+One Reddit user [shared valuable insights about learning phases](https://www.reddit.com/r/PPC/comments/1iq8l7k/google_ads_increase_in_budget_forces_relearning/): *"Less than 20% changes in any metric 'should' not trigger any relearning. 15% or less to be safe. Pausing for 24 hours won't hurt anything (assuming you've been running a few months and have a data history)."*
+
 - Monitor protection rule effectiveness
 - Adjust thresholds based on performance data
 - Stay updated on Google Ads AI developments
@@ -356,7 +359,7 @@ Smart Bidding protection isn't about limiting AI capabilities—it's about creat
 
 The key is finding the right balance between automation and control. Start with basic protection measures and gradually implement more sophisticated AI-powered safeguards as you gain confidence and experience. Remember that the goal is to protect your campaigns while still allowing AI to deliver the performance improvements that make Smart Bidding valuable.
 
-Research consistently shows that accounts with proper protection systems significantly outperform those without safeguards. As one Reddit user summarized: *"Less than 20% changes in any metric 'should' not trigger any relearning. 15% or less to be safe."* This type of informed, data-driven approach to Smart Bidding management is what separates successful campaigns from expensive learning experiences.
+Research consistently shows that accounts with proper protection systems significantly outperform those without safeguards. As one Reddit user [summarized the learning phase rules](https://www.reddit.com/r/PPC/comments/1iq8l7k/google_ads_increase_in_budget_forces_relearning/): *"Less than 20% changes in any metric 'should' not trigger any relearning. 15% or less to be safe."* This type of informed, data-driven approach to Smart Bidding management is what separates successful campaigns from expensive learning experiences.
 
 Effective Smart Bidding protection requires ongoing attention and optimization. Regularly review your protection thresholds, analyze the effectiveness of your safeguards, and adjust your systems based on changing market conditions and campaign performance. With the right protection framework in place, you can confidently leverage Smart Bidding to drive better results while minimizing risk.
 
