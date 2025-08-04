@@ -99,7 +99,7 @@ When using portfolio bidding strategies, implement safeguards across the entire 
 - *[Budget Reallocation Automation](https://toffu.ai/blog/budget-reallocation-automation-winning-campaigns)*
 - *[Sitelinks Automation](https://toffu.ai/blog/stop-manually-adding-sitelinks-automation)*
 - Search impression share changes
-```
+
 
 ### Phase 2: Automated Rule Implementation
 
