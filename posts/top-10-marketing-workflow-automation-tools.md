@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Marketing Workflow Automation Tools That Actually Work in 2025"
 description: "Compare the best marketing automation tools with real user reviews, G2 ratings, and honest assessments. From Toffu AI to HubSpot - find the right tool for your business."
-image: https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/top-10-marketing-workflow-automation-tools-hero.avif
+image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/top-10-marketing-workflow-automation-tools-hero.jpg
 slug: "top-10-marketing-workflow-automation-tools"
 ---
 
