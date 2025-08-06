@@ -2,7 +2,7 @@
 title: "How We Used Toffu AI to Turn 400+ Misspelling Searches Into Content Gold"
 description: "Real-time demonstration: Watch as we use our own platform to solve a brand misspelling problem and capture 400+ monthly searches for Toffuu, Toffoo, and Tofuro AI."
 date: "2025-01-06"
-image: "/images/blog/toffu-misspelling-content-strategy.png"
+image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/927e5c16-ed0a-4209-b266-58a8faeecabe.png"
 slug: "how-we-used-toffu-ai-to-capture-misspelling-searches"
 ---
 
