@@ -1,8 +1,12 @@
 # Top 10 Subreddits That Allow Self-Promotion in 2025
 
+![Top 10 Subreddits for Self-Promotion in 2025](https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/reddit-self-promotion-subreddits-2025.png)
+
 *A comprehensive guide for marketers, entrepreneurs, and creators looking to promote their projects on Reddit without getting banned.*
 
 Reddit's anti-marketing culture can be intimidating, but there are specific subreddits where self-promotion is not only allowed but encouraged. Based on extensive research and community feedback, here are the top 10 subreddits where you can share your projects, products, and services.
+
+For broader social media engagement strategies, check out our guide on [AI Automation for Social Listening](https://toffu.ai/blog/how-to-use-ai-automation-for-social-listening) to monitor conversations across platforms.
 
 ## The Golden Rules Before You Start
 
@@ -289,3 +293,7 @@ Daily beta testing opportunities. Focused on products in development phase.
 Reddit self-promotion success requires genuine community participation, high-quality content, and strategic patience. Focus on providing value first, and the promotional benefits will follow naturally.
 
 *Ready to start promoting on Reddit? Choose 2-3 subreddits that align with your project, spend time understanding their communities, and create content that genuinely helps solve problems for their members.*
+
+---
+
+*Looking to expand your social media strategy beyond Reddit? Learn how to [set up automated social listening with AI tools](https://toffu.ai/blog/how-to-use-ai-automation-for-social-listening) to monitor conversations across all platforms and identify engagement opportunities.*
