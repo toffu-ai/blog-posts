@@ -32,9 +32,9 @@ The gold standard for project sharing. This community is extremely supportive an
 **Post format:** "I built..." followed by technical details
 
 **Top Performing Content Analysis:**
-- **Co-founder requests** generate massive engagement (3.5K upvotes)
-- **Presidential tracking website** shows civic tech performs well (3.2K upvotes)  
-- **Humorous/personal projects** like "Tinder for my wife" get viral attention (3K upvotes)
+- **[Looking for a co-founder](https://reddit.com/r/SideProject/comments/1i7mjmc/looking_for_a_cofounder/)** (3.5K upvotes, 109 comments)
+- **[Presidential tracking website](https://reddit.com/r/SideProject/comments/1i5oc9o/i_created_a_website_to_track_everything_the/)** (3.2K upvotes, 189 comments)  
+- **["Tinder for my wife" humor project](https://reddit.com/r/SideProject/comments/1m7nvx5/i_made_tinder_but_its_only_pictures_of_my_wife/)** (3K upvotes, 154 comments)
 
 **Key Success Factors:**
 - Personal story-driven titles work best
@@ -51,10 +51,11 @@ Largest creator community with massive reach potential. Physical and digital cre
 **Post format:** Focus on the creation process and personal pride
 
 **Top Performing Content Analysis:**
-- **Nostalgic tech recreations** dominate (Windows 95 Paint mirror: 61K upvotes)
-- **Miniature/detailed crafts** perform exceptionally (micro rock museum: 60K upvotes)
-- **Custom modifications** of everyday items get high engagement (painted headphones: 55K upvotes)
-- **Handmade fashion/art** consistently reaches 48K+ upvotes
+- **[Windows 95 Microsoft Paint mirror](https://reddit.com/r/somethingimade/comments/1l8wdow/really_happy_with_how_my_windows_95_microsoft/)** (61K upvotes, 501 comments)
+- **[Micro museum for mini rock collection](https://reddit.com/r/somethingimade/comments/1kkf31a/a_micro_museum_for_my_mini_rock_collection/)** (60K upvotes, 1.5K comments)
+- **[Custom LED lamp creation](https://reddit.com/r/somethingimade/comments/1jfr9k4/i_made_a_really_cool_lamp_and_im_really_proud_of/)** (57K upvotes, 672 comments)
+- **[Painted white headphones](https://reddit.com/r/somethingimade/comments/1h3r5nf/painted_my_white_headphones/)** (55K upvotes, 671 comments)
+- **[Bleached clothing designs](https://reddit.com/r/somethingimade/comments/1hwnfur/bleached_clothing_ive_made/)** (48K upvotes, 579 comments)
 
 **Key Success Factors:**
 - Show before/after or progress photos
@@ -71,9 +72,7 @@ Perfect for getting early feedback on products. Community specifically seeks new
 **Post format:** "Looking for beta testers for..."
 
 **Top Performing Content Analysis:**
-- **AI tools** generate significant engagement (36 upvotes, 64 comments for photo-to-video AI)
-- **Novel/creative applications** spark community interest
-- **Clear value propositions** with immediate testing access perform best
+- **[AI photo-to-video tool (KissGen)](https://reddit.com/r/alphaandbetausers/comments/1ia8zir/i_created_an_ai_tool_that_turns_your_photos_into/)** (36 upvotes, 64 comments)
 
 **Key Success Factors:**
 - Use proper tagging [Android, Alpha] or [iOS, Beta]
@@ -90,9 +89,8 @@ General self-promotion hub. Less engagement than specialized communities but ver
 **Post format:** Direct promotional posts
 
 **Top Performing Content Analysis:**
-- **Creative/artistic content** performs best (crochet art: 51 upvotes)
-- **Personal/niche content** finds dedicated audiences
-- **Content creators** promoting social media presence succeed
+- **[Crochet artist work showcase](https://reddit.com/r/selfpromotion/comments/1ljfajy/im_a_crochet_artist_and_i_wanna_spread_my_work/)** (51 upvotes, 11 comments)
+- **[Romance novella promotion](https://reddit.com/r/selfpromotion/comments/1l5soqk/page_one_of_romance_is_like_that/)** (44 upvotes, 8 comments)
 
 **Key Success Factors:**
 - Minimum 20 karma and 7-day account age required
@@ -129,10 +127,11 @@ Specifically designed for sharing GitHub projects. Great for developers and open
 **Post format:** Project description with GitHub link
 
 **Top Performing Content Analysis:**
-- **AI/ML frameworks** generate highest engagement (TEN Framework: 90 upvotes)
-- **Developer productivity tools** perform well (Git CLI tool: 65 upvotes)
-- **Educational tools** get strong community support (SQL learning game: 48 upvotes)
-- **Accessibility projects** resonate with community values
+- **[TEN Framework for multimodal AI agents](https://reddit.com/r/coolgithubprojects/comments/1frc0bj/ten_framework_the_opensource_alternative_to_dify/)** (90 upvotes, 23 comments)
+- **[Lumen CLI tool for Git summaries](https://reddit.com/r/coolgithubprojects/comments/1gpp9a5/my_sideproject_hit_250_stars_in_10_days/)** (65 upvotes, 12 comments)
+- **[Magic-tape YouTube TUI client](https://reddit.com/r/coolgithubprojects/comments/1gh2f7a/magictape_youtube_tui_client_downloader/)** (57 upvotes, 13 comments)
+- **[SQL Noir crime-solving game](https://reddit.com/r/coolgithubprojects/comments/1jthkzy/sql_noir_a_crimesolving_game_that_teaches_you_sql/)** (48 upvotes, 4 comments)
+- **[Ebook2audiobook converter](https://reddit.com/r/coolgithubprojects/comments/1hn5m4l/self_hosted_ebook2audiobook_converter_supports/)** (41 upvotes, 2 comments)
 
 **Key Success Factors:**
 - Include clear GitHub documentation
