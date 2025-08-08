@@ -125,8 +125,6 @@ Test your SearchGPT rankings:
 - Direct customers to your strongest review platforms
 - Respond professionally to all reviews within 48 hours
 
-For automated review collection, [Toffu's customer feedback automation](https://toffu.ai/use-cases/customer-feedback-analysis) can streamline the process.
-
 ### Step 4: Optimize Social Sentiment
 
 **Reddit Strategy:**
@@ -276,4 +274,4 @@ The opportunity window is still open. Businesses implementing these strategies n
 
 ---
 
-*Looking to automate your SearchGPT optimization? [Toffu's AI automation platform](https://toffu.ai/) can help streamline review collection, social listening, and authority building. Explore our tools for [social media automation](https://toffu.ai/blog/linkedin-content-automation) and [competitive research](https://toffu.ai/blog/meta-ad-library-competitor-research) to build a complete optimization strategy.*
+*Looking to automate your SearchGPT optimization? [Toffu's AI automation platform](https://toffu.ai/) can help streamline review collection, social listening, and authority building. Explore our tools for [social media strategy](https://toffu.ai/use-cases/social-media-strategy) and [competitor analysis](https://toffu.ai/use-cases/competitor-analysis) to build a complete optimization strategy.*
