@@ -18,7 +18,7 @@ The SEO community is actively discussing this shift:
 
 > "Recently, my boss asked me to do generative engine optimization (GEO) or AI search optimization for our website. Is this actually a thing that works, or just the latest SEO buzzword?" - [r/SEO](https://www.reddit.com/r/SEO/comments/1hl94a6/is_generative_engine_optimization_geo_or_ai/)
 
-The answer is yes - businesses implementing SearchGPT optimization are seeing 40-60% increases in AI-generated referrals.
+The answer is yes - businesses implementing SearchGPT optimization are seeing measurable increases in AI-generated referrals.
 
 ## What Makes SearchGPT Different
 
@@ -33,13 +33,13 @@ The answer is yes - businesses implementing SearchGPT optimization are seeing 40
 | Link building campaigns | Review and mention management |
 | Content optimization | Structured information design |
 
-## The SearchGPT Ranking Algorithm
+## SearchGPT Ranking Factors
 
-Based on analysis of SearchGPT recommendations, the algorithm prioritizes five core factors:
+Based on analysis of SearchGPT recommendations and industry observations, five key factors appear to influence recommendations. *Note: OpenAI hasn't disclosed the actual algorithm or weights - these are based on pattern analysis.*
 
-### 1. Authoritative List Mentions (35% Weight)
+### 1. Authoritative List Mentions
 
-SearchGPT heavily favors businesses mentioned in "best of" articles and comparison lists.
+SearchGPT heavily favors businesses mentioned in "best of" articles and comparison lists. This appears to be one of the strongest ranking signals.
 
 **High-Impact Sources:**
 - [Wikipedia](https://wikipedia.org/) entries and references
@@ -54,7 +54,7 @@ SearchGPT heavily favors businesses mentioned in "best of" articles and comparis
 - Create your own authoritative comparison content
 - Ensure consistent company information across all listings
 
-### 2. Awards and Industry Recognition (25% Weight)
+### 2. Awards and Industry Recognition
 
 SearchGPT uses awards as trust signals to determine business credibility.
 
@@ -65,7 +65,7 @@ SearchGPT uses awards as trust signals to determine business credibility.
 - Media coverage and press mentions
 - Strategic partnerships with established brands
 
-### 3. Online Reviews and Social Proof (20% Weight)
+### 3. Online Reviews and Social Proof
 
 Review platforms serve as quality indicators for SearchGPT recommendations.
 
@@ -76,7 +76,7 @@ Review platforms serve as quality indicators for SearchGPT recommendations.
 - **[Better Business Bureau](https://www.bbb.org/)** - Local businesses
 - **Industry-specific sites** - Capterra, TrustRadius, etc.
 
-### 4. Social Sentiment and Discussions (15% Weight)
+### 4. Social Sentiment and Discussions
 
 SearchGPT analyzes how your business is discussed across social platforms.
 
@@ -91,9 +91,9 @@ A Reddit user explained the importance:
 - [Quora](https://quora.com/) Q&A discussions
 - Industry forums and specialized communities
 
-### 5. Technical Authority (5% Weight)
+### 5. Technical Authority
 
-Traditional SEO signals still matter as supporting evidence:
+Traditional SEO signals appear to play a supporting role:
 - Domain authority and age
 - Content quality and expertise
 - Site structure and user experience
