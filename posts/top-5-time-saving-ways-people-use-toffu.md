@@ -2,7 +2,7 @@
 title: "The Top 5 Most Time-Saving Ways People Use Toffu AI"
 description: "Discover how marketing teams save 26-44 hours weekly using Toffu AI for Google Analytics queries, ads optimization, daily reports, competitor research, and campaign creation."
 date: "2025-01-14"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/top-5-time-saving-toffu-hero.png"
+image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/top-5-time-saving-toffu-hero.png.png"
 slug: "top-5-time-saving-ways-people-use-toffu-ai"
 tags: ["Time Saving", "Marketing Automation", "Google Analytics", "Google Ads", "Competitor Research", "Productivity"]
 ---
