@@ -191,7 +191,3 @@ Manual Google Ads Transparency Center research provides valuable insights but do
 **Start automated competitive intelligence today**: [toffu.ai](https://toffu.ai/)
 
 Your competitors' strategies contain insights that could significantly improve your campaign performance. Manual research catches only snapshots while automation reveals strategic patterns and opportunities.
-
----
-
-*Learn more about [Toffu's Google Ads capabilities](https://toffu.ai/tools/google_ads), [scheduled task automation](https://toffu.ai/academy/scheduled-tasks), and [competitive analysis workflows](https://toffu.ai/academy/competitive-analysis) that turn competitor activity into strategic advantage.*

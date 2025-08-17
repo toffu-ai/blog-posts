@@ -122,7 +122,3 @@ Most advertisers will continue their weekly manual reviews, analyzing a fraction
 Every week you delay implementing systematic search term analysis is another week of missed keyword opportunities and inefficient match type strategies.
 
 **Ready to unlock your search term intelligence?** Start with [Toffu's automated analysis](https://toffu.ai/) and turn your data into strategic advantage.
-
----
-
-*Want to learn more? Explore [Toffu's automated reports](https://toffu.ai/academy/reports), [Google Sheets integration](https://toffu.ai/academy/integrations), and [scheduled intelligence](https://toffu.ai/academy/scheduled-tasks) to transform your search term analysis.*

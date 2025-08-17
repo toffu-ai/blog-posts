@@ -67,7 +67,7 @@ With [Toffu's Canva integration](https://toffu.ai/tools/canva) and [Instagram pu
 - **Brand consistency**: Maintains your visual identity across all Instagram content through Canva's design system
 - **Schedule and publish**: Uses [scheduled tasks](https://toffu.ai/academy/scheduled-tasks) to post Canva-created visuals at optimal times
 - **Performance tracking**: Integrates with [Google Analytics](https://toffu.ai/tools/google_analytics) to track visual content performance
-- **Cross-platform coordination**: Coordinates with [LinkedIn](https://toffu.ai/tools/linkedin_company) and [Facebook](https://toffu.ai/tools/facebook) for consistent visual branding
+- **Cross-platform coordination**: Coordinates with [LinkedIn](https://toffu.ai/tools/linkedin) and [Facebook](https://toffu.ai/tools/facebook) for consistent visual branding
 
 **Setup Process**
 
@@ -94,7 +94,7 @@ With [Toffu's Canva integration](https://toffu.ai/tools/canva) and [Instagram pu
 *Learn more about [Toffu's Canva integration](https://toffu.ai/tools/canva), [Instagram publishing](https://toffu.ai/tools/instagram), [scheduled tasks](https://toffu.ai/academy/scheduled-tasks), [social media workflows](https://toffu.ai/academy/social-media), and [comprehensive marketing tools](https://toffu.ai/tools).*
 *Part of our social media automation series:*
 - *[LinkedIn Content Automation](https://toffu.ai/blog/linkedin-content-automation)*
-- *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-marketing-automation-ai-scheduling)*
+- *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-automation-ai)*
 - *Instagram Content Automation (you are here)*
 - *[AI Social Listening Automation](https://toffu.ai/blog/how-to-use-ai-automation-for-social-listening)*
 - Major time savings (3-5 hours to minutes) in visual creation

@@ -154,7 +154,7 @@ Manual posting leads to irregular schedules. As one professional noted: "And whe
 *Ready to transform your LinkedIn content strategy? Visit [toffu.ai](https://toffu.ai) to start automating your LinkedIn content creation and engagement today.*
 *Part of our social media automation series:*
 - *LinkedIn Content Automation (you are here)*
-- *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-marketing-automation-ai-scheduling)*
+- *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-automation-ai)*
 - *[Instagram Automation with Canva](https://toffu.ai/blog/instagram-canva-automation)*
 - *[AI Social Listening Automation](https://toffu.ai/blog/how-to-use-ai-automation-for-social-listening)*
 **Advanced Strategies**
