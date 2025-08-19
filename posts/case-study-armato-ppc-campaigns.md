@@ -2,7 +2,7 @@
 title: "Case Study: How Armato Scales PPC Campaigns With Toffu"
 description: "Learn how Armato scales PPC campaigns with Toffu, automates ad copy testing with AI, and scales winning variations across campaigns."
 date: "2025-08-19"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/7e0aac2b-617f-4af1-b7d5-9db46fe8cb4c.png"
+image: "https://toffu.ai/images/blog/armato.jpg"
 slug: "case-study-armatousa-ppc-campaigns"
 ---
 
