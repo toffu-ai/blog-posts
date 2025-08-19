@@ -10,8 +10,6 @@ slug: "case-study-armatousa-ppc-campaigns"
 
 [Armato](https://armatousa.com/) sells apparel, but behind the scenes, **Zion Karsenti** is managing much more than clothes. As a media agency, he runs ads across **15+ Google Ads accounts** in multiple currencies, experimenting with everything from e-commerce to SaaS. For years, he relied on a web of scripts and homegrown tools to keep things moving—until Toffu replaced them all.  
 
----
-
 ## From Scripts to Scale  
 
 Before Toffu, Zion’s toolkit was a patchwork: Google Ads App Scripts for daily automations, a self-built API service for keyword planning, even a custom chat interface to control it all.  
@@ -19,8 +17,6 @@ Before Toffu, Zion’s toolkit was a patchwork: Google Ads App Scripts for daily
 It worked—but it wasn’t sustainable.  
 
 Managing advanced strategies like **SKAGs (Single Keyword Ad Groups)** highlighted the limits. Running 30 of them in a test campaign just wasn’t possible manually.  
-
----
 
 ## Why Toffu  
 
@@ -38,8 +34,6 @@ Even on Taboola, where integrations are notoriously clunky, Toffu surprised him:
 
 > *“I tried running a campaign and Toffu just used the company logo as the image. I thought it was odd, but the campaign actually performed better than expected. It worked.”*  
 
----
-
 ## Results That Matter  
 
 With Toffu, execution stopped being the bottleneck.  
@@ -50,8 +44,6 @@ With Toffu, execution stopped being the bottleneck.
 
 > *“Toffu doesn’t decide the strategy—I do. But it executes fast, clean, and at scale.”*  
 
----
-
 ## The Bigger Picture  
 
 For Zion, Toffu isn’t just about convenience. It’s about turning ambitious strategies into reality.  
@@ -61,7 +53,3 @@ For Zion, Toffu isn’t just about convenience. It’s about turning ambitious s
 He hasn’t handed over his largest accounts yet—it takes time to trust new tools—but Toffu has already proven itself as the **execution engine** behind his experiments.  
 
 And he’s already looking beyond apparel: Zion is exploring how Toffu can power PPC for construction clients in Los Angeles, where leads are worth hundreds of dollars and execution speed makes all the difference.  
-
----
-
-✅ **Key takeaway**: Zion no longer needs to be the baker building automations—Toffu handles that, so he can focus on media buying and strategy.  

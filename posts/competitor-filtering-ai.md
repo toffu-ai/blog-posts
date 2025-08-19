@@ -3,6 +3,7 @@ title: "How to Use AI for Google Ads Competitor Filtering and Analysis"
 description: "Learn how to use AI to filter competitor traffic, analyze competitive strategies, and optimize your Google Ads campaigns against competitor behavior."
 image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/competitor-filtering-ai-hero.png
 slug: "ai-competitor-filtering-google-ads"
+date: "2025-07-28"
 ---
 
 # How to Use AI for Google Ads Competitor Filtering and Analysis
