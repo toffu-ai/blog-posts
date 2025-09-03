@@ -3,6 +3,7 @@ title: "Pricing Models for AI Agents in 2025: Complete Business Guide"
 description: "Explore AI agent pricing strategies for 2025, from usage-based models to enterprise licensing. Learn how to price AI agents competitively and profitably."
 image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/ai-agent-pricing-2025-hero.png
 slug: "pricing-models-for-ai-agents-in-2025"
+date: "2025-05-05"
 ---
 
 # Pricing Models for AI Agents in 2025: Complete Business Guide
