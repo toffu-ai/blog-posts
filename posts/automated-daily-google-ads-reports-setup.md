@@ -2,7 +2,6 @@
 title: "How to Set Up Automated Daily Google Ads Reports"
 description: "Learn how to automate your daily Google Ads reporting with AI to track ROAS, ROI, and get actionable insights delivered to your email every morning."
 date: "2025-09-03"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/8eedfeb8-6d28-45d1-a25d-a314a9d688cf.png"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/1fcad240-547d-4b28-9093-1a8751ba23b0.jpg"
 tags: ["Google Ads", "Automation", "Reporting", "ROAS", "ROI", "Email Reports"]
 ---
