@@ -6,6 +6,9 @@ image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/8eedfeb8-6d28-4
 slug: "automated-daily-google-ads-reports-setup"
 tags: ["Google Ads", "Automation", "Reporting", "ROAS", "ROI", "Email Reports"]
 ---
+# How to Set Up Automated Daily Google Ads Reports
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P9ueuAoS3EU" title="Daily Google Ads Report with Toffu AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # How to Set Up Automated Daily Google Ads Reports
 
