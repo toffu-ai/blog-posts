@@ -1,9 +1,9 @@
 ---
-title: "How to generate on-brand blog image with Nano Banana"
+title: "How to generate on-brand blog images with Nano Banana"
 description: "Learn how to generate blog image with Nano Banana and Toffu AI"
 date: "2025-09-03"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/bc2fddaf-4bff-453a-9258-0ac77a296152.jpg"
-slug: "how-to-generate-blog-image-with-nano-banana"
+slug: "how-to-generate-blog-images-with-nano-banana"
 ---
 
 Google announced [Nano Banana](https://blog.google/products/gemini/updated-image-editing-model/) which is a new image editing model that is considered to be the best image editing model available (at least up until as of this writing).
@@ -14,7 +14,7 @@ In this blog post, I'll show you how to generate on-brand blog images with Nano 
 
 Since Toffu AI already uses Nano Banana behind the scenes, we don't need any other tools.
 
-## Step 1: Create a new blog post
+## Step 1: Create a base image (done once)
 
 The setup is very simple.
 
@@ -59,7 +59,7 @@ Visual Style:
 
 I only tell this once and forget about it. From now on, when I ask Toffu to generate a blog image, it will use these instructions and the base image to generate the blog image.
 
-## Step 2: Generate the blog image
+## Step 2: Generate the blog image (done every time)
 
 Now, when I ask Toffu to generate a blog image, it will use the base image and the instructions to generate the blog image.
 
