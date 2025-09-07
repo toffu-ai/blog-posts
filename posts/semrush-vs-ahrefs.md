@@ -17,7 +17,7 @@ After analyzing both platforms extensively, here's your complete comparison to h
 
 **Ahrefs** dominates pure SEO functionality with the most accurate backlink database and superior site auditing capabilities.
 
-*Ready to streamline your SEO workflow? [See how Toffu integrates with both tools](https://toffu.ai/integrations) to automate your marketing tasks.*
+*Ready to streamline your SEO workflow? [See how Toffu integrates with marketing tools](https://toffu.ai/integrations) to automate your marketing tasks.*
 
 ## Keyword Research Comparison
 
@@ -51,7 +51,7 @@ After analyzing both platforms extensively, here's your complete comparison to h
 
 **Winner**: *Ahrefs for database freshness and depth, SEMrush for competitor analysis features*
 
-*Want to automate your backlink outreach? [Try Toffu's link building workflows](https://toffu.ai/features/link-building) free for 7 days.*
+*Want to automate your SEO analysis? [Try Toffu's keyword research capabilities](https://toffu.ai/use-cases/keyword-research) free for 7 days.*
 
 ## Site Auditing Capabilities
 
@@ -100,7 +100,7 @@ After analyzing both platforms extensively, here's your complete comparison to h
 
 **Winner**: *SEMrush for comprehensive content marketing, Ahrefs for content research*
 
-*Streamline your content creation process with [Toffu's AI content workflows](https://toffu.ai/features/content-automation).*
+*Streamline your competitor analysis with [Toffu's automated competitor research](https://toffu.ai/use-cases/competitor-analysis).*
 
 ## User Experience & Interface
 
@@ -166,7 +166,7 @@ Many successful SEO teams use both tools strategically:
 
 This approach maximizes strengths while minimizing weaknesses, though it doubles your tool costs.
 
-*Reduce tool complexity with [Toffu's unified dashboard](https://toffu.ai/features/dashboard) - manage all your marketing tools in one place.*
+*Reduce tool complexity with [Toffu's traffic analysis features](https://toffu.ai/use-cases/traffic-analysis) - manage all your marketing data in one place.*
 
 ## Alternative: Toffu + Your Preferred Tool
 
@@ -193,14 +193,16 @@ This approach saves 40-60% on tool costs while improving workflow efficiency.
 2. **Team needs assessment**: Identify your primary goals (SEO-only vs full marketing)
 3. **Budget planning**: Factor in training time and team adoption
 
-*Ready to optimize your marketing workflow? [Start your free Toffu trial](https://toffu.ai/signup) and see how we integrate with both SEMrush and Ahrefs.*
+*Ready to optimize your marketing workflow? [Start your free Toffu trial](https://toffu.ai/account/sign-up) and see how we integrate with both SEMrush and Ahrefs.*
 
-## Related Articles
+## Related Tools
 
-- [Complete Google Analytics 4 Setup Guide](https://toffu.ai/blog/ga4-setup-guide)
-- [Technical SEO Checklist for 2024](https://toffu.ai/blog/technical-seo-checklist)  
-- [Content Marketing ROI: How to Measure Success](https://toffu.ai/blog/content-marketing-roi)
+Explore how Toffu works with your existing marketing stack:
+
+- [Google Analytics Integration](https://toffu.ai/tools/google_analytics)
+- [LinkedIn Marketing Tools](https://toffu.ai/tools/linkedin)  
+- [Google Ads Management](https://toffu.ai/tools/google_ads)
 
 ---
 
-*Toffu helps marketing teams manage SEO tools, automate reporting, and optimize campaigns across platforms. [Try it free for 14 days](https://toffu.ai/signup) - no credit card required.*
+*Toffu helps marketing teams manage SEO tools, automate reporting, and optimize campaigns across platforms. [Try it free for 14 days](https://toffu.ai/account/sign-up) - no credit card required.*
