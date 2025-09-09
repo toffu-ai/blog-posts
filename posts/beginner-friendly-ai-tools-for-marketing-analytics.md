@@ -14,7 +14,7 @@ Marketing analytics can feel overwhelming when you're starting out. You've got d
 
 The good news: AI marketing analytics tools have made data analysis accessible to beginners. No more wrestling with [complex spreadsheets](https://toffu.ai/tools/google_analytics) or trying to decode confusing dashboards.
 
-## 1. Toffu AI - Your Marketing Analytics Teammate
+Here are the best AI marketing analytics tools that'll help beginners make sense of their marketing data and actually improve campaigns.
 
 Toffu stands out because you can literally ask questions about your marketing data in plain English. Instead of learning complicated interfaces, you simply chat with Toffu to get insights.
 
@@ -134,7 +134,7 @@ Pinterest's AI-powered analytics help businesses understand how their content pe
 ## 9. TikTok Analytics AI
 
 TikTok's analytics use AI to help creators and businesses understand video performance and audience behavior.
-
+## Getting Started with AI Marketing Analytics Tools
 **What it does:**
 - Video performance insights
 - Audience demographic analysis
@@ -172,7 +172,7 @@ Don't try to analyze everything at once. Pick your biggest traffic source (usual
 
 ### Step 4: Ask the Right Questions
 Instead of asking "How did we do last month?", ask "Which campaigns drove the most qualified leads?" or "What [content topics](https://toffu.ai/use-cases/keyword-research) generate the most engagement?"
-
+Ready to transform your marketing data with AI tools? [Start your free Toffu trial today →](https://toffu.ai/account/sign-up)
 ### Step 5: Consolidate Your Data
 Use a tool like Toffu AI to bring all your platform data together in one place, making it easier to spot patterns and opportunities across channels.
 
@@ -215,7 +215,7 @@ Use a tool like Toffu AI to bring all your platform data together in one place, 
 Ready to transform your marketing data into growth? [Start your free Toffu trial today →](https://toffu.ai/account/sign-up)
 
 ## Common Mistakes to Avoid
-
+Start with the free AI marketing analytics tools built into your existing platforms. Once you're comfortable with those, add [Toffu AI](https://toffu.ai) to get unified insights across all channels and actionable recommendations in plain English.
 ### 1. Focusing on Vanity Metrics
 Page views and social media followers don't pay the bills. Focus on metrics tied to revenue: qualified leads, cost per acquisition, and customer lifetime value.
 
