@@ -1,7 +1,7 @@
 ---
 title: "Beginner-Friendly AI Tools for Marketing Analytics"
 description: "Discover 10 beginner-friendly AI tools that turn your marketing data into actionable insights. From Toffu AI to Google Analytics Intelligence - no data science degree required."
-image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/beginner-friendly-ai-marketing-analytics-tools.jpg
+image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/beginner-friendly-ai-marketing-analytics-tools.png
 slug: "beginner-friendly-ai-tools-marketing-analytics"
 date: "2025-01-09"
 ---
