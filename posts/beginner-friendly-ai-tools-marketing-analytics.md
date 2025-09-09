@@ -44,7 +44,7 @@ Google's built-in AI assistant lives right inside your Analytics dashboard. It s
 **Pricing:** Free with Google Analytics
 
 ## 3. HubSpot Marketing Analytics
-
+Ready to see how your current campaigns stack up? [Get a free marketing analysis with Toffu →](https://toffu.ai/account/sign-up)
 HubSpot's AI-powered analytics help you understand which marketing activities actually drive revenue, not just vanity metrics.
 
 **What it does:**
@@ -78,7 +78,7 @@ Klaviyo's AI focuses specifically on email marketing analytics, helping you opti
 **What it does:**
 - Predicts the best send times for each subscriber
 - Recommends product suggestions for email campaigns
-- Identifies subscribers likely to churn
+Looking for more personalized insights? [Start your free Toffu trial →](https://toffu.ai/account/sign-up)
 - Optimizes subject lines and email content
 
 **Best for:** E-commerce email marketing
