@@ -1,3 +1,31 @@
+---
+title: "Agent-First Starter Pack"
+description: "How to run lean by replacing headcount with agents + automations. Learn how I replaced ~$600K in annual salaries with ~$12K in agents."
+slug: "agent-first-starter-pack"
+date: "2025-09-11"
+author: "Or Arbel"
+tags: ["agents", "automation", "startup", "lean", "ai", "productivity"]
+categories: ["Business", "AI"]
+image: "/images/agent-first-starter-pack.png"
+featured: true
+draft: false
+seo:
+  title: "Agent-First Starter Pack: Replace $600K Salaries with $12K in AI Agents"
+  description: "Complete guide to building an agent-first company. Replace full-time roles with AI agents and automations. Save 50x on headcount costs."
+  keywords: ["ai agents", "automation", "lean startup", "agent-first", "ai tools", "business automation", "startup efficiency"]
+social:
+  twitter:
+    card: "summary_large_image"
+    title: "Agent-First Starter Pack: $600K → $12K with AI Agents"
+    description: "How to run lean by replacing headcount with agents + automations"
+    image: "/images/agent-first-starter-pack.png"
+  og:
+    title: "Agent-First Starter Pack"
+    description: "How to run lean by replacing headcount with agents + automations. Learn how I replaced ~$600K in annual salaries with ~$12K in agents."
+    image: "/images/agent-first-starter-pack.png"
+    type: "article"
+---
+
 # Agent-First Starter Pack  
 *How to run lean by replacing headcount with agents + automations*  
 
