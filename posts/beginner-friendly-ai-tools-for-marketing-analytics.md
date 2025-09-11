@@ -6,8 +6,6 @@ slug: "beginner-friendly-ai-tools-for-marketing-analytics"
 date: "2025-01-09"
 ---
 
-# Beginner-Friendly AI Tools for Marketing Analytics
-
 # Best AI Marketing Analytics Tools for Beginners
 
 Marketing analytics can feel overwhelming when you're starting out. You've got data scattered across Google Analytics, social media platforms, email tools, and ad accounts - but turning that data into actionable insights with AI marketing analytics tools? That's where most marketers get stuck.
