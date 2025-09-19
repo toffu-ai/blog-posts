@@ -84,19 +84,14 @@ Lower burn rates mean longer runways. Faster execution means quicker iteration. 
 While competitors scale headcount linearly, agent-first companies scale capabilities exponentially.
 *Building an agent-first company? Check out our [complete automation guide](https://toffu.ai/blog) and follow my journey on [LinkedIn](https://linkedin.com/in/orarbel) for more insights on AI workforce replacement.*
 ## Try It Yourself
-
-Want to see agent-first marketing in action? [Toffu AI](https://toffu.ai) handles everything from campaign creation to performance optimization. Experience how AI agents can replace your marketing workload instead of just assisting it.
-
-## The Reality Check
-
-This approach isn't perfect. Agents lack creativity and often sound repetitive. They can't handle complex strategic decisions or navigate office politics.
-
-But for structured, repetitive work? They're unbeatable. And they free me to focus on the high-leverage decisions that actually move the business forward.
-
-The companies figuring this out now will have massive advantages. While others are scaling teams, we're scaling capabilities. While they're managing people, we're managing outcomes.
-
-The question isn't whether AI will replace roles. It's whether you'll adapt before your competition does.
-
+## FAQ: Replacing Employees with AI Agents
+**Q: Which roles can AI agents replace?**
+A: AI agents work best for structured, repetitive tasks like development, QA, marketing automation, and monitoring. They struggle with creative strategy and complex decision-making.
+**Q: How much does it cost to replace employees with AI agents?**
+A: My full stack costs ~$1,000/month, replacing roles that would cost $600,000 annually in salaries.
+**Q: Do AI agents work better than human employees?**
+A: For structured tasks, yes. They work 24/7, don't need management overhead, and deliver consistent results. But they lack creativity and strategic thinking.
+**Q: How long does it take to implement AI agents?**
+A: Individual tools can be implemented in days. Building a full agent-first operation takes 2-3 months of iteration and refinement.
 ---
-
 *Building an agent-first company? Follow my journey on [LinkedIn](https://linkedin.com/in/orarbel) as I share what works, what doesn't, and how to maximize leverage with minimal overhead.*
