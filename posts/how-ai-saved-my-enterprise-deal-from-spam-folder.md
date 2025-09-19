@@ -28,9 +28,9 @@ Enterprise prospects don't think you missed their email. They think you're ignor
 
 Time kills all deals. But missed emails kill them faster.
 
-## The Hidden Problem
+I started digging into this after my near-miss. Enterprise security teams trigger spam filters constantly because they send from unfamiliar domains, use formal language that sounds like cold outreach, and include technical questionnaires that look like phishing attempts to filters.
 
-The AI that caught this email was [Poke](https://poke.com). It monitors everything—inbox, spam, promotions, the whole mess. It found this email because it actually reads what's in your spam folder, not just what Gmail decides to show you.
+For sales teams, this creates constant risk. Even a small percentage of missed emails can impact potential deals, and you're looking at revenue walking away without you knowing it.
 
 Turns out, enterprise security teams trigger spam filters constantly. They send from unfamiliar domains, use formal language that sounds like cold outreach, and include technical questionnaires that look like phishing attempts to filters.
 
