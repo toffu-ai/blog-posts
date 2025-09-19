@@ -12,6 +12,8 @@ slug: "ai-token-pricing-vs-cost-plus-margin-analysis"
 
 I built a pricing model where I only win when my customers win.
 
+Most AI products charge by tokens, but here's the problem: not all tokens cost the same. Input tokens, output tokens, cached tokens, and cache writes all have different costs—but traditional token pricing treats them identically.
+
 This creates a fundamental misalignment. Under token pricing, vendors make more money when their systems are inefficient. Under cost+margin pricing, vendors make more money when their systems get better.
 
 ## The Token Pricing Problem
@@ -82,7 +84,7 @@ The competitive pressure is building. Companies still using token pricing will f
 
 ## Try Cost+Margin Pricing
 
-[Toffu AI](https://toffu.ai) uses cost+margin pricing for all marketing automation tasks. Experience transparent, usage-optimized pricing that gets cheaper as our systems improve.
+[Toffu AI](https://toffu.ai) uses cost+margin pricing for all [marketing automation tasks](https://toffu.ai/tools). Experience transparent, usage-optimized pricing that gets cheaper as our systems improve.
 
 ## The Philosophy Shift
 
@@ -93,10 +95,24 @@ When vendor success depends on customer efficiency, everyone wins. Technology im
 ## Common Objections
 
 "Lower margins hurt profitability." Reality: Higher usage volumes more than compensate. Total profit increases through volume growth.
-[Toffu AI](https://toffu.ai) uses cost+margin pricing for all [marketing automation tasks](https://toffu.ai/tools). Experience transparent, usage-optimized pricing that gets cheaper as our systems improve.
+
 "Cost tracking is too complex." Reality: Modern API providers offer detailed analytics. The complexity is manageable and creates competitive advantages.
 
 "Customers won't understand variable pricing." Reality: Transparent breakdowns increase trust compared to black-box pricing.
+
+## FAQ: AI Pricing Models
+
+**Q: What's the difference between token pricing and cost+margin?**
+A: Token pricing charges flat rates regardless of actual costs. Cost+margin pricing charges real API costs plus fixed margin, aligning vendor and customer incentives.
+
+**Q: Why does cost+margin pricing increase usage?**
+A: When customers see bills drop due to optimization, they use more. Lower costs create "usage confidence" instead of "usage anxiety."
+
+**Q: How much can cost+margin pricing save customers?**
+A: In our example, customers saved 22% on identical conversations with 60% cached content - and usage increased 39%.
+
+**Q: Is cost+margin pricing more complex to implement?**
+A: Yes, it requires real-time cost tracking, but modern API providers offer detailed analytics making this manageable.
 
 ## The Bottom Line
 
