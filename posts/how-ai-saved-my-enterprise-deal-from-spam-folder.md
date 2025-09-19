@@ -2,7 +2,7 @@
 title: "How AI Saved My Enterprise Deal from the Spam Folder"
 description: "A critical security email about an annual enterprise license was trapped in spam. Here's how AI email monitoring prevented a deal from dying in silence."
 date: "2025-09-19"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/ai-email-rescue-spam-detection.png"
+image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/ai-email-rescue-spam-detection.jpg"
 slug: "how-ai-saved-my-enterprise-deal-from-spam-folder"
 ---
 
