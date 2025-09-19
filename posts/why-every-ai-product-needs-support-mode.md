@@ -12,6 +12,8 @@ slug: "ai-product-support-mode-user-activation"
 
 40% of the first messages new users send to AI chat products are support questions.
 
+Not real work. Not value-driving usage. Just basic stuff like "What can you do?" and "Why am I getting this error?" and "How does this work?"
+
 Here's the brutal reality: users are burning through their trial credits learning how to use your product instead of experiencing its value. By the time they're ready to do real work, half their trial is gone.
 
 This isn't onboarding. It's sabotage.
@@ -29,10 +31,10 @@ The result? Users hesitate to ask questions, value realization takes forever, an
 ## Why Support Mode Changes Everything
 
 Support mode is simple: questions about capabilities don't deplete credits. Feature explanations are free. Learning the product has zero usage cost.
-I've seen products implement this and watch activation rates improve significantly. When users can explore without usage anxiety, they understand capabilities faster, experience value immediately, and convert with confidence.
+
 The key distinction is support mode handles product questions while work mode handles actual tasks. "How do I analyze data?" is support. "Analyze this spreadsheet" is work.
 
-I've seen products implement this and watch activation rates jump 40-60%. When users can explore without usage anxiety, they understand capabilities faster, experience value immediately, and convert with confidence.
+I've seen products implement this and watch activation rates improve significantly. When users can explore without usage anxiety, they understand capabilities faster, experience value immediately, and convert with confidence.
 
 ## The Economics Make Sense
 
@@ -61,7 +63,7 @@ The bigger worry should be losing users who never get to experience your product
 Support mode becomes a differentiator. "Try our AI with no usage anxiety." "Learn our capabilities risk-free." "Questions don't count against your credits."
 
 Users who understand your product recommend it to others. They know how to demonstrate value, can explain capabilities clearly, and have worked through limitations. They become your best sales team.
-[Toffu AI](https://toffu.ai) implements intelligent support mode that helps users understand [marketing automation capabilities](https://toffu.ai/use-cases) without burning usage credits. Experience how proper [onboarding acceleration](https://toffu.ai/blog) drives activation.
+
 ## Why This Matters More Now
 
 As AI products mature, user experience sophistication becomes the differentiator. Features become commoditized, but onboarding experiences create lasting competitive advantages.
@@ -70,7 +72,21 @@ Users will expect risk-free exploration of AI capabilities, separation between l
 
 ## Try Support Mode Done Right
 
-[Toffu AI](https://toffu.ai) implements intelligent support mode that helps users understand marketing automation capabilities without burning usage credits. Experience how proper onboarding acceleration drives activation.
+[Toffu AI](https://toffu.ai) implements intelligent support mode that helps users understand [marketing automation capabilities](https://toffu.ai/use-cases) without burning usage credits. Experience how proper [onboarding acceleration](https://toffu.ai/blog) drives activation.
+
+## FAQ: AI Product Support Mode
+
+**Q: What is support mode in AI products?**
+A: Support mode allows users to ask product questions ("How does this work?") without depleting usage credits, while work mode handles actual tasks.
+
+**Q: Why do users burn credits on support questions?**
+A: 40% of first messages are basic questions like "What can you do?" Users learn the product using billable credits instead of experiencing value.
+
+**Q: How does support mode improve activation?**
+A: When users can explore without usage anxiety, they understand capabilities faster and convert with more confidence.
+
+**Q: What's the ROI of implementing support mode?**
+A: Higher activation rates and better conversion easily offset the additional inference costs during onboarding.
 
 ## The Bottom Line
 
