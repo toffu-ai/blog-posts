@@ -8,9 +8,9 @@ slug: "ai-product-support-mode-user-activation"
 
 # AI Product Support Mode Increases User Activation by 40%
 
-40% of the first messages new users send to AI chat products are support questions.
+**Quick Answer:** Support mode separates learning from usage in AI products. When users can ask "How does this work?" without burning credits, they explore more, understand capabilities faster, and convert at higher rates.
 
-Not real work. Not value-driving usage. Just basic stuff like "What can you do?" and "Why am I getting this error?" and "How does this work?"
+40% of the first messages new users send to AI chat products are support questions.
 
 Here's the brutal reality: users are burning through their trial credits learning how to use your product instead of experiencing its value. By the time they're ready to do real work, half their trial is gone.
 
