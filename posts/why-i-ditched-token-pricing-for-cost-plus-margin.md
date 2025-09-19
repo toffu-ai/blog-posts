@@ -2,7 +2,7 @@
 title: "Why I Ditched Token Pricing for Cost Plus Margin"
 description: "Most AI products charge by tokens, but all tokens aren't equal. Here's how cost+margin pricing aligns incentives and drives more usage growth."
 date: "2025-09-19"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/pricing-model-comparison-tokens-vs-cost-margin.png"
+image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/pricing-model-comparison-tokens-vs-cost-margin.jpg"
 slug: "why-i-ditched-token-pricing-for-cost-plus-margin"
 ---
 
