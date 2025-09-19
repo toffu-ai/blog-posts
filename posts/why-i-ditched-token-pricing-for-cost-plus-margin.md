@@ -95,8 +95,24 @@ When vendor success depends on customer efficiency, everyone wins. Technology im
 ## Common Objections
 
 "Lower margins hurt profitability." Reality: Higher usage volumes more than compensate. Total profit increases through volume growth.
+## Cost Plus Margin vs Token Pricing Comparison
 
-"Cost tracking is too complex." Reality: Modern API providers offer detailed analytics. The complexity is manageable and creates competitive advantages.
+| Aspect | Token Pricing | Cost+Margin Pricing |
+|--------|---------------|---------------------|
+| **Vendor Incentives** | Maximize token usage | Optimize efficiency |
+| **Customer Psychology** | Usage anxiety | Usage confidence |
+| **Technology Evolution** | Slow (inefficiency pays) | Fast (optimization pays) |
+| **Customer Retention** | Lower (misaligned value) | Higher (shared success) |
+| **Revenue Growth** | Linear with usage | Exponential with satisfaction |
+
+## Agent-First Business Models
+
+Cost+margin pricing aligns with agent-first operations where efficiency matters:
+- [Replace Employees with AI Agents - 50x Cost Reduction](https://toffu.ai/blog/replace-employees-with-ai-agents-cost-reduction) - How to build lean, agent-powered teams
+- [AI Product Support Mode Increases User Activation](https://toffu.ai/blog/ai-product-support-mode-user-activation) - Design products that customers actually adopt
+
+
+## The Philosophy Shift
 
 "Customers won't understand variable pricing." Reality: Transparent breakdowns increase trust compared to black-box pricing.
 
