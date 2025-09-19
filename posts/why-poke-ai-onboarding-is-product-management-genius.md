@@ -13,7 +13,7 @@ Here's the typical flow: user enters email, email goes into a queue, weeks later
 Most AI apps use a boring waitlist. Poke.com roasted me, demanded $1,024/month for access, then negotiated me down to zero—all before I saw a single feature.
 
 And it's the smartest product management strategy I've seen this year.
-
+## What Makes Poke's Onboarding Different
 ## How Normal Waitlists Kill Products
 
 Here's the typical flow: user enters email, email goes into a queue, weeks later maybe they get access, 70% have forgotten why they signed up.
@@ -31,7 +31,7 @@ When I hesitated to give email permissions, it didn't back down. It doubled down
 Then came the pricing negotiation. Starting at $1,024/month ("a dollar for every character you saved with Yo"), it negotiated me down based on my responses. $500 if I tweeted about them. Finally $0 with the comment "What is this, charity for tech founders?"
 
 By the time I reached the actual product, I'd invested 10 minutes in conversation, been emotionally engaged, and created a story worth sharing.
-
+## Why Strategic Friction Works
 ## Why This Works
 
 **Intent filtering at scale.** Most products can't tell high-intent users from casual browsers. Poke's AI bouncer forces users to articulate why they want access and prove commitment through extended conversation.
@@ -47,7 +47,7 @@ By the time I reached the actual product, I'd invested 10 minutes in conversatio
 We value what's hard to obtain. By making access feel earned rather than given, Poke creates artificial scarcity that increases perceived value.
 
 When users share their onboarding experience, they're not just promoting the product—they're demonstrating their worthiness to access something exclusive. It's social proof through challenge.
-
+## When This Onboarding Strategy Fails
 Most products try to eliminate friction. Poke gamifies friction, turning obstacles into entertainment. Users enjoy the challenge because it feels like a game they can win.
 
 ## The Product Management Lesson
