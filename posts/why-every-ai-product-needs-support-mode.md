@@ -29,7 +29,7 @@ The result? Users hesitate to ask questions, value realization takes forever, an
 ## Why Support Mode Changes Everything
 
 Support mode is simple: questions about capabilities don't deplete credits. Feature explanations are free. Learning the product has zero usage cost.
-
+I've seen products implement this and watch activation rates improve significantly. When users can explore without usage anxiety, they understand capabilities faster, experience value immediately, and convert with confidence.
 The key distinction is support mode handles product questions while work mode handles actual tasks. "How do I analyze data?" is support. "Analyze this spreadsheet" is work.
 
 I've seen products implement this and watch activation rates jump 40-60%. When users can explore without usage anxiety, they understand capabilities faster, experience value immediately, and convert with confidence.
