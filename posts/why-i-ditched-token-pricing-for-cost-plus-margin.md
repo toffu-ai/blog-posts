@@ -8,9 +8,9 @@ slug: "ai-token-pricing-vs-cost-plus-margin-analysis"
 
 # AI Token Pricing vs Cost Plus Margin - Customer Growth Analysis
 
-I built a pricing model where I only win when my customers win.
+**Quick Answer:** Cost+margin pricing charges actual usage costs plus fixed margin, aligning vendor and customer incentives. Unlike token pricing, it rewards efficiency - when systems improve, customer costs drop and usage increases.
 
-Most AI products charge by tokens, but here's the problem: not all tokens cost the same. Input tokens, output tokens, cached tokens, and cache writes all have different costs—but traditional token pricing treats them identically.
+I built a pricing model where I only win when my customers win.
 
 This creates a fundamental misalignment. Under token pricing, vendors make more money when their systems are inefficient. Under cost+margin pricing, vendors make more money when their systems get better.
 
