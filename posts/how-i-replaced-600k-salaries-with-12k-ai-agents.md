@@ -79,8 +79,25 @@ My actual hands-on time: Maybe 2 hours. Everything else happened automatically.
 
 This isn't just about cost savings. The economic advantages compound:
 
-Lower burn rates mean longer runways. Faster execution means quicker iteration. Higher margins mean more investment in growth. No geographic constraints mean global talent access.
+## Frequently Asked Questions
 
+**How much does it cost to replace employees with AI agents?**
+I spend approximately $1,000 per month on AI agents that replace 6 full-time employees, delivering a 50x cost reduction compared to $600,000 in annual salaries.
+
+**Which jobs can AI agents replace first?**
+Development, QA testing, marketing, product analysis, and CI/CD management are the easiest roles to replace with current AI agent technology.
+
+**Do AI agents work better than human employees?**
+For structured, repetitive tasks, AI agents are more reliable and available 24/7. However, they lack creativity and can't handle complex strategic decisions.
+
+## Related Agent-First Resources
+
+Learn more about building an agent-first company:
+- [AI Product Support Mode Increases User Activation](https://toffu.ai/blog/ai-product-support-mode-user-activation) - How to design AI products that users actually adopt
+- [AI Token Pricing vs Cost Plus Margin Analysis](https://toffu.ai/blog/ai-token-pricing-vs-cost-plus-margin-analysis) - Pricing strategies that align with customer success
+
+
+## The Bottom Line
 While competitors scale headcount linearly, agent-first companies scale capabilities exponentially.
 *Building an agent-first company? Check out our [complete automation guide](https://toffu.ai/blog) and follow my journey on [LinkedIn](https://linkedin.com/in/orarbel) for more insights on AI workforce replacement.*
 ## Try It Yourself
