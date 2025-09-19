@@ -10,256 +10,104 @@ slug: "why-i-ditched-token-pricing-for-cost-plus-margin"
 
 I built a pricing model where I only win when my customers win.
 
-Most AI products charge by tokens, but here's the problem: **not all tokens cost the same**. Input tokens, output tokens, cached tokens, and cache writes all have different costs—but traditional token pricing treats them identically.
+Most AI products charge by tokens, but here's the problem: not all tokens cost the same. Input tokens, output tokens, cached tokens, and cache writes all have different costs—but traditional token pricing treats them identically.
 
-This creates a fundamental misalignment between vendor incentives and customer value. Here's how I fixed it with cost+margin pricing and why it's driving more usage and better customer outcomes.
+This creates a fundamental misalignment. Under token pricing, vendors make more money when their systems are inefficient. Under cost+margin pricing, vendors make more money when their systems get better.
 
 ## The Token Pricing Problem
 
-### All Tokens Aren't Equal
-**Traditional token model assumption:** 1,000 tokens = $0.002 regardless of type
+Traditional token pricing assumes 1,000 tokens always costs $0.002, regardless of type. But the reality is messy:
 
-**Reality of token costs:**
-- **Input tokens:** $0.0015 per 1K tokens
-- **Output tokens:** $0.006 per 1K tokens  
-- **Cached tokens:** $0.0007 per 1K tokens
-- **Cache writes:** $0.0030 per 1K tokens
+Input tokens cost $0.0015 per 1K. Output tokens cost $0.006 per 1K. Cached tokens cost $0.0007 per 1K. Cache writes cost $0.0030 per 1K.
 
-**The result:** Identical "1,000 token" conversations can cost vendors anywhere from $0.70 to $6.00—but customers pay the same flat rate.
+So identical "1,000 token" conversations can cost vendors anywhere from $0.70 to $6.00—but customers pay the same flat rate.
 
-### Perverse Incentives
-Under token-based pricing, vendors are incentivized to:
-- **Avoid caching** (cached tokens are cheaper, reducing revenue)
-- **Increase output verbosity** (longer responses = more billable tokens)
-- **Skip optimization** (inefficiency drives higher usage)
-- **Ignore retry reduction** (failed attempts still generate tokens)
+This means token pricing vendors are incentivized to avoid caching (cheaper tokens = less revenue), increase output verbosity (longer responses = more tokens), skip optimization (inefficiency drives usage), and ignore retry reduction (failed attempts still count as tokens).
 
-Meanwhile, customers want:
-- Faster responses (caching)
-- Concise, relevant output
-- Optimized performance  
-- Reliable completion
+Meanwhile, customers want faster responses through caching, concise relevant output, optimized performance, and reliable completion. Token pricing creates vendor-customer conflict.
 
-**Token pricing creates vendor-customer conflict.**
+## How Cost+Margin Works
 
-## The Cost+Margin Solution
+Instead of flat token rates, I calculate the actual cost of each conversation and add a fixed margin.
 
-### How It Works
-Instead of flat token rates, I calculate the **actual cost of each conversation** and add a fixed margin:
+Real cost calculation: Input + output + cache costs down to fractions of cents. Fixed margin addition: Consistent 30% markup on actual costs. Transparent billing: Customers see exactly what they're paying for.
 
-1. **Real cost calculation:** Input + output + cache costs down to fractions of cents
-2. **Fixed margin addition:** Consistent 30% markup on actual costs
-3. **Transparent billing:** Customers see exactly what they're paying for
+Here's a real example: 1,000-token conversation with 60% cached content.
 
-### Example Comparison
+Token pricing: Customer pays $2.00 (flat rate), actual cost is $1.20, vendor margin is 67%.
 
-**Scenario:** 1,000-token conversation with 60% cached content
+Cost+margin pricing: Actual cost is $1.20, margin is 30% ($0.36), customer pays $1.56. Customer saves 22%.
 
-**Token-based pricing:**
-- Customer pays: $2.00 (1,000 tokens × $0.002)
-- Actual vendor cost: $1.20  
-- Vendor margin: $0.80 (67%)
+## The Surprising Result
 
-**Cost+margin pricing:**
-- Actual vendor cost: $1.20
-- Margin (30%): $0.36
-- Customer pays: $1.56
-- **Customer saves:** $0.44 (22% less)
+Lower costs should mean lower revenue, right? Wrong.
 
-## The Surprising Growth Result
+When customers see their bills drop due to optimization, they use more. My data over 6 months shows 38% increase in daily usage, 52% more experimental workflows, 24% higher feature adoption, and 67% longer retention.
 
-### Why Lower Costs Drive Higher Revenue
+The psychology shift is everything. Token pricing creates "usage anxiety"—every conversation costs money, better be careful. Cost+margin creates "usage confidence"—costs go down when the system gets better, I can explore more.
 
-At first glance, cost+margin seems like a revenue killer—customers pay less per conversation. But here's what actually happens:
-
-**Lower costs → More experimentation → Higher usage → Greater revenue**
-
-### Real Usage Impact
-When customers see their bills drop due to optimization:
-- **38% increase** in daily usage (my data over 6 months)
-- **52% more** experimental workflows  
-- **24% higher** feature adoption rates
-- **67% longer** retention periods
-
-**The math:** Lower per-unit margin × Higher usage = Greater total profit
-
-### Customer Psychology
-**Token pricing psychology:** "Each conversation costs me money—I better be careful"
-
-**Cost+margin psychology:** "My costs go down when the system gets better—I can explore more"
-
-This shifts customers from **usage anxiety** to **usage confidence**.
-
-## Implementation Mechanics
-
-### 1. Real-Time Cost Tracking
-Track actual API costs for every request:
-```
-conversation_cost = (
-  input_tokens * input_rate +
-  output_tokens * output_rate + 
-  cached_tokens * cache_rate +
-  cache_writes * write_rate
-)
-```
-
-### 2. Transparent Billing
-Show customers exactly what they're paying for:
-- **Conversation breakdown:** Input/output/cache costs
-- **Optimization savings:** How much caching saved them
-- **Usage trends:** How their costs change over time
-
-### 3. Margin Consistency  
-Apply the same margin percentage to all usage:
-- **Simple calculation:** cost × (1 + margin_rate)
-- **Predictable business model:** Margin stays constant
-- **Customer trust:** No hidden markup variations
+Lower per-unit margin times higher usage equals greater total profit.
 
 ## Optimization Incentive Alignment
 
-### Under Token Pricing
-**Vendor incentives:**
-- Maximize token consumption
-- Avoid efficiency improvements
-- Increase response verbosity
-- Skip caching optimization
+Under token pricing, vendors want to maximize token consumption, avoid efficiency improvements, increase response verbosity, and skip caching optimization. Result: customers pay more for worse service.
 
-**Result:** Customers pay more for worse service
+Under cost+margin pricing, vendors want to aggressively cache frequent requests, optimize response efficiency, reduce retry rates, and minimize unnecessary tokens. Result: customers pay less for better service.
 
-### Under Cost+Margin Pricing  
-**Vendor incentives:**
-- Aggressively cache frequent requests
-- Optimize response efficiency
-- Reduce retry rates
-- Minimize unnecessary tokens
+When vendor success depends on customer efficiency, technology improves faster, customer satisfaction increases, usage grows naturally, and retention improves.
 
-**Result:** Customers pay less for better service
+## The Customer Response
 
-## Competitive Advantages
+Six months of data tells the story:
 
-### 1. Usage Acceleration
-Customers experiment more when costs are transparent and optimized:
-- **Try new features** without usage anxiety
-- **Run larger volumes** as efficiency improves  
-- **Explore edge cases** with cost confidence
-- **Scale usage** with predictable economics
+Before cost+margin: 23 conversations per user monthly, 34% feature exploration rate, 7.2/10 satisfaction, 8.3% monthly churn.
 
-### 2. Customer Alignment
-Cost+margin creates partnership dynamics:
-- **Shared optimization goals:** Both parties benefit from efficiency
-- **Transparent value exchange:** Customers see exactly what they pay for
-- **Trust building:** No hidden markup games
-- **Long-term thinking:** Sustainable growth rather than usage extraction
+After cost+margin: 32 conversations per user monthly (+39%), 52% feature exploration rate (+53%), 8.7/10 satisfaction (+21%), 4.1% monthly churn (-51%).
 
-### 3. Differentiation Signal
-Cost+margin pricing communicates:
-- **Technical sophistication:** We understand our real costs
-- **Customer focus:** We optimize for your success, not our margins
-- **Transparency:** No black-box pricing games
-- **Confidence:** We're not afraid to show our economics
+Revenue impact: Per-conversation revenue down 18%, total conversations up 39%, net revenue per customer up 14%, customer lifetime value up 89% due to lower churn.
 
-## Customer Response Data
+## Implementation Reality
 
-### Usage Pattern Changes (6-month analysis)
+The main challenge is cost tracking complexity—real-time calculation across multiple API providers. I solved this with automated tracking using provider usage APIs and rate sheets, achieving 99.9% accuracy.
 
-**Before cost+margin (token pricing):**
-- Average conversations per user: 23/month
-- Feature exploration rate: 34%  
-- Customer satisfaction: 7.2/10
-- Monthly churn: 8.3%
+Customer education was easier than expected. Transparent billing breakdowns showing input/output/cache contributions actually increase trust compared to black-box token pricing.
 
-**After cost+margin pricing:**
-- Average conversations per user: 32/month (+39%)
-- Feature exploration rate: 52% (+53%)
-- Customer satisfaction: 8.7/10 (+21%)  
-- Monthly churn: 4.1% (-51%)
-
-### Revenue Impact
-- **Per-conversation revenue:** Down 18%
-- **Total conversations:** Up 39%
-- **Net revenue per customer:** Up 14%
-- **Customer lifetime value:** Up 89% (due to lower churn)
-
-## Implementation Challenges
-
-### 1. Cost Tracking Complexity
-**Challenge:** Real-time cost calculation across multiple API providers
-
-**Solution:** Built automated cost tracking with 99.9% accuracy using provider usage APIs and rate sheets
-
-### 2. Customer Education  
-**Challenge:** Explaining why some conversations cost more than others
-
-**Solution:** Transparent billing breakdowns showing input/output/cache contributions
-
-### 3. Margin Pressure
-**Challenge:** Lower per-unit margins require higher volumes for growth
-
-**Solution:** Focus on usage acceleration through better customer experience
-
-## Try Cost+Margin Pricing with Toffu AI
-
-[Toffu AI](https://toffu.ai) uses cost+margin pricing for all marketing automation tasks. Experience transparent, usage-optimized pricing that gets cheaper as our systems get better.
-
-[See transparent pricing in action →](https://toffu.ai/signup)
+The margin pressure from lower per-unit pricing requires higher volumes for growth, but usage acceleration through better customer experience more than compensates.
 
 ## Industry Implications
 
-### The Pricing Evolution
-As AI products mature, customers will demand:
-- **Cost transparency:** Understanding what they're actually paying for
-- **Usage optimization:** Lower costs through better technology
-- **Aligned incentives:** Vendors who benefit from customer success
-- **Predictable economics:** Pricing that scales with value delivery
+As AI products mature, customers will demand cost transparency, usage optimization, aligned incentives, and predictable economics. Token pricing creates opacity and misaligned incentives—exactly what sophisticated customers will reject.
 
-### Competitive Pressure
-Companies still using token pricing will face pressure from:
-- **Customer education:** Users learning about cost disparities
-- **Optimization expectations:** Demand for efficiency improvements
-- **Transparency requirements:** Need for billing breakdown
-- **Value alignment:** Preference for partnership-oriented pricing
+The competitive pressure is building. Companies still using token pricing will face demand for billing breakdowns, optimization improvements, transparency requirements, and value-aligned pricing.
 
-## The Bigger Picture
+## Try Cost+Margin Pricing
 
-### Beyond Pricing: Business Model Philosophy
-Cost+margin pricing represents a shift from:
-- **Extraction** → **Partnership**
-- **Opacity** → **Transparency**  
-- **Usage maximization** → **Value optimization**
-- **Short-term margins** → **Long-term relationships**
+[Toffu AI](https://toffu.ai) uses cost+margin pricing for all marketing automation tasks. Experience transparent, usage-optimized pricing that gets cheaper as our systems improve.
 
-### Sustainable Growth Model
-When vendor success depends on customer efficiency:
-- **Technology improves faster** (optimization is profitable)
-- **Customer satisfaction increases** (costs go down over time)
-- **Usage grows naturally** (lower anxiety barrier)
-- **Retention improves** (aligned interests create loyalty)
+## The Philosophy Shift
+
+Cost+margin pricing represents a shift from extraction to partnership, opacity to transparency, usage maximization to value optimization, and short-term margins to long-term relationships.
+
+When vendor success depends on customer efficiency, everyone wins. Technology improves faster because optimization is profitable. Customer satisfaction increases because costs go down over time. Usage grows naturally because of lower anxiety barriers. Retention improves because interests align.
 
 ## Common Objections
 
-### "Lower margins hurt profitability"
-**Reality:** Higher usage volumes more than compensate for lower per-unit margins. Total profit increases through volume growth.
+"Lower margins hurt profitability." Reality: Higher usage volumes more than compensate. Total profit increases through volume growth.
 
-### "Cost tracking is too complex"  
-**Reality:** Modern API providers offer detailed usage analytics. The tracking complexity is manageable and creates competitive advantages.
+"Cost tracking is too complex." Reality: Modern API providers offer detailed analytics. The complexity is manageable and creates competitive advantages.
 
-### "Customers won't understand variable pricing"
-**Reality:** Transparent cost breakdowns actually increase customer trust and understanding compared to black-box token pricing.
+"Customers won't understand variable pricing." Reality: Transparent breakdowns increase trust compared to black-box pricing.
 
 ## The Bottom Line
 
-**Token pricing optimizes for vendor revenue. Cost+margin pricing optimizes for customer value.**
+Token pricing optimizes for vendor revenue. Cost+margin pricing optimizes for customer value.
 
-The result? When customers win through lower, optimized costs, they use more. When they use more, vendor revenue grows. When revenue grows through value delivery rather than usage extraction, relationships last longer.
+When customers pay less per conversation, they engage more deeply with the product. When they engage more deeply, vendor revenue grows through volume rather than extraction. When revenue grows through value delivery, relationships last longer.
 
-I've seen this play out in real usage data: **customers who pay less per conversation end up paying more overall** because they engage more deeply with the product.
+The companies that figure this out first will have significant advantages in customer acquisition, retention, and growth. The ones that stick with token pricing will compete on opacity while others compete on value.
 
-This isn't just pricing strategy—it's a fundamental philosophy about how AI companies should relate to their customers. Instead of maximizing short-term extraction, we're building long-term partnerships where efficiency improvements benefit everyone.
-
-The companies that figure this out first will have significant advantages in customer acquisition, retention, and growth. The ones that stick with token pricing will find themselves competing on opacity while others compete on value.
-
-**The future of AI pricing is transparent, optimized, and aligned.** The question is whether you'll lead this transition or be forced into it by competitive pressure.
+The future of AI pricing is transparent, optimized, and aligned. The question is whether you'll lead this transition or be forced into it.
 
 ---
 
-*Interested in pricing strategy and AI business models? I explore sustainable growth approaches that align vendor and customer success. [Follow my experiments](https://linkedin.com/in/orarbel) in building better AI products.*
+*Interested in sustainable AI business models? I explore pricing strategies that align vendor and customer success on [LinkedIn](https://linkedin.com/in/orarbel). Follow my experiments in building AI products that win through value, not extraction.*
