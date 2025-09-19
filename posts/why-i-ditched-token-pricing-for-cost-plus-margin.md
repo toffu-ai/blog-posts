@@ -6,7 +6,7 @@ image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/pricing-transparency-t
 slug: "ai-token-pricing-vs-cost-plus-margin-analysis"
 ---
 
-# Why I Ditched Token Pricing for Cost+Margin
+# AI Token Pricing vs Cost Plus Margin - Customer Growth Analysis
 
 I built a pricing model where I only win when my customers win.
 
@@ -93,7 +93,7 @@ When vendor success depends on customer efficiency, everyone wins. Technology im
 ## Common Objections
 
 "Lower margins hurt profitability." Reality: Higher usage volumes more than compensate. Total profit increases through volume growth.
-
+[Toffu AI](https://toffu.ai) uses cost+margin pricing for all [marketing automation tasks](https://toffu.ai/tools). Experience transparent, usage-optimized pricing that gets cheaper as our systems improve.
 "Cost tracking is too complex." Reality: Modern API providers offer detailed analytics. The complexity is manageable and creates competitive advantages.
 
 "Customers won't understand variable pricing." Reality: Transparent breakdowns increase trust compared to black-box pricing.
