@@ -63,8 +63,21 @@ The bigger worry should be losing users who never get to experience your product
 Support mode becomes a differentiator. "Try our AI with no usage anxiety." "Learn our capabilities risk-free." "Questions don't count against your credits."
 
 Users who understand your product recommend it to others. They know how to demonstrate value, can explain capabilities clearly, and have worked through limitations. They become your best sales team.
+## Support Mode Implementation Checklist
 
-## Why This Matters More Now
+✅ **Distinguish support from work requests** - "How do I use this?" vs "Analyze this data"  
+✅ **Make mode switching obvious** - Clear visual indicators and one-click toggle  
+✅ **Track the right metrics** - Activation rates, not just usage volume  
+✅ **Educate users about the benefit** - "Questions don't count against credits"  
+
+## Building Agent-First Products
+
+Support mode is part of a larger shift toward AI-first product design:
+- [Replace Employees with AI Agents - 50x Cost Reduction](https://toffu.ai/blog/replace-employees-with-ai-agents-cost-reduction) - How AI agents handle entire business functions
+- [AI Product Onboarding Strategy That Drives User Engagement](https://toffu.ai/blog/ai-product-onboarding-strategy-user-engagement) - Design onboarding that filters for quality users
+
+
+## The Bottom Line
 
 As AI products mature, user experience sophistication becomes the differentiator. Features become commoditized, but onboarding experiences create lasting competitive advantages.
 
