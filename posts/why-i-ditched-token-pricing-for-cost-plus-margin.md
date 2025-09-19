@@ -12,7 +12,7 @@ slug: "ai-token-pricing-vs-cost-plus-margin-analysis"
 
 I built a pricing model where I only win when my customers win.
 
-Most AI products charge by tokens, but here's the problem: not all tokens cost the same. Input tokens, output tokens, cached tokens, and cache writes all have different costs—but traditional token pricing treats them identically.
+## Why Token Pricing Creates Vendor-Customer Conflict
 
 This creates a fundamental misalignment. Under token pricing, vendors make more money when their systems are inefficient. Under cost+margin pricing, vendors make more money when their systems get better.
 
@@ -26,7 +26,7 @@ So identical "1,000 token" conversations can cost vendors anywhere from $0.70 to
 
 This means token pricing vendors are incentivized to avoid caching (cheaper tokens = less revenue), increase output verbosity (longer responses = more tokens), skip optimization (inefficiency drives usage), and ignore retry reduction (failed attempts still count as tokens).
 
-Meanwhile, customers want faster responses through caching, concise relevant output, optimized performance, and reliable completion. Token pricing creates vendor-customer conflict.
+## How Cost Plus Margin Pricing Works
 
 ## How Cost+Margin Works
 
@@ -39,7 +39,7 @@ Here's a real example: 1,000-token conversation with 60% cached content.
 Token pricing: Customer pays $2.00 (flat rate), actual cost is $1.20, vendor margin is 67%.
 
 Cost+margin pricing: Actual cost is $1.20, margin is 30% ($0.36), customer pays $1.56. Customer saves 22%.
-
+## What Happened When I Switched Pricing Models
 ## The Surprising Result
 
 Lower costs should mean lower revenue, right? Wrong.
