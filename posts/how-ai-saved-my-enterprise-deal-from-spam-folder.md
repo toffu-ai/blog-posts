@@ -16,11 +16,11 @@ The problem? I couldn't find the damn email anywhere.
 
 I searched my inbox. Nothing. I searched by name, company, domain. Still nothing. I use Superhuman, which has the best search in email. If Superhuman can't find it, it doesn't exist, right?
 
-So I told the AI: "I can't find it."
+## What Actually Happened
 
 The response came back instantly: "You can't find it because it's in spam."
 
-And there it was. Not a phishing attempt or some promotional crap. A legitimate email from a security specialist at a company that was literally in the middle of purchasing an annual enterprise license. The kind of email that blocks deals until you respond.
+## Why Enterprise Emails Get Flagged as Spam
 
 ## Why This Actually Matters
 
@@ -36,7 +36,7 @@ The AI that caught this email was [Poke](https://poke.com). It monitors everythi
 
 Turns out, enterprise security teams trigger spam filters constantly. They send from unfamiliar domains, use formal language that sounds like cold outreach, and include technical questionnaires that look like phishing attempts to filters.
 
-I started digging into this after my near-miss. Enterprise security teams trigger spam filters constantly because they send from unfamiliar domains, use formal language that sounds like cold outreach, and include technical questionnaires that look like phishing attempts to filters.
+## How AI Email Monitoring Works
 
 For sales teams, this creates constant risk. Even a small percentage of missed emails can impact potential deals, and you're looking at revenue walking away without you knowing it.
 
