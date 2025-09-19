@@ -12,7 +12,7 @@ slug: "ai-product-support-mode-user-activation"
 
 40% of the first messages new users send to AI chat products are support questions.
 
-Not real work. Not value-driving usage. Just basic stuff like "What can you do?" and "Why am I getting this error?" and "How does this work?"
+## How Support Mode Solves the Activation Problem
 
 Here's the brutal reality: users are burning through their trial credits learning how to use your product instead of experiencing its value. By the time they're ready to do real work, half their trial is gone.
 
@@ -25,14 +25,14 @@ Picture this typical flow: User signs up, gets 100 free credits. First 20 credit
 45 credits gone before any real work happens. User tries their actual task with 55 remaining credits, gets a partial result, assumes the product sucks, and bounces.
 
 I see this constantly. Users need to understand what the product can actually do, how to structure requests, which features solve their problems, and how to interpret results. This learning process requires conversation—but treating every question as billable usage penalizes curiosity.
-
+## What Happens When Users Can't Learn for Free
 The result? Users hesitate to ask questions, value realization takes forever, and conversion confidence never builds.
 
 ## Why Support Mode Changes Everything
 
 Support mode is simple: questions about capabilities don't deplete credits. Feature explanations are free. Learning the product has zero usage cost.
 
-The key distinction is support mode handles product questions while work mode handles actual tasks. "How do I analyze data?" is support. "Analyze this spreadsheet" is work.
+## How to Implement Support Mode Successfully
 
 I've seen products implement this and watch activation rates improve significantly. When users can explore without usage anxiety, they understand capabilities faster, experience value immediately, and convert with confidence.
 
