@@ -2,7 +2,7 @@
 title: "How I Replaced 600K in Salaries with 12K in AI Agents"
 description: "The complete breakdown of how I built an agent-first company that replaced 6 full-time roles with AI agents and automations for 50x cost savings."
 date: "2025-09-19"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/agent-first-cost-savings-comparison.png"
+image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/agent-first-cost-savings-comparison.jpg"
 slug: "how-i-replaced-600k-salaries-with-12k-ai-agents"
 ---
 
