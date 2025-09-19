@@ -8,147 +8,95 @@ slug: "how-i-replaced-600k-salaries-with-12k-ai-agents"
 
 # How I Replaced $600K in Salaries with $12K in AI Agents
 
-Most founders believe the only way to scale is by hiring more people. I went the opposite direction and replaced entire roles with AI agents and automations.
+Most founders think scaling means hiring more people. I decided to go the opposite direction and replace entire roles with AI agents.
 
-Here's the exact breakdown of how I built an agent-first company that delivers the output of 6 full-time employees for less than $1,000 per month.
+The math is brutal: I'm getting the output of 6 full-time employees for about $1,000 per month. That's a 50x cost difference, and honestly, the agents work better than most humans I've managed.
 
-## The Numbers That Matter
+Here's exactly how I did it.
 
-**Traditional approach:** 6 full-time roles at ~$100K each = $600K annually  
-**Agent-first approach:** AI agents + automations = $12K annually  
-**Savings:** 50x cost reduction
+## The Stack That Runs My Business
 
-This isn't theoretical. This is how I actually run my business today.
+**Development: Cursor ($20/month)**
 
-## My Complete Agent Stack Breakdown
+Cursor doesn't just autocomplete code. It ships entire features while I sleep. Last week it refactored our authentication system, wrote comprehensive tests, and handled a nasty edge case that would've taken me days to debug. The equivalent developer salary? $120K minimum.
 
-Here's exactly what each "role" costs me and what it delivers:
+**Product Analysis: Hunch.dev + PostHog ($49/month)**
 
-### 1. Development Team → Cursor ($20/month)
-**Replaces:** 2 developers ($200K annually)  
-**What it does:** Ships new features, fixes bugs, reviews code, handles technical debt  
-**Real impact:** Cursor operates like a full development team that never sleeps. It doesn't just suggest code—it understands context, implements complex features, and maintains code quality standards.
+PostHog gives me the data. Hunch turns it into insights I actually care about. It caught a 23% drop in activation that I would've missed for weeks. Found out users were bouncing on our pricing page because of a single confusing sentence. A dedicated analyst would cost me $100K annually.
 
-### 2. Product Analyst → Hunch.dev + PostHog ($49/month + Free API)
-**Replaces:** Product analyst ($120K annually)  
-**What it does:** Anomaly detection, user behavior analysis, feature performance insights  
-**Real impact:** PostHog's free API feeds data into Hunch.dev for automated insights that would typically require a dedicated analyst to uncover.
+**Marketing: Toffu AI ($297/month)**
 
-### 3. Marketing Manager → Toffu AI ($297/month)
-**Replaces:** Marketing manager ($100K annually)  
-**What it does:** LinkedIn posts, ad copy, campaign management, content strategy  
-**Real impact:** Handles end-to-end marketing from drafting posts to pushing campaigns live across multiple channels.
+This one I'm biased about since I built it, but it handles everything from LinkedIn posts to campaign optimization. It's not just writing copy—it's analyzing performance, adjusting targeting, and making budget decisions. Marketing managers don't come cheap, especially good ones.
 
-### 4. DevOps Engineer → Hud + Cursor Integration ($29/month)
-**Replaces:** DevOps engineer ($130K annually)  
-**What it does:** Production debugging with MCP context feeding directly into Cursor  
-**Real impact:** Issues get fixed, not just reported. The combination provides contextual debugging and automated solutions.
+**Production Debugging: Hud + Cursor ($29/month)**
 
-### 5. QA Engineer → Sentry Seer ($26/month)
-**Replaces:** QA engineer ($90K annually)  
-**What it does:** Identifies issues and opens pull requests with fixes  
-**Real impact:** Instead of just error monitoring, it actively proposes and implements solutions.
+Here's where it gets interesting. Hud provides context about production issues directly to Cursor through MCP. So when something breaks, Cursor gets all the debugging context it needs and actually fixes the issue. Not just alerts me—fixes it.
 
-### 6. CI/CD Manager → Vercel + Render Bots ($580/month)
-**Replaces:** DevOps specialist ($80K annually)  
-**What it does:** Handles frontend and backend deployment pipelines  
-**Real impact:** Zero-touch deployments. I never interact with CI/CD pipelines directly.
+**QA: Sentry Seer ($26/month)**
 
-**Total monthly cost:** ~$1,000  
-**Total annual cost:** ~$12,000
+Most monitoring tools just tell you something broke. Sentry Seer opens pull requests with actual fixes. I review, approve, merge. Done. No back-and-forth, no investigation time, no "let me look into this."
 
-## Why This Works Better Than Hiring
+**CI/CD: Vercel + Render ($580/month)**
 
-### Speed of Execution
-- No hiring process (save 2-3 months per role)
-- No onboarding time (agents work immediately)
-- No management overhead (minimal supervision required)
-- 24/7 availability (no vacation days or sick leave)
+Zero-touch deployments. I push code, everything else happens automatically. I literally haven't touched a deployment pipeline in 8 months.
 
-### Quality Control
-Contrary to popular belief, I don't micromanage these agents. I focus on **outcome review**, not process management:
+Total monthly cost: ~$1,000
+Equivalent salaries: ~$600,000 annually
 
-- If Cursor fixes a bug, I verify the fix works
-- If Toffu drafts a campaign, I review the strategy
-- If Sentry opens a PR, I review and merge
+## Why This Actually Works
 
-This lightweight oversight model keeps me in control without the management burden.
+The secret isn't the tools—it's changing how you think about oversight.
 
-## The Three Critical Mindset Shifts
+I don't micromanage these agents. I review outcomes, not processes. If Cursor fixes a bug, I check that the fix works. If Toffu drafts a campaign, I skim the strategy. If Sentry opens a PR, I review and merge.
 
-### 1. Stop Counting Tokens
-My biggest early mistake was trying to save on API costs. These expenses are insignificant compared to the time and salary savings. If you value your time, don't optimize for token costs.
+This lightweight oversight model keeps me in control without the management overhead.
 
-### 2. Expect Iteration, Not Perfection
-Agents aren't plug-and-play employees. They require feedback and refinement, just like onboarding junior staff. The difference is the learning curve is measured in days, not months.
+Most people expect agents to be perfect. That's the wrong mindset. They're like junior employees—they need feedback and iteration. The difference is the learning curve is measured in days, not months.
 
-### 3. Think Tasks, Not Titles
-Before hiring for a role, break down the actual work that needs to happen. You'll discover many tasks are better suited for agents than humans.
+## The Mindset Shifts That Matter
 
-## Real-World Application Example
+I made three critical changes that most people miss:
+
+**Stop counting tokens.** The API costs are nothing compared to salary savings. Anyone worried about token costs is optimizing for the wrong thing.
+
+**Think tasks, not titles.** Before you hire for a role, break down the actual work. You'll find most tasks are better suited for agents than humans.
+
+**Expect iteration.** Agents aren't plug-and-play. They require refinement, just like onboarding any new team member.
+
+## A Day in the Life
 
 Here's how this plays out in practice:
 
-**Issue:** Critical bug reported in production  
-**Traditional flow:** 
-1. Bug report → QA engineer (2 hours)
-2. Investigation → Developer (4 hours)  
-3. Fix development → Developer (6 hours)
-4. Review → Senior developer (1 hour)
-5. Deployment → DevOps (30 minutes)
+**Morning:** Check overnight deployments (automated), review Sentry fixes (2 PRs approved), scan marketing performance (Toffu handled 3 optimizations).
 
-**Agent-first flow:**
-1. Sentry detects issue and creates detailed report
-2. Hud provides contextual debugging info to Cursor
-3. Cursor implements fix and opens PR
-4. I review and approve (15 minutes)
-5. Automated deployment handles release
+**Midday:** Product issue surfaces. Hud catches it, provides context to Cursor, Cursor implements fix, creates PR. I review and approve. Total time: 15 minutes.
 
-**Result:** 13+ hours of human work reduced to 15 minutes of oversight.
+**Evening:** Cursor shipped a new feature I requested yesterday. Hunch flagged an anomaly in user behavior. Toffu adjusted ad spend based on performance data.
 
-## The Economics That Make This Inevitable
+My actual hands-on time: Maybe 2 hours. Everything else happened automatically.
 
-This isn't just about cost savings—it's about fundamental economics:
+## The Economics Are Inevitable
 
-- **Human costs scale linearly:** More work = more people = more salary
-- **Agent costs scale sub-linearly:** More work = higher usage but not proportionally higher costs
-- **Management overhead:** 6 employees = meetings, reviews, HR issues
-- **Agent overhead:** Near-zero management time
+This isn't just about cost savings. The economic advantages compound:
 
-## Getting Started With Agent-First
+Lower burn rates mean longer runways. Faster execution means quicker iteration. Higher margins mean more investment in growth. No geographic constraints mean global talent access.
 
-If you're running lean or starting out, here's your roadmap:
+While competitors scale headcount linearly, agent-first companies scale capabilities exponentially.
 
-1. **Audit your task list:** What work could be systematized?
-2. **Start with one role:** Pick your most repetitive function first
-3. **Accept imperfection:** Plan for iteration and refinement
-4. **Stack complementary agents:** Look for tools that work together
-5. **Scale gradually:** Add agents as you validate the approach
+## Try It Yourself
 
-## The Agent-First Advantage
+Want to see agent-first marketing in action? [Toffu AI](https://toffu.ai) handles everything from campaign creation to performance optimization. Experience how AI agents can replace your marketing workload instead of just assisting it.
 
-Companies built this way have structural advantages:
+## The Reality Check
 
-- **Lower burn rate** = longer runway
-- **Faster execution** = quicker iteration cycles  
-- **Higher margins** = more investment in growth
-- **Geographic flexibility** = no office constraints
-- **Scalable foundation** = growth without proportional cost increases
+This approach isn't perfect. Agents lack creativity and often sound repetitive. They can't handle complex strategic decisions or navigate office politics.
 
-## Try Toffu AI for Your Marketing Automation
+But for structured, repetitive work? They're unbeatable. And they free me to focus on the high-leverage decisions that actually move the business forward.
 
-Want to see agent-first in action? [Start with Toffu AI](https://toffu.ai) to automate your marketing workflows. From campaign creation to performance optimization, experience how AI agents can replace your marketing workload.
+The companies figuring this out now will have massive advantages. While others are scaling teams, we're scaling capabilities. While they're managing people, we're managing outcomes.
 
-[Get started with Toffu →](https://toffu.ai/signup)
-
-## What's Next
-
-Agent-first isn't just a cost optimization—it's a competitive advantage. While other companies are scaling headcount linearly, agent-first companies are scaling capabilities exponentially.
-
-The founders who master this approach now will build leaner, faster, more profitable companies. And they'll do it with less stress, fewer management headaches, and more focus on what actually matters: building great products.
-
-The question isn't whether AI agents will replace traditional roles. The question is whether you'll adapt before or after your competition does.
+The question isn't whether AI will replace roles. It's whether you'll adapt before your competition does.
 
 ---
 
-*Building an agent-first company? I share lessons learned and practical strategies for running lean with AI. [Follow my journey](https://linkedin.com/in/orarbel) as I continue optimizing for maximum leverage with minimal overhead.*
+*Building an agent-first company? Follow my journey on [LinkedIn](https://linkedin.com/in/orarbel) as I share what works, what doesn't, and how to maximize leverage with minimal overhead.*
