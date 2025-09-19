@@ -9,7 +9,7 @@ slug: "why-poke-ai-onboarding-is-product-management-genius"
 # Why Poke AI's Onboarding is Product Management Genius
 
 Most AI apps use a boring waitlist. Poke.com roasted me, demanded $1,024/month for access, then negotiated me down to zero—all before I saw a single feature.
-
+Here's the typical flow: user enters email, email goes into a queue, weeks later maybe they get access, most have forgotten why they signed up.
 This wasn't onboarding. It was performance art.
 
 And it's the smartest product management strategy I've seen this year.
