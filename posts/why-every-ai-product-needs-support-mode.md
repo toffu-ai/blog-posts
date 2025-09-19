@@ -2,7 +2,7 @@
 title: "Why Every AI Product Needs Support Mode"
 description: "40% of first messages to AI products are support questions, not real work. Here's why charging for support is sabotaging your user activation and growth."
 date: "2025-09-19"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/ai-product-support-mode-concept.jpg"
+image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/support-mode-toffu.jpg"
 slug: "why-every-ai-product-needs-support-mode"
 ---
 
