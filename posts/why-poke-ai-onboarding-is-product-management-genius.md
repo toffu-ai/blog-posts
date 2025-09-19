@@ -2,7 +2,7 @@
 title: "Why Poke AI's Onboarding is Product Management Genius"
 description: "Most AI apps use boring waitlists. Poke.com turned onboarding into performance art that filters users, creates stories, and drives viral growth."
 date: "2025-09-19"
-image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/product-onboarding-bouncer-innovation.jpg"
+image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/onboarding-bouncer-toffu.jpg"
 slug: "why-poke-ai-onboarding-is-product-management-genius"
 ---
 
