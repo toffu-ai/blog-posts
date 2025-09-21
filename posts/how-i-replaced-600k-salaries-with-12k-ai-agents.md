@@ -3,7 +3,7 @@ title: "Replace Employees with AI Agents - 50x Cost Reduction"
 description: "How I replaced 6 full-time employees with AI agents for $1K/month. Complete breakdown of tools, costs, and results from running an agent-first company."
 date: "2025-09-19"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/agent-first-cost-savings-toffu.jpg"
-slug: "replace-employees-with-ai-agents-cost-reduction"
+slug: "how-i-replaced-600k-salaries-with-12k-ai-agents"
 ---
 
 # Replace Employees with AI Agents - 50x Cost Reduction
