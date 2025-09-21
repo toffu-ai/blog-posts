@@ -62,8 +62,8 @@ I made three critical changes that most people miss:
 **Think tasks, not titles.** Before you hire for a role, break down the actual work. You'll find most tasks are better suited for agents than humans.
 
 **Expect iteration.** Agents aren't plug-and-play. They require refinement, just like onboarding any new team member.
-
-## A Day in the Life
+- [AI Product Support Mode Increases User Activation](https://toffu.ai/blog/why-every-ai-product-needs-support-mode) - How to design AI products that users actually adopt
+- [AI Token Pricing vs Cost Plus Margin Analysis](https://toffu.ai/blog/why-i-ditched-token-pricing-for-cost-plus-margin) - Pricing strategies that align with customer success
 
 Here's how this plays out in practice:
 
