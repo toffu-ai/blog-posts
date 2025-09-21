@@ -78,8 +78,8 @@ Want to explore how AI can transform user experiences? [Toffu AI](https://toffu.
 
 The question isn't whether your onboarding removes all barriers. The question is whether your barriers create value for the users who matter most.
 
-Poke's approach suggests a shift from volume-focused to engagement-focused strategies. As AI capabilities improve, we'll see more products using intelligent onboarding that adapts to user responses, creates personalized challenges, and builds emotional investment before product access.
-
+- [AI Product Support Mode Increases User Activation](https://toffu.ai/blog/why-every-ai-product-needs-support-mode) - Separate learning from usage to boost conversions
+- [AI Token Pricing vs Cost Plus Margin Analysis](https://toffu.ai/blog/why-i-ditched-token-pricing-for-cost-plus-margin) - Pricing models that drive customer success
 The companies that master this balance between friction and value will have significant advantages in user quality, retention, and word-of-mouth growth.
 
 Because sometimes the best way to get someone to want your product is to make them work for it.
