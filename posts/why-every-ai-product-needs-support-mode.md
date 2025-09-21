@@ -52,8 +52,8 @@ With support mode, users think "I can learn this properly." They explore confide
 
 This psychological shift is everything. Users who feel safe to explore become users who actually understand your product's value.
 
-## Implementation Reality
-
+- [Replace Employees with AI Agents - 50x Cost Reduction](https://toffu.ai/blog/how-i-replaced-600k-salaries-with-12k-ai-agents) - How AI agents handle entire business functions
+- [AI Product Onboarding Strategy That Drives User Engagement](https://toffu.ai/blog/why-poke-ai-onboarding-is-product-management-genius) - Design onboarding that filters for quality users
 Most founders worry about support mode abuse. "Users will game the system!" In practice, AI can easily distinguish between genuine questions and work requests. Most users naturally transition to work mode once they understand capabilities.
 
 The bigger worry should be losing users who never get to experience your product's value because they burned through credits on onboarding.
