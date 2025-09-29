@@ -19,11 +19,12 @@ The solution isn't copying ChatGPT's $20/month - it's building pricing framework
 From AI business discussions on Reddit, founders struggle with unpredictable pricing:
 Software pricing typically assumes near-zero marginal costs once you build the product. AI agents break this assumption completely.
 > "Our AI agent costs vary wildly - a simple customer service interaction might cost $0.02, but a complex problem-solving session could cost $2.50. How do you price that predictably?" - [r/ArtificialIntelligence](https://www.reddit.com/r/artificial/)
+
 **Variable Compute Costs Are Brutal**
 ### The Value Perception Challenge
 From AI business discussions on Reddit, founders share similar struggles:
 > "Our AI agent costs vary wildly - a simple customer service interaction might cost $0.02, but a complex problem-solving session could cost $2.50. How do you price that predictably?"
-This isn't theoretical. [Andreessen Horowitz's AI business analysis](https://a16z.com/ai-business-models/) found that AI companies face unique challenges:
+This isn't theoretical. [Andreessen Horowitz's enterprise AI analysis](https://a16z.com/ai-enterprise-2025/) shows that AI companies face unique challenges:
 > "AI applications often create significant customer value but struggle with pricing models that capture that value while managing variable computational costs and customer expectations for predictable pricing."
 **The Value Measurement Problem**
 **The Competitive Pricing Pressure**

@@ -9,8 +9,6 @@ tags: ["Google Ads", "Automation", "Reporting", "ROAS", "ROI", "Email Reports"]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9ueuAoS3EU" title="Daily Google Ads Report with Toffu AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# How to Set Up Automated Daily Google Ads Reports
-
 Checking Google Ads performance every morning feels like archaeological work. Log in, navigate through multiple campaigns, compile metrics into spreadsheets, and try to make sense of yesterday's spending and conversions. By the time you finish your "quick" daily check, 45 minutes are gone and you still don't have actionable insights.
 
 Meanwhile, performance issues pile up while you're manually pulling data instead of optimizing campaigns.
