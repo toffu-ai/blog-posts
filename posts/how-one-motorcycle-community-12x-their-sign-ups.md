@@ -9,7 +9,7 @@ slug: "how-one-motorcycle-community-12x-their-sign-ups"
 # How One Motorcycle Community 12x'd Their Sign-Ups
 
 **Company:** [Motorcycle Riders Hub](https://motorcycleridershub.co.uk/)  
-**Founder:** Simon Hayes
+**Founder:** Simon Hayes  
 **Industry:** Motorcycle training and digital education  
 **Team Size:** Small distributed team  
 **Product:** Motorcycle training app \+ digital training logbook used by schools across the UK
@@ -22,7 +22,7 @@ For 4 years, Simon ran Meta ads trying to grow Motorcycle Riders Hub. The produc
 
 Then Simon started using Toffu. Within weeks, **sign-ups rose to \~500 per week**, without raising ad spend. In fact, **he spent less**.
 
-“Where I’ve been fumbling around for the last 4 years, Toffu gave me the exact route through. It was a rocket boost.”
+> *"Where I've been fumbling around for the last 4 years, Toffu gave me the exact route through. It was a rocket boost."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
 ---
 
@@ -33,9 +33,9 @@ Then Simon started using Toffu. Within weeks, **sign-ups rose to \~500 per week*
 - Money went out; results didn’t grow.  
 - No in-house marketing lead, and agencies were too expensive.
 
-“I’ve been playing with Facebook for years — a little money in, wasting a lot. I didn’t realize how much was wrong in the backend.”
+> *"I've been playing with Facebook for years — a little money in, wasting a lot. I didn't realize how much was wrong in the backend."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
-The issue wasn’t effort. It was structure.
+The issue wasn't effort. It was structure.
 
 ---
 
@@ -44,14 +44,14 @@ The issue wasn’t effort. It was structure.
 Simon had already tried ChatGPT and other AI tools.
 
 They could write.  
-But they couldn’t *think*.
+But they couldn't *think*.
 
-“The info from Toffu is far more detailed and thorough. It gives strategy, reasoning, and an exact plan. It’s like having a marketing team I can’t afford.”
+> *"The info from Toffu is far more detailed and thorough. It gives strategy, reasoning, and an exact plan. It's like having a marketing team I can't afford."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
-Toffu didn’t just output text.  
+Toffu didn't just output text.  
 It **audited systems**, **restructured campaigns**, and **challenged business decisions**.
 
-“It’s like having a thousand marketers sat together debating and then giving me the best option.”
+> *"It's like having a thousand marketers sat together debating and then giving me the best option."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
 ---
 
@@ -71,7 +71,7 @@ Together with Toffu, Simon:
 Sign-ups jumped from **20–40/week** → **\~500/week**.  
 **Ad spend decreased.**
 
-“I haven’t increased spend. I’ve *decreased* it — and it’s now hitting the right people.”
+> *"I haven't increased spend. I've *decreased* it — and it's now hitting the right people."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
 ---
 
@@ -96,7 +96,7 @@ For the first time, Simon has:
 - A pricing and retention model  
 - A **long-term growth and exit strategy**
 
-“I now know what to do every week, every month — and even how to position the business for exit in a few years.”
+> *"I now know what to do every week, every month — and even how to position the business for exit in a few years."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
 ---
 
@@ -104,15 +104,13 @@ For the first time, Simon has:
 
 Simon told Toffu:
 
-“Hold me to account. Be brutally honest.”
+> *"Hold me to account. Be brutally honest."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
-One day it responded:
-
-“I can smell bullshit.”
+One day Toffu responded: *"I can smell bullshit."*
 
 Simon laughed — because it was right to push him.
 
-“It challenged my assumptions. That moment shifted everything. It stopped being a tool and started being a teammate.”
+> *"It challenged my assumptions. That moment shifted everything. It stopped being a tool and started being a teammate."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
 ---
 
@@ -125,13 +123,13 @@ Simon laughed — because it was right to push him.
 | Targeting | Broad, generalized | **Focused, learner-specific** |
 | Strategic plan | None | **Clear roadmap \+ exit strategy** |
 
-“This has been a game changer for the business.”
+> *"This has been a game changer for the business."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
 ---
 
 ## Advice for New Users
 
-“Don’t treat Toffu like a toy. Think before you prompt. Tell it your goals. If you want to play, use ChatGPT \- if you want to be professional, use Toffu.”
+> *"Don't treat Toffu like a toy. Think before you prompt. Tell it your goals. If you want to play, use ChatGPT \- if you want to be professional, use Toffu."* – **Simon Hayes**, Founder, Motorcycle Riders Hub
 
 - Build the strategy first.  
 - Then automate.
