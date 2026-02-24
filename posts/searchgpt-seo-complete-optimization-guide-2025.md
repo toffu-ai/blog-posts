@@ -1,7 +1,7 @@
 ---
 title: "SearchGPT SEO: Complete 2025 Optimization Guide"
 description: "Master SearchGPT optimization with this comprehensive 2025 guide. Learn ranking factors, implementation strategies, and how to dominate AI-powered search results."
-date: "2025-01-23"
+date: "2026-01-07"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/searchgpt-seo-optimization-guide-2025.png"
 slug: "searchgpt-seo-complete-optimization-guide-2025"
 ---

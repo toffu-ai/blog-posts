@@ -1,6 +1,6 @@
 ---
 title: "Why You're Drowning in Marketing Tools (And How to Automate Your Way Out)"
-date: "2025-01-28"
+date: "2026-02-04"
 author: "Toffu Team"
 excerpt: "The average marketer uses 12+ tools daily and spends 40% of their time on tool management instead of actual marketing. Here's how to automate your way out of the chaos."
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/marketing-tool-overwhelm-chaos.avif"

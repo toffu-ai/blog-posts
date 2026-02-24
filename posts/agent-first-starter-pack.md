@@ -1,7 +1,7 @@
 ---
 title: "Agent-First Starter Pack"
 description: "How to run lean by replacing headcount with agents + automations. Learn how I replaced ~$600K in annual salaries with ~$12K in agents."
-date: "2025-09-11"
+date: "2026-02-18"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/f726f489-2262-4cf6-a2bb-e9006490c95b.png"
 slug: "agent-first-starter-pack"
 ---

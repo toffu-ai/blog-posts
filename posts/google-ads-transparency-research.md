@@ -1,7 +1,7 @@
 ---
 title: "Google Ads Transparency Center Research with AI"
 description: "Automate Google Ads Transparency Center competitive research with AI. Uncover competitor strategies and gain valuable insights for your campaigns."
-date: "2024-09-10"
+date: "2025-12-11"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-transparency-research-hero.avif"
 slug: "google-ads-transparency-research"
 ---
