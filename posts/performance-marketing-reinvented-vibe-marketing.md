@@ -4,6 +4,7 @@ description: "Gamma, Genspark, NotebookLM — they all produce the same slides. 
 date: "2026-02-24"
 author:
   name: "Amir Shneider"
+  title: "CMO at SkyWatch & VOOM Insurance"
   pic_url: "https://i.toffu.ai/lbn9nbh9-Amir-Profile-Pic2025.jpg"
   linkedin_url: "https://www.linkedin.com/in/amir-shneider/"
 image: "https://i.toffu.ai/slide_01_v4_chfxgml1.png"
