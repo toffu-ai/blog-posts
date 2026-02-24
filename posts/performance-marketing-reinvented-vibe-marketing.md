@@ -38,7 +38,7 @@ What I wanted was different: a deck that felt like it was made for a Google even
 
 The entire session happened on WhatsApp. That's the point — no laptop, no platform login, no Figma file open. Just a conversation.
 
-![The full WhatsApp conversation — from Hebrew PDF to finished 13-slide deck](https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/whatsapp-deck-mockup.jpg)
+<img src="https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/whatsapp-deck-mockup.jpg" alt="The full WhatsApp conversation — from Hebrew PDF to finished 13-slide deck" width="380" style="display:block;margin:0 auto;" />
 
 The original deck was in Hebrew. Before I could redesign it, I needed to understand what was in it.
 
