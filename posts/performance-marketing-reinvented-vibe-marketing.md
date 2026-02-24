@@ -2,6 +2,7 @@
 title: "I Made a Better Deck Than Gamma. Here's Exactly How."
 description: "Gamma, Genspark, NotebookLM — they all produce the same slides. Here's how I used Toffu AI to build a genuinely designed, pixel-generated presentation deck for a Google event from scratch."
 date: "2026-02-24"
+author: "Amir Shneider"
 image: "https://i.toffu.ai/slide_01_v4_chfxgml1.png"
 slug: "performance-marketing-reinvented-vibe-marketing"
 ---
