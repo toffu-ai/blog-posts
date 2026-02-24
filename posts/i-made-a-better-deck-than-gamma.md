@@ -8,7 +8,7 @@ author:
   pic_url: "https://i.toffu.ai/lbn9nbh9-Amir-Profile-Pic2025.jpg"
   linkedin_url: "https://www.linkedin.com/in/amir-shneider/"
 image: "https://i.toffu.ai/slide_01_v4_chfxgml1.png"
-slug: "performance-marketing-reinvented-vibe-marketing"
+slug: "i-made-a-better-deck-than-gamma"
 ---
 
 # I Made a Better Deck Than Gamma. Here's Exactly How.
