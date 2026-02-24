@@ -3,6 +3,7 @@ title: "I Made a Better Deck Than Gamma. Here's Exactly How."
 description: "Gamma, Genspark, NotebookLM — they all produce the same slides. Here's how I used Toffu AI to build a genuinely designed, pixel-generated presentation deck for a Google event from scratch."
 date: "2026-02-24"
 author: "Amir Shneider"
+authorTitle: "CMO at SkyWatch & VOOM Insurance, Founding CMO at Toffu AI"
 image: "https://i.toffu.ai/slide_01_v4_chfxgml1.png"
 slug: "performance-marketing-reinvented-vibe-marketing"
 ---
@@ -34,6 +35,10 @@ What I wanted was different: a deck that felt like it was made for a Google even
 ---
 
 ## The Starting Point: A Hebrew PDF
+
+The entire session happened on WhatsApp. That's the point — no laptop, no platform login, no Figma file open. Just a conversation.
+
+![The full WhatsApp conversation — from Hebrew PDF to finished 13-slide deck](https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/whatsapp-deck-mockup.jpg)
 
 The original deck was in Hebrew. Before I could redesign it, I needed to understand what was in it.
 
