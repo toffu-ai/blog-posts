@@ -196,7 +196,3 @@ Fix those three things before touching anything else.
 Google Ads automation is powerful when you understand what it's optimizing for. It's dangerous when you assume it knows what you know.
 
 The best accounts in 2026 use Smart Bidding, RSAs, and PMax - and have oversight systems that verify those tools are doing what they're supposed to. The [Google Ads Optimization playbook](https://toffu.ai/playbooks/google-ads-optimization) and [scheduled monitoring tasks](https://toffu.ai/academy/scheduled-tasks) are the fastest way to add that layer without adding manual work.
-
----
-
-*Data and feature references verified March 2026.*
