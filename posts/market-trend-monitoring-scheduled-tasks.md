@@ -173,10 +173,10 @@ Four rules for good scheduled task prompts:
 | Tool | What It Does | Best For | Price |
 |:---|:---|:---|:---|
 | [Toffu](https://toffu.ai) | AI agent that monitors competitors, ads, reviews, GSC, and sends digests | Full marketing monitoring stack | - |
-| [Zapier](https://zapier.com) | Connects tools and triggers actions based on data events | Data routing between platforms | Free to $20/mo |
-| [Make](https://make.com) | Visual workflow builder for multi-step automations | Complex multi-step triggers | Free to $9/mo |
-| [n8n](https://n8n.io) | Open-source workflow automation | Teams that want self-hosted control | Free (self-hosted) |
-| [HubSpot](https://hubspot.com) | CRM workflows, email sequences, lead nurturing | Contact-based automation | From $890/mo |
+| Zapier | Connects tools and triggers actions based on data events | Data routing between platforms | Free to $20/mo |
+| Make | Visual workflow builder for multi-step automations | Complex multi-step triggers | Free to $9/mo |
+| n8n | Open-source workflow automation | Teams that want self-hosted control | Free (self-hosted) |
+| HubSpot | CRM workflows, email sequences, lead nurturing | Contact-based automation | From $890/mo |
 
 The key distinction: Zapier, Make, and n8n automate data flows. They move and trigger. [Toffu's scheduled tasks](https://toffu.ai/academy/scheduled-tasks) interpret data and produce marketing-specific outputs: competitor summaries, performance flags, draft responses, content ideas. Different use cases, often complementary.
 
@@ -208,7 +208,3 @@ Automation handles the collection and initial interpretation. It doesn't replace
 - **Judgment calls** about when to act vs. when to watch
 
 The goal isn't to automate marketing. It's to eliminate the low-value information-gathering work so your team can spend more time on the decisions only humans should make.
-
----
-
-*Tools and pricing verified March 2026.*
