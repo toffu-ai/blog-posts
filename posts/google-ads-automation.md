@@ -1,6 +1,6 @@
 ---
 title: "Google Ads Automation: What AI Can (and Can't) Do for Your Campaigns (2026)"
-description: "Google Ads automation is powerful in the right conditions and dangerous in the wrong ones. Learn how Smart Bidding, PMax, RSAs, and scripts actually work — and where AI agents fill the gaps Google's automation can't."
+description: "Google Ads automation is powerful — but only when pointed at the right thing. A practical guide to Smart Bidding, PMax, RSAs, scripts, and where AI agents fill the gaps Google's own automation can't."
 date: "2026-03-08"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-automation-hero.png"
 slug: "google-ads-automation"
@@ -95,7 +95,7 @@ The single most important thing to understand: **automation scales whatever you 
 - Auto-pausing keywords based on small data samples
 - Any "set and forget" rule that can compound over time without review
 
-Scripts are the one area where most advertisers are dramatically underinvested. A simple anomaly detection script that alerts you when something unusual is happening is worth more than any amount of manual daily checking. Toffu's [analytics and reporting workflows](https://toffu.ai/academy/analytics) can handle the monitoring layer — pulling weekly performance data and flagging anomalies automatically.
+Scripts are the one area where most advertisers are dramatically underinvested. Toffu's [analytics and reporting workflows](https://toffu.ai/academy/analytics) can handle the monitoring layer — pulling weekly performance data and flagging anomalies automatically without needing custom scripts.
 
 ---
 
@@ -119,9 +119,9 @@ Google's automation is excellent at auction-time decisions. It's poor at everyth
 
 **It can't flag when something is structurally wrong** — a campaign that's technically running but producing results that don't make sense for your business. Google reports what happened; it doesn't question whether what happened was right.
 
-**It can't manage reporting and oversight** — checking weekly if your PMax campaigns are cannibalizing branded search, whether your RSA asset combinations are actually improving, whether auto-applied recommendations have been adding broad match keywords that are bleeding budget.
+**It can't manage reporting and oversight** — checking weekly if your PMax campaigns are cannibalizing branded search, whether your RSA asset combinations are actually improving, whether auto-applied recommendations have been quietly restructuring campaigns.
 
-**It can't connect the dots across platforms** — Google Ads performance in the context of what's happening on Meta, what your competitors are doing in the auction, or how your landing page changes are affecting conversion rates. Toffu's [campaign management use case](https://toffu.ai/use-cases/campaign-management) is built specifically for this cross-platform view.
+**It can't connect the dots across platforms** — Google Ads performance in the context of what's happening on Meta, what your competitors are doing in the auction, or how landing page changes are affecting conversion rates. Toffu's [campaign management use case](https://toffu.ai/use-cases/campaign-management) is built specifically for this cross-platform view.
 
 ---
 
@@ -163,8 +163,6 @@ performance decline.
 
 Or use the [Google Ads Optimization playbook](https://toffu.ai/playbooks/google-ads-optimization) to run a full account audit on demand — analyzing performance across campaigns, generating optimization suggestions, and applying the ones you approve.
 
-The difference between this and manual checking: it happens whether or not you remember to do it, and the output comes to you rather than requiring you to go find it.
-
 ---
 
 ## The Right Automation Stack for 2026
@@ -183,13 +181,11 @@ The difference between this and manual checking: it happens whether or not you r
 
 ## What to Do This Week
 
-If you're not sure where your automation setup stands, start with three checks:
+**1. Check auto-applied recommendations.** Campaigns → Recommendations → Auto Apply → History. If broad match keywords were added automatically, check whether your search term report got worse afterward.
 
-**1. Check auto-applied recommendations.** Go to Campaigns → Recommendations → Auto Apply → History. See what's been applied in the last 90 days. If broad match keywords were added automatically, check whether your search term report got worse afterward.
+**2. Check your conversion signals.** If you're optimizing for form submits and sales qualifies less than half, you're training Smart Bidding wrong. Set up offline conversion imports or a more qualified conversion event.
 
-**2. Check your conversion signals.** What are you actually optimizing toward? If it's form submissions and your sales team qualifies less than half of them, you're training Smart Bidding on the wrong data. Set up offline conversion imports or create a more qualified conversion event (time on site, scroll depth, specific page visit).
-
-**3. Check PMax vs. Search impression share.** If you're running both, pull impression share metrics for your Search campaigns over the last 90 days. If Search Lost IS (rank) is trending up while PMax spend is trending up, you likely have a cannibalization problem.
+**3. Check PMax vs. Search impression share.** Pull IS metrics for your Search campaigns over the last 90 days. If Search Lost IS (rank) is trending up while PMax spend is trending up, you have a cannibalization problem.
 
 Fix those three things before touching anything else.
 
@@ -197,11 +193,9 @@ Fix those three things before touching anything else.
 
 ## The Bottom Line
 
-Google Ads automation is powerful when you understand what it's optimizing for and whether that aligns with your business. It's dangerous when you assume it knows what you know.
+Google Ads automation is powerful when you understand what it's optimizing for. It's dangerous when you assume it knows what you know.
 
-The best Google Ads accounts in 2026 use Smart Bidding and RSAs and PMax — and they also have oversight systems that check whether those tools are actually doing what they're supposed to do. That oversight is what most teams are missing.
-
-The [Google Ads Optimization playbook](https://toffu.ai/playbooks/google-ads-optimization) and [scheduled monitoring tasks](https://toffu.ai/academy/scheduled-tasks) are the fastest way to add that oversight layer without adding manual work to your week.
+The best accounts in 2026 use Smart Bidding, RSAs, and PMax — and have oversight systems that verify those tools are doing what they're supposed to. The [Google Ads Optimization playbook](https://toffu.ai/playbooks/google-ads-optimization) and [scheduled monitoring tasks](https://toffu.ai/academy/scheduled-tasks) are the fastest way to add that layer without adding manual work.
 
 ---
 
