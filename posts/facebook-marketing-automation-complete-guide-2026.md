@@ -2,7 +2,7 @@
 title: "Facebook Marketing Automation: The Complete Guide for 2026"
 description: "How to automate your Facebook and Meta ad campaigns in 2026 — from rules and budgets to Advantage+ and AI-driven creative."
 date: "2026-01-22"
-image: "/images/blog/facebook-marketing-automation-complete-guide-2026.jpg"
+image: "https://i.toffu.ai/facebook-marketing-automation-complete-guide-2026_nxppq28v.jpg"
 ---
 
 Facebook marketing hasn't been a manual job for a while. But in 2026, the gap between teams running automation and those still doing it by hand has never been wider.
@@ -69,7 +69,7 @@ If you don't have historical data yet, use 3x as your baseline: revenue from a c
 - Action: Set budget to $500
 
 **Tiered scaling:**
-- Good (CPA $20–$30): Increase budget 20% once/day
+- Good (CPA $20-$30): Increase budget 20% once/day
 - Great (CPA < $20): Increase budget 100% once/day
 
 **ROAS-based:**
@@ -111,7 +111,7 @@ Under the old algorithm, you could run the same creative for months. Under Andro
 **Creative Similarity is now a metric in Ads Manager.** High similarity = higher CPMs. Vary formats, not just copy.
 
 **What to include in your creative library:**
-- Static images (60–70% of conversions on Meta)
+- Static images (60-70% of conversions on Meta)
 - Short-form video (under 15 seconds)
 - Carousels (strong performance in 2026)
 - Text-only static images (trending format)
@@ -120,7 +120,7 @@ Under the old algorithm, you could run the same creative for months. Under Andro
 
 **The Dynamic Creative Protocol:**
 1. Enable Dynamic Creative (leads) or Flexible Creative (sales) at ad set level
-2. Upload 5–10 high-performing images and videos
+2. Upload 5-10 high-performing images and videos
 3. Add 2 primary text variations (short + medium)
 4. Add 2 headline variations
 5. Let Meta optimize — review AI-generated copy before launching
@@ -146,7 +146,7 @@ You can ask Toffu to:
 - Analyze creative library and flag fatigue signals
 - Set up budget scaling rules across multiple campaigns
 
-[See the Meta Ads automation playbook →](/playbooks/meta-ads-optimization)
+[See the Meta Ads automation playbook](/playbooks/meta-ads-optimization)
 
 ## What to Set Up This Week
 
