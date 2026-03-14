@@ -2,7 +2,7 @@
 title: "Facebook Marketing Automation: The Complete Guide for 2026"
 description: "How to automate your Facebook and Meta ad campaigns in 2026 — from rules and budgets to Advantage+ and AI-driven creative."
 date: "2026-01-22"
-image: "https://i.toffu.ai/facebook-marketing-automation-complete-guide-2026_nxppq28v.jpg"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/facebook-marketing-automation-complete-guide-2026-hero.png"
 ---
 
 Facebook marketing hasn't been a manual job for a while. But in 2026, the gap between teams running automation and those still doing it by hand has never been wider.
