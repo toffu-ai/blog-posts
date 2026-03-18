@@ -6,7 +6,7 @@ image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/track-
 slug: "track-competitor-links-steal-best-backlinks"
 ---
 
-Backlinks remain one of Google's top three ranking factors. Pages that rank in position one have, on average, [3.8x more backlinks](https://www.impactplus.com/blog/seo-statistics) than the pages below them. More than 91% of all indexed pages get zero organic traffic - and 55% of those have no backlinks at all.
+Backlinks remain one of Google's top three ranking factors. Pages that rank in position one have, on average, [3.8x more backlinks](https://backlinko.com/search-engine-ranking) than the pages below them. More than 91% of all indexed pages get zero organic traffic - and 55% of those have no backlinks at all.
 
 So if you want to rank, you need links. The most efficient way to build them is not to start from scratch - it's to look at what's already working for competitors and reverse-engineer it.
 
@@ -222,7 +222,7 @@ AI marketing tools can automate the monitoring layer - pulling new competitor li
 
 Toffu also supports [AI-powered competitor ad and content tracking](https://toffu.ai/blog/competitor-filtering-ai), which means you can combine backlink monitoring with a broader picture of what competitors are doing across paid and organic - all in one place.
 
-For teams already using [scheduled task automation](https://toffu.ai/blog/how-to-automate-market-trend-monitoring-schedul) for other marketing workflows, adding competitor link monitoring to that same system creates a genuinely continuous intelligence feed rather than periodic snapshots.
+For teams already using [scheduled task automation](https://toffu.ai/blog/market-trend-monitoring-scheduled-tasks) for other marketing workflows, adding competitor link monitoring to that same system creates a genuinely continuous intelligence feed rather than periodic snapshots.
 
 ---
 
