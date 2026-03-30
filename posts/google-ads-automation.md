@@ -1,12 +1,12 @@
 ---
-title: "Google Ads Automation: What AI Can (and Can't) Do for Your Campaigns (2026)"
+title: "Google Ads Automation: What AI Can (and Can't) Do for Your Campaigns"
 description: "Google Ads automation is powerful - but only when pointed at the right thing. A practical guide to Smart Bidding, PMax, RSAs, scripts, and where AI agents fill the gaps Google's own automation can't."
 date: "2026-03-08"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-automation-hero.png"
 slug: "google-ads-automation"
 ---
 
-# Google Ads Automation: What AI Can (and Can't) Do for Your Campaigns (2026)
+# Google Ads Automation: What AI Can (and Can't) Do for Your Campaigns
 
 Google Ads automation has been around long enough that most advertisers have formed strong opinions about it - usually based on one bad experience with Smart Bidding or a Performance Max campaign that burned through budget with nothing to show for it.
 
@@ -165,7 +165,7 @@ Or use the [Google Ads Optimization playbook](https://toffu.ai/playbooks/google-
 
 ---
 
-## The Right Automation Stack for 2026
+## The Right Automation Stack
 
 | Layer | What to automate | Tool |
 |:---|:---|:---|
@@ -195,4 +195,4 @@ Fix those three things before touching anything else.
 
 Google Ads automation is powerful when you understand what it's optimizing for. It's dangerous when you assume it knows what you know.
 
-The best accounts in 2026 use Smart Bidding, RSAs, and PMax - and have oversight systems that verify those tools are doing what they're supposed to. The [Google Ads Optimization playbook](https://toffu.ai/playbooks/google-ads-optimization) and [scheduled monitoring tasks](https://toffu.ai/academy/scheduled-tasks) are the fastest way to add that layer without adding manual work.
+The best accounts use Smart Bidding, RSAs, and PMax - and have oversight systems that verify those tools are doing what they're supposed to. The [Google Ads Optimization playbook](https://toffu.ai/playbooks/google-ads-optimization) and [scheduled monitoring tasks](https://toffu.ai/academy/scheduled-tasks) are the fastest way to add that layer without adding manual work.
