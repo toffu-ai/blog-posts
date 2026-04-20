@@ -34,7 +34,7 @@ After spending way too much time building workflows in n8n, I've discovered seve
 
 > Honeymoon period with n8n ended and now I came to conclusion that there are many things Youtube gurus won't tell you about n8n and no code automation: No type safety, debugging in the dark (like subworkflows), context switching PTSD, poor logic reusability, your brain doing gymnastics over API calls, states and logic.
 > 
-> — [A frustrated Reddit user who's clearly been there](https://www.reddit.com/r/n8n/comments/1ketr7h/real_n8n_and_nocode_pain_points_no_one_talks_about/)
+> - [A frustrated Reddit user who's clearly been there](https://www.reddit.com/r/n8n/comments/1ketr7h/real_n8n_and_nocode_pain_points_no_one_talks_about/)
 
 ### Debugging is a Special Kind of Hell
 
@@ -42,7 +42,7 @@ The most common complaint I've seen is how painful debugging can be. When workfl
 
 > Subworkflows have kicked my a**. Whole system done and I'm debugging node by node now and it feels like I'm stuck in hell. I know I'm close to being done but I know the mistakes I made.
 > 
-> — [Another n8n user who's questioning their life choices](https://www.reddit.com/r/n8n/comments/1ketr7h/real_n8n_and_nocode_pain_points_no_one_talks_about/mqjuhdw/)
+> - [Another n8n user who's questioning their life choices](https://www.reddit.com/r/n8n/comments/1ketr7h/real_n8n_and_nocode_pain_points_no_one_talks_about/mqjuhdw/)
 
 ### Other Fun Problems Include:
 
@@ -77,7 +77,7 @@ With Toffu, you don't need to understand APIs, data structures, or programming c
 
 > Some teams chase the 'perfect system' for months, only for employees to ignore it. Focus on quick wins and train your team well.
 > 
-> — [Manuj Aggarwal, founder of TetraNoodle Technologies](https://www.business.com/articles/workflow-automation/)
+> - [Manuj Aggarwal, founder of TetraNoodle Technologies](https://www.business.com/articles/workflow-automation/)
 
 ### Natural Language Just Works
 
@@ -89,7 +89,7 @@ When using a conversational interface, there are no complex workflows to debug. 
 
 > Unlike traditional RPA, AI agents function more like a highly capable digital colleague than a rigid bot. AI agents leverage advanced machine learning models to interpret data, understand context and make decisions dynamically.
 > 
-> — [Uli Erxleben, CEO of Hypatos.ai](https://www.forbes.com/councils/forbesfinancecouncil/2025/05/01/the-strategic-shift-from-rpa-to-autonomous-ai-systems/)
+> - [Uli Erxleben, CEO of Hypatos.ai](https://www.forbes.com/councils/forbesfinancecouncil/2025/05/01/the-strategic-shift-from-rpa-to-autonomous-ai-systems/)
 
 ### Implementation in Seconds, Not Days
 
@@ -105,7 +105,7 @@ Perhaps the biggest advantage is that Toffu understands context and intent. It c
 
 > AI agents are redefining the automation landscape. Unlike traditional bots that strictly follow predefined scripts, AI agents can interpret context, learn from data and make real-time adjustments. This fundamental shift is not just about improving efficiency; it is about redefining how enterprises approach automation altogether.
 > 
-> — [McKinsey Report on AI Agents](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/why-agents-are-the-next-frontier-of-generative-ai)
+> - [McKinsey Report on AI Agents](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/why-agents-are-the-next-frontier-of-generative-ai)
 
 ## Real-World Examples That Make the Difference Clear
 
@@ -127,7 +127,7 @@ The pattern is clear: n8n requires technical knowledge to build and maintain com
 
 > With AI becoming more deeply embedded in business systems, workflow automation will evolve into what I term 'anticipatory AI.' This advanced form of automation won't merely eliminate repetitive tasks and redundancies; it will proactively anticipate and execute next steps, optimizing business processes in ways we haven't yet imagined.
 > 
-> — [Kerstin Woods, VP of Solutions and Outbound Marketing at Toshiba America Business Solutions](https://www.business.com/articles/workflow-automation/)
+> - [Kerstin Woods, VP of Solutions and Outbound Marketing at Toshiba America Business Solutions](https://www.business.com/articles/workflow-automation/)
 
 ## Making the Switch to Conversation-Based Automation
 
@@ -139,7 +139,7 @@ Instead of mapping out each step of a process, clearly articulate what result yo
 
 > Instead of providing nothing more than prompt-based authoring tools, basic dashboards, and vague advice to use it wisely, [effective AI systems] maximize the value of AI by pairing its reasoning capabilities with predictable workflows.
 > 
-> — [Pega, AI Automation Software Provider](https://www.pega.com/about/news/press-releases/new-pega-predictable-ai-agents-combine-power-reasoning-predictability)
+> - [Pega, AI Automation Software Provider](https://www.pega.com/about/news/press-releases/new-pega-predictable-ai-agents-combine-power-reasoning-predictability)
 
 ### Balance Specificity and Flexibility
 
@@ -149,9 +149,9 @@ Good prompts give enough detail without over-engineering. For example: "Analyze 
 
 The beauty of these systems is how quickly you can adjust. If the initial results aren't quite right, clarify or refine your prompt based on what you learned - just like you would in a normal conversation.
 
-> Instead of setting up a predefined sequence, a user might simply say, 'Here's a new marketing job opening — post it on LinkedIn and Indeed, add it to our CRM, find candidates in our database and email me the top three.' From there, multiple AI agents would spring into action — each pulling from different APIs, verifying outputs and coordinating the next steps, all without human guidance.
+> Instead of setting up a predefined sequence, a user might simply say, 'Here's a new marketing job opening - post it on LinkedIn and Indeed, add it to our CRM, find candidates in our database and email me the top three.' From there, multiple AI agents would spring into action - each pulling from different APIs, verifying outputs and coordinating the next steps, all without human guidance.
 > 
-> — [Boris Lapouga, co-founder of workflow automation firm Primetime](https://www.business.com/articles/workflow-automation/)
+> - [Boris Lapouga, co-founder of workflow automation firm Primetime](https://www.business.com/articles/workflow-automation/)
 
 ### Let the System Remember Things
 
@@ -175,7 +175,7 @@ If your organization already has teams proficient in workflow automation tools, 
 
 > "While automation is great for streamlining repetitive tasks, it shouldn't replace meaningful conversations that build trust and relationships."
 > 
-> — [Kathryn Schwab, founder of Make It Count Creative Solutions LLC](https://www.business.com/articles/workflow-automation/)
+> - [Kathryn Schwab, founder of Make It Count Creative Solutions LLC](https://www.business.com/articles/workflow-automation/)
 
 That said, these cases are increasingly rare exceptions, as prompt-based systems continue to advance in capabilities and reliability.
 
@@ -187,10 +187,10 @@ Toffu's conversational approach eliminates these barriers, letting marketers foc
 
 > "This shift could mean businesses operate more efficiently, cutting costs while freeing employee time up to focus on strategy and creativity. But with all this potential from AI comes the need for strong ethical frameworks because smarter automation also means greater responsibility in how we use it."
 > 
-> — [Shoeb Javed, Chief Product Officer at iGrafx](https://www.business.com/articles/workflow-automation/)
+> - [Shoeb Javed, Chief Product Officer at iGrafx](https://www.business.com/articles/workflow-automation/)
 
 As AI continues to advance, the gap between these approaches will only widen. Forward-thinking marketing teams are already making the switch to prompt-based automation, saving time, reducing technical overhead, and achieving results faster than ever before.
 
-The future of marketing automation isn't about building better workflows—it's about having better conversations with intelligent systems that understand your goals and handle the technical details for you.
+The future of marketing automation isn't about building better workflows - it's about having better conversations with intelligent systems that understand your goals and handle the technical details for you.
 
 Want to simplify your marketing automation? Check out [Toffu.ai](https://www.toffu.ai/) to see how prompt-based automation can transform your marketing operations.

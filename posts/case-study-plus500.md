@@ -8,7 +8,7 @@ slug: "case-study-plus500"
 
 ## Introduction
 
-When I spoke with **[Lior from the SEO team at Plus500](https://www.linkedin.com/in/lior-schneider/)**, he described a challenge that almost every global SEO team faces. [Plus500](https://www.plus500.com/) operates in **13–14 markets** and produces huge volumes of content every day — news articles, evergreen guides, and informational pieces.
+When I spoke with **[Lior from the SEO team at Plus500](https://www.linkedin.com/in/lior-schneider/)**, he described a challenge that almost every global SEO team faces. [Plus500](https://www.plus500.com/) operates in **13–14 markets** and produces huge volumes of content every day - news articles, evergreen guides, and informational pieces.
 
 But the real struggle wasn’t content creation. It was **making that content truly work in every market**.
 
@@ -58,7 +58,7 @@ The result: optimized content that actually performs in every market.
 The numbers speak for themselves:
 
 - **20–30% reduction in total SEO & content time** (writing, optimizing, translating, compliance).  
-- **90% faster localization** — work that took 3–4 days now takes just 2–3 hours.  
+- **90% faster localization** - work that took 3–4 days now takes just 2–3 hours.  
 - **Significant SEO gains** from re-optimizing existing articles with Toffu.
 
 > *“In less than 2–3 hours, I can now do work that used to take me 3–4 days.”* – **Lior S.**, SEO Team, Plus500
@@ -71,13 +71,13 @@ What impressed me most was how deeply Toffu is embedded in their day-to-day work
 
 > *“Every article I get, I run through Toffu. I tell it: act as an SEO expert, check the tags, the text, the demand in the market, the competition. Make this article better.”* – **Lior S.**, SEO Team, Plus500
 
-It’s not just the SEO team — content writers also use Toffu every single day. Toffu has become a **permanent step** in Plus500’s SEO process.
+It’s not just the SEO team - content writers also use Toffu every single day. Toffu has become a **permanent step** in Plus500’s SEO process.
 
 ---
 
 ## Market-Specific Insights
 
-Toffu doesn’t just optimize generically — it adapts for each market.
+Toffu doesn’t just optimize generically - it adapts for each market.
 
 > *“If I ask about Germany, I get German data. If I ask about Holland, I get Dutch data. It finds me different results depending on the competition and the search trends there.”* – **Lior S.**, SEO Team, Plus500
 
@@ -111,7 +111,7 @@ Plus500 works in many languages, and Lior pointed out how important Toffu’s mu
 
 > *“I can speak to it in Hebrew and get outputs in English or any other language. It just works seamlessly across languages.”* – **Lior S.**, SEO Team, Plus500
 
-This flexibility is rare — and critical for companies operating across diverse markets.
+This flexibility is rare - and critical for companies operating across diverse markets.
 
 ---
 
@@ -121,7 +121,7 @@ One of the features Plus500 relies on most is Toffu’s **Google Sheets integrat
 
 > *“Toffu connects seamlessly with Google Sheets. We can manage localization, keyword data, and optimization directly where the team already works.”* – **Lior S.**, SEO Team, Plus500
 
-By bringing SEO optimization directly into Sheets, Toffu fits right into their existing workflow — no switching platforms, no extra overhead.
+By bringing SEO optimization directly into Sheets, Toffu fits right into their existing workflow - no switching platforms, no extra overhead.
 
 ---
 
@@ -129,7 +129,7 @@ By bringing SEO optimization directly into Sheets, Toffu fits right into their e
 
 Even in a highly regulated industry like trading, Toffu delivers massive efficiency gains. Compliance reviews still happen manually, but the **entire SEO pipeline is faster and smarter** with Toffu in place.
 
-This shows Toffu isn’t just for startups or small teams — it scales into enterprise contexts where accuracy and oversight are critical.
+This shows Toffu isn’t just for startups or small teams - it scales into enterprise contexts where accuracy and oversight are critical.
 
 ---
 
