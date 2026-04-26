@@ -3,7 +3,7 @@ title: "You Don't Need a Dashboard. You Need an Answer."
 description: "Why dashboards became obsolete the moment you had an AI teammate, and how to get more out of Toffu by asking for answers instead of interfaces."
 date: "2026-04-23"
 image: "https://i.toffu.ai/toffu-teammate-not-dashboard-hero_bg1efisw.png"
-slug: "toffu-is-a-teammate-not-a-dashboard-builder"
+slug: "you-dont-need-a-dashboard-you-need-an-answer"
 ---
 
 # You Don't Need a Dashboard. You Need an Answer.
