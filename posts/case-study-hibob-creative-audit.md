@@ -2,7 +2,7 @@
 title: "Case Study: How HiBob Audited 100s of Ad Creatives in Hours with Toffu"
 description: "How HiBob's Sr. Director of Performance Creative used Toffu to map every ad across Meta, Google, YouTube, and LinkedIn by region, segment, persona, and funnel stage."
 date: 2026-04-26
-image: "/images/hibob-case-study-hero.png"
+image: "/images/blog/hibob-case-study-hero.png"
 slug: "case-study-hibob-creative-audit"
 ---
 
@@ -36,7 +36,7 @@ Sagih almost didn't. The word "audit" had him thinking in folders and spreadshee
 
 He wrote one prompt. Describe the breakdown. Segment, persona, region, funnel stage.
 
-![Sagih's prompt to Toffu, with the agent fetching ads from Meta and LinkedIn](/images/hibob-chat-prompt.png)
+![Sagih's prompt to Toffu, with the agent fetching ads from Meta and LinkedIn](/images/blog/hibob-chat-prompt.png)
 
 Toffu reached into the ad platforms, read the naming conventions, and started making sense of the chaos.
 
@@ -44,7 +44,7 @@ Toffu reached into the ad platforms, read the naming conventions, and started ma
 
 The output was a structured Excel. And it kept getting better.
 
-![The Toffu-built audit spreadsheet, broken down by segment, persona, region, funnel stage, with color-coded coverage](/images/hibob-chat-spreadsheet.png)
+![The Toffu-built audit spreadsheet, broken down by segment, persona, region, funnel stage, with color-coded coverage](/images/blog/hibob-chat-spreadsheet.png)
 
 > *"Every time I asked for something new, it opened a separate tab with additional columns. It didn't break anything. It was incredibly easy to work with."* - **Sagih**, HiBob
 
@@ -60,7 +60,7 @@ Then the insights started landing.
 
 Toffu didn't stop at the spreadsheet. It produced a Google Doc with strategic insights, a presentation with color-coded gap analysis charts, and a recommended naming convention for future campaigns.
 
-![A Toffu-built deck slide with the Persona x Funnel coverage heatmap](/images/hibob-chat-deck.png)
+![A Toffu-built deck slide with the Persona x Funnel coverage heatmap](/images/blog/hibob-chat-deck.png)
 
 > *"It built me the Excel, the Google Doc with insights, the presentation with charts by color and region. The initial outputs were already at a very high level. I used all of it."* - **Sagih**, HiBob
 
