@@ -16,7 +16,7 @@ For a mid-sized agency with 50 campaigns, that's easily 10-15 hours per month ju
 
 ## Why Sitelinks Matter
 
-[Google's data](https://support.google.com/google-ads/answer/2375416?hl=en) shows sitelinks boost performance significantly. You get more ad space, better user experience, and detailed click tracking.
+[Google's data](https://web.archive.org/web/2024/https://support.google.com/google-ads/answer/2375416?hl=en) shows sitelinks boost performance significantly. You get more ad space, better user experience, and detailed click tracking.
 
 On mobile, up to 8 sitelinks can show. On desktop, up to 6 with descriptions. Since most searches happen on mobile, good sitelinks aren't optional.
 

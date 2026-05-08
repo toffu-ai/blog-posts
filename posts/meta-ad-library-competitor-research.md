@@ -38,7 +38,7 @@ But manual implementation reveals the complexity:
 
 The biggest challenge isn't seeing competitor ads - it's understanding why certain ads succeed and how to apply those insights to your own campaigns:
 
-> "Most advertisers can browse Ad Library and see what competitors are doing, but they lack the analytical framework to turn competitor activity into actionable optimization strategies." - [AdEspresso Competitive Research](https://adespresso.com/blog/facebook-ad-library-competitive-research/)
+> "Most advertisers can browse Ad Library and see what competitors are doing, but they lack the analytical framework to turn competitor activity into actionable optimization strategies." - [AdEspresso Competitive Research](https://web.archive.org/web/2024/https://adespresso.com/blog/facebook-ad-library-competitive-research/)
 
 ## AI-Powered Meta Ad Library Analysis
 
