@@ -183,7 +183,7 @@ Competitive analysis is not a quarterly exercise. The companies that benefit mos
 | Quarterly | Full SWOT refresh, strategic group re-mapping, emerging competitor scan |
 | Annually | Full landscape assessment, Porter's Five Forces review, CI program ROI |
 
-The CI tools market is growing at roughly 20% annually, projected from $590M to $1.46B by 2030 ([Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/competitive-intelligence-market)). That growth reflects a real shift: teams that relied on periodic reports are moving to always-on monitoring.
+The CI tools market is growing at roughly 20% annually, projected from $590M to $1.46B by 2030 (Mordor Intelligence, Competitive Intelligence Market report). That growth reflects a real shift: teams that relied on periodic reports are moving to always-on monitoring.
 
 For marketing teams that want to automate this monitoring, Toffu's [keyword research playbook](https://toffu.ai/playbooks/keyword-research) and [competitor Twitter analysis playbook](https://toffu.ai/playbooks/competitor-twitter-analysis) can run on a schedule, surfacing changes without manual effort.
 

@@ -60,7 +60,7 @@ Most advertisers struggle with where to add negative keywords - campaign level, 
 
 **The Variation Problem**
 
-[Google's Help documentation](https://support.google.com/google-ads/answer/2453972) explains match type complexity:
+[Google's Help documentation](https://web.archive.org/web/2024/https://support.google.com/google-ads/answer/2453972) explains match type complexity:
 
 > "Negative broad match keywords block your ad from showing if the search contains all your negative keyword terms, even if the terms are in a different order."
 
@@ -76,7 +76,7 @@ Google's semantic matching means traditional negative keyword strategies often f
 
 **The Historical Analysis Problem**
 
-According to [PPC Hero's negative keyword guide](https://www.ppchero.com/negative-keywords-guide/), systematic analysis requires:
+According to PPC Hero's negative keyword guide, systematic analysis requires:
 
 - Regular search term review across all campaigns
 - Performance analysis by match type and keyword
