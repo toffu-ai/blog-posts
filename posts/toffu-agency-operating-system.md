@@ -2,7 +2,7 @@
 title: "Toffu is the Operating System for Marketing Agencies"
 description: "How agency skills turn Toffu into a shared brain across every client workspace. Write the rule once, every client inherits it."
 date: "2026-05-13"
-image: "https://toffu.ai/images/og-default.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-agency-operating-system-hero.png"
 slug: "toffu-agency-operating-system"
 ---
 
