@@ -4,6 +4,7 @@ description: "How HiBob's Sr. Director of Performance Creative used Toffu to map
 date: 2026-04-26
 image: "/images/blog/hibob-case-study-hero.png"
 slug: "case-study-hibob-creative-audit"
+featured: true
 ---
 
 **Sagih**, Sr. Director of Performance Creative & Innovation Projects at [HiBob](https://www.hibob.com/), got a request from marketing leadership: build a creative strategy and run a full audit of every creative asset in use. Map what exists, what's missing, where the gaps are. Break it down by region, segment, persona, and funnel stage, then build a strategy from the gaps.
