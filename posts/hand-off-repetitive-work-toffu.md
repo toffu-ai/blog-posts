@@ -2,6 +2,7 @@
 title: "How to Hand Off Repetitive Work to Toffu (Without Automating Too Early)"
 description: "The five-stage path most teams miss: discover, do it once, capture as a skill, run it manually, then schedule it. Here's how we graduate work to a Toffu agent."
 date: "2026-05-18"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/complete-guide-building-skills-toffu-hero.png"
 slug: "hand-off-repetitive-work-toffu"
 ---
 

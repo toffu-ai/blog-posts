@@ -2,6 +2,7 @@
 title: "איך להעביר עבודה חוזרת ל-Toffu (בלי לאוטמט מוקדם מדי)"
 description: "חמשת השלבים שרוב הצוותים מפספסים: לזהות, לעשות פעם אחת, להפוך לסקיל, להריץ ידנית, ואז לתזמן. ככה אנחנו מעבירים עבודה לסוכן Toffu."
 date: "2026-05-18"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/complete-guide-building-skills-toffu-hero.png"
 slug: "hand-off-repetitive-work-toffu"
 lang: "he"
 dir: "rtl"
