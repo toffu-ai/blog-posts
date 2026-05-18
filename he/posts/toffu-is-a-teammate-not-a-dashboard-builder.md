@@ -2,7 +2,7 @@
 title: "אתם לא צריכים דשבורד. אתם צריכים תשובה."
 description: "למה דשבורדים הפכו למיותרים ברגע שיש לכם שותף AI בצוות, ואיך להוציא יותר מ-Toffu על ידי בקשת תשובות במקום ממשקים."
 date: "2026-04-23"
-image: "https://i.toffu.ai/toffu-teammate-not-dashboard-hero_bg1efisw.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/you-dont-need-a-dashboard-you-need-an-answer-hero.png"
 slug: "toffu-is-a-teammate-not-a-dashboard-builder"
 lang: "he"
 dir: "rtl"
