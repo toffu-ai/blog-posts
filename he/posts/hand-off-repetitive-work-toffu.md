@@ -33,10 +33,6 @@ dir: "rtl"
 
 כשאתם מזהים דפוס כזה, רשמו אותו. זה כל מה שיש בשלב 1. אתם אוספים מועמדים, לא פותרים שום דבר עדיין.
 
-בדוגמת המודעות של המתחרים, הפתק שפתח את התהליך נראה ככה:
-
-> יום שני, שוב. ביליתי 40 דקות בדפדוף בספריות המודעות של Meta ו-Google אחרי אותם שלושה מתחרים. זה כבר יום שני השלישי ברציפות. די.
-
 ## שלב 2: לבצע את המשימה פעם אחת עם Toffu
 
 אל תנסו לתכנן את האוטומציה. פשוט תעשו את העבודה בפעם הבאה שהיא עולה, אבל הפעם תעשו אותה דרך Toffu במקום ידנית.
@@ -52,7 +48,7 @@ dir: "rtl"
 
 ההודעה הראשונה ל-Toffu בסריקת המתחרים הייתה גולמית בכוונה:
 
-> Check what new ads [Competitor A], [Competitor B], and [Competitor C] have been running in the last week. Look at Meta Ads Library and Google Ads Transparency Center. Just tell me what's new and what stands out.
+> בדוק אילו מודעות חדשות [מתחרה א'], [מתחרה ב'] ו-[מתחרה ג'] הריצו בשבוע האחרון. תסתכל ב-Meta Ads Library וב-Google Ads Transparency Center. פשוט תגיד לי מה חדש ומה בולט.
 
 התוצאה הייתה 80% ממה שרצינו. פער ה-20% היה המפרט לשלב 3.
 
@@ -62,7 +58,7 @@ dir: "rtl"
 
 בסריקת המתחרים, הבקשה הייתה:
 
-> Turn this into a skill called "Weekly Competitor Ad Scan." Always check Meta Ads Library and Google Ads Transparency Center for [A], [B], [C]. "New" means launched in the last 7 days. Only flag ads that show a new offer or a new format - skip pure creative refreshes of an existing ad. Output as a Slack-ready summary, max 5 bullets per competitor, with a one-line takeaway at the top.
+> תהפוך את זה ל-Skill בשם "Weekly Competitor Ad Scan". תמיד תבדוק את Meta Ads Library ואת Google Ads Transparency Center עבור [א'], [ב'], [ג']. "חדש" משמעו הושק בשבעת הימים האחרונים. סמן רק מודעות שמראות הצעה חדשה או פורמט חדש - דלג על רענוני קריאייטיב של מודעה קיימת. הפלט צריך להיות סיכום מוכן ל-Slack, עד 5 בולטים לכל מתחרה, עם שורת תובנה אחת למעלה.
 
 Toffu כותב את ה-Skill. אתם קוראים אותו, מתקנים את החלקים שגויים, ומוסיפים את מה שהוא פספס, בדרך כלל את הידע המובלע שלא ידעתם בכלל שיש לכם.
 
@@ -86,11 +82,11 @@ Toffu כותב את ה-Skill. אתם קוראים אותו, מתקנים את ה
 
 סריקת המתחרים עברה שלושה תיקונים בשלושה שבועות. כל אחד מהם התחיל בהרצה של ה-Skill, זיהוי משהו שלא עובד, ושליחת עדכון של שורה אחת חזרה ל-Toffu:
 
-> Week 1: Update the skill to also check LinkedIn ads. I forgot to include it.
+> שבוע 1: עדכן את ה-Skill לבדוק גם מודעות LinkedIn. שכחתי לכלול את זה.
 
-> Week 2: Update the skill to skip ads tagged as test variants. They're A/B noise and they're padding the output.
+> שבוע 2: עדכן את ה-Skill לדלג על מודעות שמסומנות כווריאנטים של בדיקה. הן רעש של A/B ומנפחות את הפלט.
 
-> Week 3: Update the skill: when a competitor has no new ads, say "no new activity" explicitly. Last week the blank section made me think the skill was broken.
+> שבוע 3: עדכן את ה-Skill: כשלמתחרה אין מודעות חדשות, אמור "אין פעילות חדשה" במפורש. בשבוע שעבר הסעיף הריק גרם לי לחשוב שה-Skill נשבר.
 
 עד השבוע הרביעי הפלט הגיע נקי. שום דבר לתקן, שום דבר להבהיר.
 
@@ -104,7 +100,7 @@ Toffu כותב את ה-Skill. אתם קוראים אותו, מתקנים את ה
 
 בסריקת המתחרים, בקשת התזמון הייתה הודעה אחת:
 
-> Schedule the "Weekly Competitor Ad Scan" skill every Monday at 9am Pacific. Post the output to #marketing in Slack. Always send the digest, even if all three competitors have no new activity.
+> תזמן את ה-Skill "Weekly Competitor Ad Scan" כל יום שני ב-9:00 בבוקר שעון פסיפיק. פרסם את הפלט ל-#marketing ב-Slack. תמיד שלח את הסיכום, גם אם לשלושת המתחרים אין פעילות חדשה.
 
 ברגע שהיא מתוזמנת, התפקיד שלכם משתנה. אתם כבר לא מריצים את המשימה. אתם בודקים את הפלט.
 
