@@ -1,12 +1,12 @@
 ---
-title: "Context Rot: Why Toffu Feels Dumber Over Time (and the One Command That Fixes It)"
-description: "Same prompts, worse results? Your agent didn't get dumber - its context got noisier. What context rot is, where it hides, and how to clean it with Toffu's built-in context-rot-cleanup skill."
+title: "Context Rot: Why AI Agents Seem to Get Dumber Over Time (and How to Fix It in Two Minutes)"
+description: "Same prompts, worse results? Your AI agent didn't get dumber - its context got noisier. What context rot is, where it hides, and how Toffu cleans it with one built-in command."
 date: "2026-06-12"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/complete-guide-building-skills-toffu-hero.png"
-slug: "context-rot-why-toffu-feels-dumber"
+slug: "context-rot-why-ai-agents-get-dumber"
 ---
 
-# Context Rot: Why Toffu Feels Dumber Over Time (and the One Command That Fixes It)
+# Context Rot: Why AI Agents Seem to Get Dumber Over Time (and How to Fix It in Two Minutes)
 
 A complaint we got from a customer last week, lightly translated:
 
@@ -78,14 +78,27 @@ This thread is getting long. Run context-rot-cleanup and give me a
 handoff summary so I can start fresh.
 ```
 
-Toffu produces a handoff block - decisions made, current settings, open work, next step - that you paste as the first message of a new conversation. Fresh window, zero rot, nothing lost. (If you find yourself doing the same handoff repeatedly for recurring work, that's a sign the work wants to be a [skill or a scheduled task](https://toffu.ai/blog/hand-off-repetitive-work-toffu), not a thread.)
+Toffu produces a handoff block - decisions made, current settings, open work, next step - that you paste as the first message of a new conversation. Fresh window, zero rot, nothing lost.
+
+A handoff carries in-flight state. For the other thing long threads hoard - a recipe that finally works - there's a better container, and it's the first habit below.
 
 ## Habits that keep it from coming back
 
-Cleanup beats no cleanup, but hygiene beats both:
+Cleanup beats no cleanup, but hygiene beats both. One habit matters more than the rest.
+
+When a thread finally produces the result you wanted - the report format that landed, the audience breakdown that worked, the post structure the team liked - save it before you walk away:
+
+```
+That last result was exactly right. Save what worked here as a skill
+so any new chat can use it.
+```
+
+This is the escape from the mega-thread trap. Threads grow to 200 messages because people are afraid of losing the context that finally works, so the thread becomes the keeper of the recipe - along with all its rot. A [skill](https://toffu.ai/blog/complete-guide-building-skills-toffu) keeps the win and leaves the rot behind: the working procedure gets distilled into a clean, reusable block that any fresh conversation can load. It's also how the teammate problem from the opener stops happening. The good result lives in a shared skill, not in one person's lucky thread. And if the recipe is something you run on a cadence, [graduate it to a scheduled task](https://toffu.ai/blog/hand-off-repetitive-work-toffu) and stop running it by hand entirely.
+
+The rest of the hygiene:
 
 - One thread per task. New campaign, new thread. When in doubt, hand off and start fresh.
-- Put things in the right drawer. If it'll still be true in three months, it's an instruction. If it's a fact about the world, it's a memory. If it's only true this week, it's a message.
+- Put things in the right drawer. A proven procedure is a skill. A standing rule is an instruction. A fact about the world is a memory. If it's only true this week, it's a message.
 - Treat repeated corrections as a smell. If you've corrected Toffu twice on the same thing, don't correct it a third time - run the cleanup. Something stored is fighting you.
 - Schedule the audit. Ask Toffu to remind you to run `context-rot-cleanup` monthly. (The skill deliberately won't rewrite instructions from inside a scheduled run - you stay in the loop on what gets erased.)
 
