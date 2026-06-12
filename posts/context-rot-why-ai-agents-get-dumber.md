@@ -20,9 +20,9 @@ The instinct is to conclude the agent got dumber. It didn't. Its context got noi
 
 Every AI agent works from a context window: the working memory it reads before answering you. In Toffu's case that includes your custom instructions, relevant memories, and the conversation so far. The model reads all of it, every single time, and weighs all of it.
 
-Picture a whiteboard. Early in a project it holds the plan. Three months later it holds the plan, four dead ideas, a budget that changed twice, and "ASK DAVE??" in the corner. Nobody erased anything, because erasing felt destructive and nobody owned the board. Now imagine a very diligent intern who re-reads the entire whiteboard before every task and treats everything on it as equally current. That's your agent.
+Picture a whiteboard. Early in a project it holds the plan. Three months later it holds the plan, four dead ideas, a budget that changed twice, and "ASK DAVE??" in the corner. Nobody erased anything. Now imagine a very diligent intern who re-reads the entire whiteboard before every task and treats everything on it as equally current. That's your agent.
 
-There's a real mechanical cost too. Research on long-context behavior keeps finding the same thing: as context grows, models attend to it less reliably, and contradictory instructions don't cancel out - they compete. The model picks one, and which one it picks can vary run to run. That's why rot feels like randomness: "sometimes it's formal, sometimes it's casual, I never know which I'll get."
+The mechanics back this up: as context grows, models attend to it less reliably, and contradictory instructions don't cancel out - they compete. The model picks one, and which one can vary run to run. That's why rot feels like randomness: "sometimes it's formal, sometimes it's casual, I never know which I'll get."
 
 The rot accumulates in two places.
 
@@ -44,9 +44,7 @@ This is half the answer to the complaint at the top of this post. The prompts we
 
 The second rot site is the marathon conversation. You know the one: it started as a campaign launch, then you pivoted the strategy, renamed everything, pasted in a CSV, drafted four versions of the copy, and kept going because the thread "has all the context."
 
-It does have all the context. That's the problem. The abandoned strategy is still in there. The three rejected drafts are still in there. The old campaign name appears forty times and the new one six times. When the model generates its next answer, all of that exerts pull. This is why long threads regress: you correct the budget, and twenty messages later the old number creeps back. The thread outvotes you.
-
-Long threads also just get slower and mushier. More context means more to attend over, and the signal-to-noise ratio drops with every tangent.
+It does have all the context. That's the problem. The abandoned strategy is still in there. The three rejected drafts are still in there. The old campaign name appears forty times and the new one six. When the model generates its next answer, all of that exerts pull. This is why long threads regress: you correct the budget, and twenty messages later the old number creeps back. The thread outvotes you. It also gets slower and mushier with every tangent.
 
 And here's the other half of the opener's complaint. The excellent results from a few days ago happened inside a particular conversation, with everything that conversation had accumulated - the corrections, the examples, the back-and-forth that tuned the output. The prompts alone never contained the magic; the thread did. Replay the same prompts in a different context and the magic doesn't come with them.
 
@@ -54,7 +52,7 @@ The rule of thumb: a thread is for a task, not for a relationship. When the task
 
 ## The fix: one command
 
-You could clean all this up by hand - read every instruction, hunt contradictions, prune memories. Nobody does maintenance chores by hand anymore, and you don't have to. Toffu ships with a system skill called `context-rot-cleanup` that runs the whole audit for you.
+You could audit all this by hand. You don't have to. Toffu ships with a system skill called `context-rot-cleanup` that does it for you.
 
 Trigger it by asking:
 
@@ -68,7 +66,7 @@ Here's what it does:
 
 1. Audits your custom instructions across every scope you have (user, team, company) and sorts each line into keep, rewrite, or delete - flagging contradictions, expired one-offs, duplicates, and facts masquerading as directives.
 2. Audits memory for stale entries: last quarter's metrics stored as eternal truth, notes about campaigns that ended, facts that contradict current instructions.
-3. Shows you a cleanup table with a verdict and a reason per line, plus the full proposed replacement. It never applies anything without your approval - your instructions are yours.
+3. Shows you a cleanup table with a verdict and a reason per line, plus the full proposed replacement. It never applies anything without your approval.
 4. Applies the cleanup once you approve, and echoes back exactly what's now stored so there's no mystery state.
 
 The whole exchange takes about two minutes, most of which is you reading the table.
@@ -82,7 +80,7 @@ handoff summary so I can start fresh.
 
 Toffu produces a handoff block - decisions made, current settings, open work, next step - that you paste as the first message of a new conversation. Fresh window, zero rot, nothing lost.
 
-A handoff carries in-flight state. For the other thing long threads hoard - a recipe that finally works - there's a better container, and it's the first habit below.
+A handoff carries in-flight state. A recipe that finally works deserves a better container - the first habit below.
 
 ## Habits that keep it from coming back
 
@@ -95,7 +93,7 @@ That last result was exactly right. Save what worked here as a skill
 so any new chat can use it.
 ```
 
-This is the escape from the mega-thread trap. Threads grow to 200 messages because people are afraid of losing the context that finally works, so the thread becomes the keeper of the recipe - along with all its rot. A [skill](https://toffu.ai/blog/complete-guide-building-skills-toffu) keeps the win and leaves the rot behind: the working procedure gets distilled into a clean, reusable block that any fresh conversation can load. It's also how the complaint from the opener stops happening for good. The good result lives in a skill any chat can load, not in one lucky thread you can't replay. And if the recipe is something you run on a cadence, [graduate it to a scheduled task](https://toffu.ai/blog/hand-off-repetitive-work-toffu) and stop running it by hand entirely.
+This is the escape from the mega-thread trap. Threads grow to 200 messages because nobody wants to lose the context that finally works. A [skill](https://toffu.ai/blog/complete-guide-building-skills-toffu) keeps the win and leaves the rot behind: the working procedure becomes a clean, reusable block any fresh conversation can load. It's also how the complaint from the opener stops happening - the good result lives in a skill, not in one lucky thread you can't replay. If the recipe runs on a cadence, [graduate it to a scheduled task](https://toffu.ai/blog/hand-off-repetitive-work-toffu).
 
 The rest of the hygiene:
 
@@ -106,9 +104,7 @@ The rest of the hygiene:
 
 ## "Dumber" is usually "drowning"
 
-When an agent's quality drops over months of use, the model is almost never the thing that changed. What changed is everything you and your team piled into its working memory along the way. That's not a defect, exactly - it's what accumulated state does without maintenance, in agents and in whiteboards alike.
-
-The difference is that this whiteboard cleans itself when you ask.
+When an agent's quality drops over months of use, the model is almost never what changed. What changed is everything you and your team piled into its working memory along the way. The difference between the agent and the whiteboard is that this one cleans itself when you ask.
 
 ```
 Run the context-rot-cleanup skill.
