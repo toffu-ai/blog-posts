@@ -64,7 +64,7 @@ Or just describe the symptom in your own words - "you've gotten worse lately, fi
 
 Here's what it does:
 
-1. Audits your custom instructions across every scope you have (user, team, company) and sorts each line into keep, rewrite, or delete - flagging contradictions, expired one-offs, duplicates, and facts masquerading as directives.
+1. Audits your custom instructions across every scope you have (user, team, company) and sorts each line into keep, rewrite, delete, or extract into a skill - flagging contradictions, expired one-offs, duplicates, facts masquerading as directives, and step-by-step procedures that should be skills instead of weight on every message.
 2. Audits memory for stale entries: last quarter's metrics stored as eternal truth, notes about campaigns that ended, facts that contradict current instructions.
 3. Shows you a cleanup table with a verdict and a reason per line, plus the full proposed replacement. It never applies anything without your approval.
 4. Applies the cleanup once you approve, and echoes back exactly what's now stored so there's no mystery state.
