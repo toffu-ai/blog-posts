@@ -2,7 +2,7 @@
 title: "Context Rot: למה סוכני AI נהיים טיפשים עם הזמן (ואיך מתקנים את זה בשתי דקות)"
 description: "אותם פרומפטים, תוצאות גרועות יותר? הסוכן לא נהיה טיפש - ההקשר שלו התמלא רעש. מה זה Context Rot, איפה הוא מסתתר, ואיך Toffu מנקה אותו בפקודה אחת."
 date: "2026-06-12"
-image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/complete-guide-building-skills-toffu-hero.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/context-rot-why-ai-agents-get-dumber-hero.png"
 slug: "context-rot-why-ai-agents-get-dumber"
 lang: "he"
 dir: "rtl"

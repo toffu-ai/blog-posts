@@ -2,7 +2,7 @@
 title: "Context Rot: Why AI Agents Seem to Get Dumber Over Time (and How to Fix It in Two Minutes)"
 description: "Same prompts, worse results? Your AI agent didn't get dumber - its context got noisier. What context rot is, where it hides, and how Toffu cleans it with one built-in command."
 date: "2026-06-12"
-image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/complete-guide-building-skills-toffu-hero.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/context-rot-why-ai-agents-get-dumber-hero.png"
 slug: "context-rot-why-ai-agents-get-dumber"
 ---
 
