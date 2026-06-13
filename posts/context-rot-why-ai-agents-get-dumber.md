@@ -8,11 +8,9 @@ slug: "context-rot-why-ai-agents-get-dumber"
 
 # Context Rot: Why AI Agents Seem to Get Dumber Over Time (and How to Fix It in Two Minutes)
 
-A complaint we got from a customer last week, lightly translated:
+Here's a pattern you might recognize. A few days ago you ran a set of prompts and got excellent results. Today you run the exact same prompts and you're fighting the agent just to get close.
 
-"Someone on the team ran a set of prompts a few days ago and got excellent results. Now he's running the exact same prompts and has to fight the agent just to reproduce them."
-
-Same person. Same prompts. Same account. Same model. Worse output. If you've used Toffu (or any AI agent) for more than a month, you've probably felt some version of this. The agent that nailed your weekly report in January needs three corrections to get it right in June. It "forgets" your brand voice mid-task. It resurrects a budget you changed weeks ago.
+Same prompts. Same account. Same model. Worse output. If you've used Toffu (or any AI agent) for more than a month, you've probably felt some version of this. The agent that nailed your weekly report in January needs three corrections to get it right in June. It "forgets" your brand voice mid-task. It resurrects a budget you changed weeks ago.
 
 The instinct is to conclude the agent got dumber. It didn't. Its context got noisier. And unlike a model problem, this one you can actually fix - in about two minutes, using Toffu itself.
 
@@ -38,7 +36,7 @@ Three failure patterns show up over and over:
 
 The symptom of instruction rot is the agent following a rule you forgot existed. If Toffu does something weird and your reaction is "why would it do that?", there's a decent chance you (or a teammate) told it to, months ago.
 
-This is half the answer to the complaint at the top of this post. The prompts were identical, but prompts aren't the whole input - they run on top of every standing instruction in every scope, yours and the shared ones. If anything got appended in the days between the great run and the frustrating one - by you, by a teammate, by a one-off exception that got saved - the same prompts are now executing against different standing orders. Prompt parity is not context parity.
+This is half the answer to the pattern at the top of this post. The prompts were identical, but prompts aren't the whole input - they run on top of every standing instruction in every scope, yours and the shared ones. If anything got appended in the days between the great run and the frustrating one - by you, by a teammate, by a one-off exception that got saved - the same prompts are now executing against different standing orders. Prompt parity is not context parity.
 
 ## Rot source #2: the 200-message thread
 
@@ -46,7 +44,7 @@ The second rot site is the marathon conversation. You know the one: it started a
 
 It does have all the context. That's the problem. The abandoned strategy is still in there. The three rejected drafts are still in there. The old campaign name appears forty times and the new one six. When the model generates its next answer, all of that exerts pull. This is why long threads regress: you correct the budget, and twenty messages later the old number creeps back. The thread outvotes you. It also gets slower and mushier with every tangent.
 
-And here's the other half of the opener's complaint. The excellent results from a few days ago happened inside a particular conversation, with everything that conversation had accumulated - the corrections, the examples, the back-and-forth that tuned the output. The prompts alone never contained the magic; the thread did. Replay the same prompts in a different context and the magic doesn't come with them.
+And here's the other half. The excellent results from a few days ago happened inside a particular conversation, with everything that conversation had accumulated - the corrections, the examples, the back-and-forth that tuned the output. The prompts alone never contained the magic; the thread did. Replay the same prompts in a different context and the magic doesn't come with them.
 
 The rule of thumb: a thread is for a task, not for a relationship. When the task changes, the thread should too.
 
@@ -93,7 +91,7 @@ That last result was exactly right. Save what worked here as a skill
 so any new chat can use it.
 ```
 
-This is the escape from the mega-thread trap. Threads grow to 200 messages because nobody wants to lose the context that finally works. A [skill](https://toffu.ai/blog/complete-guide-building-skills-toffu) keeps the win and leaves the rot behind: the working procedure becomes a clean, reusable block any fresh conversation can load. It's also how the complaint from the opener stops happening - the good result lives in a skill, not in one lucky thread you can't replay. If the recipe runs on a cadence, [graduate it to a scheduled task](https://toffu.ai/blog/hand-off-repetitive-work-toffu).
+This is the escape from the mega-thread trap. Threads grow to 200 messages because nobody wants to lose the context that finally works. A [skill](https://toffu.ai/blog/complete-guide-building-skills-toffu) keeps the win and leaves the rot behind: the working procedure becomes a clean, reusable block any fresh conversation can load. It's also how the pattern from the opener stops happening - the good result lives in a skill, not in one lucky thread you can't replay. If the recipe runs on a cadence, [graduate it to a scheduled task](https://toffu.ai/blog/hand-off-repetitive-work-toffu).
 
 The rest of the hygiene:
 
