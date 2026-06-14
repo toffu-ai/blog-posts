@@ -1,3 +1,7 @@
+---
+author: "Or Arbel"
+---
+
 # Ahrefs Competitor Analysis: Why AI Agents Are the Next Evolution of SEO Tools
 When looking for an Ahrefs competitor, most marketers are searching for the same thing: cheaper data, a different UI, or a specific feature like rank tracking.
 But swapping one dashboard for another doesn't solve the real problem. The problem isn't a lack of data -- it's data overload.

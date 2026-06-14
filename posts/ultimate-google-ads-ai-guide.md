@@ -3,6 +3,7 @@ title: "The Ultimate Guide to Google Ads AI Automation"
 description: "Master Google Ads automation with AI. Complete guide covering negative keywords, bidding protection, campaign restructuring, performance monitoring, and more."
 date: "2025-01-24"
 slug: "ultimate-guide-google-ads-ai-automation"
+author: "Toffu Team"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ultimate-google-ads-ai-guide-hero.avif"
 ---
 

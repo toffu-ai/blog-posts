@@ -4,6 +4,7 @@ description: "How to choose the right marketing automation software for your tea
 date: "2026-02-05"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/marketing-automation-software-guide-hero.png"
 slug: "marketing-automation-software-complete-guide"
+author: "Toffu Research"
 ---
 
 Marketing automation used to mean email drip campaigns. In 2026, it means something entirely different.

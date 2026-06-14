@@ -4,6 +4,7 @@ description: "The hidden struggle every professional faces when transitioning fr
 date: "2026-01-14"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/deterministic-ai-thinking-hero.avif"
 slug: "breaking-free-deterministic-to-ai-native-thinking"
+author: "Or Arbel"
 ---
 
 # Breaking Free: From Deterministic Habits to AI-Native Thinking

@@ -4,6 +4,7 @@ description: "Manual UTM tag creation is messy, inconsistent, and time-consuming
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/utm-tags-automation-hero.avif"
 slug: "utm-tags-automation-tracking-setup"
+author: "Toffu Team"
 ---
 
 # The UTM Tag Nightmare: Why Manual Tracking Setup Is Killing Your Marketing Attribution

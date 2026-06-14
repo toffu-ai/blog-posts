@@ -4,6 +4,7 @@ description: "A practical guide to running competitor analysis that produces dec
 date: "2026-04-13"
 image: "https://i.toffu.ai/competitor-analysis-cover_08ko27jf.png"
 slug: "competitor-analysis-for-marketers"
+author: "Toffu Team"
 ---
 
 # Competitor Analysis for Marketers: The Complete Playbook

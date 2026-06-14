@@ -4,6 +4,7 @@ description: "Bring Toffu's AI marketing automation directly into your Slack wor
 date: "2025-07-28"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/toffu-slack-clean-logo.png"
 slug: "toffu-slack-integration"
+author: "Toffu Team"
 ---
 
 # Toffu is Now Available in Slack: AI Marketing Manager in Your Workspace

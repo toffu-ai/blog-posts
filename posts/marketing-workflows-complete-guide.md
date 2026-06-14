@@ -4,6 +4,7 @@ description: "Most marketing teams don't fail on strategy. They fail on executio
 date: "2025-09-26"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/marketing-workflows-complete-guide-hero.png"
 slug: "marketing-workflows-complete-guide"
+author: "Toffu Team"
 ---
 
 Most marketing teams don't have a strategy problem. They have an execution problem.

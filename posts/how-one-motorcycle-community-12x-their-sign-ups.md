@@ -4,6 +4,7 @@ description: "Learn how Motorcycle Riders Hub grew from 40 sign-ups a week to 50
 date: "2025-11-20"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/simon.jpg"
 slug: "how-one-motorcycle-community-12x-their-sign-ups"
+author: "Or Arbel"
 ---
 
 # How One Motorcycle Community 12x'd Their Sign-Ups

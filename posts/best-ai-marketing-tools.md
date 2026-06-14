@@ -4,6 +4,7 @@ date: "2026-03-30"
 excerpt: "Most AI marketing tool lists are roundups written by people who haven't used them. This one is different. Here's what actually moves the needle for marketing teams in 2026."
 coverImage: "https://i.toffu.ai/best-ai-marketing-tools-cover_z0cxh8yy.png"
 slug: "best-ai-marketing-tools"
+author: "Toffu Research"
 ---
 
 According to [Semrush's 2025 AI Content Marketing Survey](https://www.semrush.com/contentshake/ai-content-marketing-report/) of 2,600+ businesses, 65% of marketers are now using AI tools regularly - but fewer than 20% say those tools have meaningfully reduced their workload. The gap between "using AI" and "AI actually doing the work" is where most tool lists fail you.

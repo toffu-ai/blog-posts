@@ -4,6 +4,7 @@ description: "למה דשבורדים הפכו למיותרים ברגע שיש 
 date: "2026-04-23"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/you-dont-need-a-dashboard-you-need-an-answer-hero.png"
 slug: "toffu-is-a-teammate-not-a-dashboard-builder"
+author: "Or Arbel"
 lang: "he"
 dir: "rtl"
 ---

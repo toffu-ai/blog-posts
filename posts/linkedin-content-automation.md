@@ -4,6 +4,7 @@ description: "Automate LinkedIn content creation with AI. Stop spending hours on
 date: "2025-02-26"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/linkedin-content-automation-hero.avif"
 slug: "linkedin-content-automation-ai"
+author: "Toffu Team"
 ---
 
 # AI Automation for LinkedIn Content Creation and Posting

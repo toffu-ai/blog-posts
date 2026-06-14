@@ -4,6 +4,7 @@ description: "Manual sitelinks setup is eating 10-15 hours per month of your tim
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/stop-manually-adding-sitelinks-automation-hero.avif"
 slug: "stop-manually-adding-sitelinks-automation"
+author: "Toffu Team"
 ---
 
 # Stop Manually Adding Sitelinks: Why Google Ads Automation Is Your New Best Friend

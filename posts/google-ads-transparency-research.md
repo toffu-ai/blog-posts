@@ -4,6 +4,7 @@ description: "Automate Google Ads Transparency Center competitive research with 
 date: "2025-12-11"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-transparency-research-hero.avif"
 slug: "google-ads-transparency-research"
+author: "Toffu Team"
 ---
 
 # Google Ads Transparency Center Research with AI

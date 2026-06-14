@@ -4,6 +4,7 @@ description: "Learn how to set up automated social listening with AI tools. Moni
 date: "2025-07-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/social-listening-ai-hero.avif"
 slug: "how-to-use-ai-automation-for-social-listening"
+author: "Toffu Team"
 ---
 
 # How to Use AI Automation for Social Listening

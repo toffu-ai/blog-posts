@@ -4,6 +4,7 @@ description: "Learn how Armato scales PPC campaigns with Toffu, automates ad cop
 date: "2025-08-19"
 image: "/images/blog/armato.jpg"
 slug: "case-study-armato-ppc-campaigns"
+author: "Or Arbel"
 ---
 
 > *“I used to joke that I was a script kiddie. I could hack things together, but that’s not my business. My dad used to say: ‘Give the flour to the baker.’ I know how to build automations, but I don’t want to make a business out of it. That’s where Toffu comes in.”* — **Zion Karsenti**  

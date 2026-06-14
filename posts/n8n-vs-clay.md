@@ -2,6 +2,7 @@
 title: "n8n vs Clay"
 description: "A comparison of n8n and Clay, two leading workflow automation tools."
 slug: "n8n-vs-clay"
+author: "Toffu Team"
 image: "/images/blog/n8n-vs-clay.jpg"
 date: "2025-05-25"
 ---

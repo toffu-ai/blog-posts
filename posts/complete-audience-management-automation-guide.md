@@ -4,6 +4,7 @@ description: "Stop wasting time on manual audience creation, exclusions, and rep
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/complete-audience-management-guide-hero.avif"
 slug: "complete-audience-management-automation-guide"
+author: "Toffu Team"
 ---
 
 # The Complete Guide to Google Ads Audience Management Automation

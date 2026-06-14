@@ -4,6 +4,7 @@ description: "Manual customer match setup is confusing and often doesn't work. H
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/dynamic-lookalike-audiences-hero.avif"
 slug: "dynamic-lookalike-audiences-automation"
+author: "Toffu Team"
 ---
 
 # Customer Match Lists Are Confusing - Here's How to Build Better Lookalike Audiences

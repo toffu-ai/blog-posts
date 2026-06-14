@@ -4,6 +4,7 @@ description: "Real-time demonstration: Watch as we use our own platform to solve
 date: "2025-01-06"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/misspelling-searches-content-gold.jpg"
 slug: "how-we-used-toffu-ai-to-capture-misspelling-searches"
+author: "Or Arbel"
 ---
 
 # How We Used Toffu AI to Turn 400+ Misspelling Searches Into Content Gold

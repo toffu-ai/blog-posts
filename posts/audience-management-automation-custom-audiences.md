@@ -4,6 +4,7 @@ description: "Creating custom audiences manually is messy and time-consuming. He
 date: "2025-08-02" 
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/audience-management-automation-hero.avif"
 slug: "audience-management-automation-custom-audiences"
+author: "Toffu Team"
 ---
 
 # Manual Audience Management Is Broken - Here's How to Fix It

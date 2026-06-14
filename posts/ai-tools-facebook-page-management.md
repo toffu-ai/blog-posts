@@ -4,6 +4,7 @@ description: "Most AI tools for Facebook page management add complexity without 
 date: "2026-02-19"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ai-tools-facebook-page-management-hero.png"
 slug: "ai-tools-facebook-page-management"
+author: "Toffu Team"
 ---
 
 Facebook has 3.07 billion monthly active users. The average page engagement rate is 0.15%.

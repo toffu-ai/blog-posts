@@ -4,6 +4,7 @@ description: "Learn how to perform a competitor link analysis step by step - fin
 date: "2025-10-10"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/competitor-link-analysis-hero.png"
 slug: "competitor-link-analysis"
+author: "Toffu Team"
 ---
 
 The top-ranking page on Google typically has 3.8 times more backlinks than the pages ranked #2 through #10. That stat comes from [Backlinko's ranking factors study](https://backlinko.com/search-engine-ranking), and it tells you something important: the gap between your site and the competition is largely a links problem.

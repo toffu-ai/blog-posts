@@ -4,6 +4,7 @@ description: "Learn how to automate your Facebook ad campaigns with rule-based a
 date: "2025-10-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/facebook-ad-automation-stop-manual-management-hero.png"
 slug: "facebook-ad-automation-stop-manual-management"
+author: "Toffu Team"
 ---
 
 # Facebook Ad Automation: How to Stop Managing Campaigns Manually

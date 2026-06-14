@@ -1,5 +1,6 @@
 ---
 title: "Toffu vs n8n: Prompt-Based Automation vs Complex Workflows"
+author: "Or Arbel"
 date: "2025-05-21"
 image: "/images/blog/n8n.jpg"
 description: "Compare prompt-based automation with Toffu to complex workflow tools like n8n, and see why marketers are switching."

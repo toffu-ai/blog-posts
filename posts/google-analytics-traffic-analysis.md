@@ -4,6 +4,7 @@ description: "A practical guide to reading Google Analytics traffic data in GA4 
 date: "2025-10-03"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-analytics-traffic-analysis-hero.png"
 slug: "google-analytics-traffic-analysis"
+author: "Toffu Team"
 ---
 
 Most marketers open Google Analytics, see a wall of numbers, and close it again. The dashboard looks busy, but the actual signal - what is working, what is wasting budget, what needs fixing - is buried under terminology that was never designed to be intuitive.

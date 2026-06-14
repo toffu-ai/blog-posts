@@ -4,6 +4,7 @@ description: "Creating audience performance reports manually is time-consuming a
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/audience-performance-optimization-hero.avif"
 slug: "audience-performance-optimization-reporting-automation"
+author: "Toffu Team"
 ---
 
 # Manual Audience Reporting Is Killing Your Optimization - Here's How to Fix It

@@ -4,6 +4,7 @@ description: "Same prompts, worse results? Your AI agent didn't get dumber - its
 date: "2026-06-12"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/context-rot-why-ai-agents-get-dumber-hero.png"
 slug: "context-rot-why-ai-agents-get-dumber"
+author: "Or Arbel"
 ---
 
 # Context Rot: Why AI Agents Seem to Get Dumber Over Time (and How to Fix It in Two Minutes)

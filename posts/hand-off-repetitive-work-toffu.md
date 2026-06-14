@@ -4,6 +4,7 @@ description: "The five-stage path most teams miss: discover, do it once, capture
 date: "2026-05-18"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/hand-off-repetitive-work-toffu-hero.png"
 slug: "hand-off-repetitive-work-toffu"
+author: "Or Arbel"
 ---
 
 # How to Hand Off Repetitive Work to Toffu (Without Automating Too Early)

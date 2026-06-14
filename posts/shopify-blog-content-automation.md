@@ -4,6 +4,7 @@ description: "Manual blog content creation for your Shopify store is killing you
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/shopify-blog-automation-hero.avif"
 slug: "shopify-blog-content-automation"
+author: "Toffu Team"
 ---
 
 # Stop Writing Shopify Blog Posts Manually - Here's How to Automate Your Content Strategy

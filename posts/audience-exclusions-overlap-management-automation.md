@@ -4,6 +4,7 @@ description: "Manual audience exclusions are messy and incomplete. Here's how to
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/audience-exclusions-overlap-management-hero.avif"
 slug: "audience-exclusions-overlap-management-automation"
+author: "Toffu Team"
 ---
 
 # Stop Bidding Against Yourself: How to Fix Audience Overlap and Exclusion Chaos

@@ -4,6 +4,7 @@ description: "Why dashboards became obsolete the moment you had an AI teammate, 
 date: "2026-04-23"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/you-dont-need-a-dashboard-you-need-an-answer-hero.png"
 slug: "you-dont-need-a-dashboard-you-need-an-answer"
+author: "Or Arbel"
 ---
 
 # You Don't Need a Dashboard. You Need an Answer.

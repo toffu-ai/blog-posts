@@ -4,6 +4,7 @@ description: "The bottleneck in modern marketing was never talent -- it was coor
 date: "2026-03-26"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/lean-marketing-team-ai-agents-hero.png"
 slug: "lean-marketing-team-ai-agents"
+author: "Or Arbel"
 ---
 
 The most important marketing org chart question in 2026 isn't headcount.

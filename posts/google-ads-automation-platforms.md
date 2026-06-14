@@ -4,6 +4,7 @@ description: "A plain-language breakdown of every category of Google Ads automat
 date: "2025-10-17"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-automation-platforms-hero.png"
 slug: "google-ads-automation-platforms"
+author: "Toffu Research"
 ---
 
 The Google Ads tool market has fractured into three distinct categories, and most buyers confuse them. There is native Google AI (Smart Bidding, AI Max, Performance Max), rules-based automation (scripts, automated rules, third-party rule engines), and AI agent platforms (tools that diagnose, plan, and support decisions with live account context). These are not competing products in the same category. They solve different problems, and running the wrong one for the wrong task is what causes most of the expensive mistakes in Google Ads management.

@@ -1,7 +1,7 @@
 ---
 title: "Why Your Marketing ROI Numbers Are Wrong (And How to Fix It)"
 date: "2026-01-28"
-author: "Toffu Team"
+author: "Or Arbel"
 excerpt: "Most marketers are drowning in spreadsheets trying to track ROI across platforms. Here's why your numbers are wrong and how to fix it."
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/marketing-roi-attribution-blog-hero.avif"
 tags: ["marketing attribution", "ROI tracking", "analytics", "marketing measurement"]

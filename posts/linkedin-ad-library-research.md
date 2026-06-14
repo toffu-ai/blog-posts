@@ -4,6 +4,7 @@ description: "Master LinkedIn Ad Library competitor research with AI automation.
 date: "2025-01-24"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/ad39dcf1-5052-44d1-8a30-735ab4faa5ba.png"
 slug: "linkedin-ad-library-competitor-research"
+author: "Toffu Team"
 ---
 
 # LinkedIn Ad Library Competitor Research with AI

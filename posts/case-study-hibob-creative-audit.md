@@ -4,6 +4,7 @@ description: "How HiBob's Sr. Director of Performance Creative used Toffu to map
 date: 2026-04-26
 image: "/images/blog/hibob-case-study-hero.png"
 slug: "case-study-hibob-creative-audit"
+author: "Or Arbel"
 featured: true
 ---
 

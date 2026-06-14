@@ -1,5 +1,6 @@
 ---
 title: "Smart Bidding Protection: AI Safeguards for Google Ads"
+author: "Toffu Team"
 date: "2025-12-03"
 summary: "Protect your Google Ads campaigns from Smart Bidding overspend and performance issues with AI-powered safeguards, automated monitoring, and intelligent budget protection strategies."
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/smart-bidding-protection-hero.avif"

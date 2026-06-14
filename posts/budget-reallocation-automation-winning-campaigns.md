@@ -4,6 +4,7 @@ description: "Stop manually moving budget between campaigns every day. Here's ho
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/budget-reallocation-automation-hero.avif"
 slug: "budget-reallocation-automation-winning-campaigns"
+author: "Toffu Team"
 ---
 
 # The Daily Budget Shuffle: Why Smart Marketers Automate Campaign Budget Reallocation

@@ -4,6 +4,7 @@ description: "Most marketing teams spend 5-10 hours a week collecting market int
 date: "2025-09-01"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/market-trends-monitoring-how-to-automate-it-with-scheduled-tasks-hero.png"
 slug: "market-trends-monitoring-how-to-automate-it-with-scheduled-tasks"
+author: "Toffu Team"
 ---
 
 Most marketing teams are doing market trend monitoring wrong. Not because they lack the right sources - they know the competitor websites to check, the ad libraries to browse, the publications to read. The problem is that they're doing it manually, which means it happens inconsistently, takes longer than it should, and produces outputs that live in someone's head rather than a shared document.

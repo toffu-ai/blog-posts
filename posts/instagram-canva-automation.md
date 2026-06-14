@@ -4,6 +4,7 @@ description: "Automate Instagram visual content creation with Toffu's Canva inte
 date: "2025-01-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/instagram-canva-automation-hero.avif"
 slug: "instagram-content-automation-canva"
+author: "Toffu Team"
 ---
 
 # Instagram Content Automation and Engagement Management

@@ -1,5 +1,6 @@
 ---
 title: "Clay Alternative for Dummies: Toffu AI"
+author: "Toffu Team"
 date: "2025-05-21"
 image: "/images/blog/clay-alt.jpg"
 description: "How Toffu AI simplifies relationship management with a natural language interface instead of Clay's complex workflows."

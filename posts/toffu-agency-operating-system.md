@@ -4,6 +4,7 @@ description: "How agency skills turn Toffu into a shared brain across every clie
 date: "2026-05-13"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-agency-operating-system-hero.png"
 slug: "toffu-agency-operating-system"
+author: "Or Arbel"
 ---
 
 # Toffu is the Operating System for Marketing Agencies
