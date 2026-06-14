@@ -4,6 +4,7 @@ description: "Google Ads automation is powerful - but only when pointed at the r
 date: "2026-03-08"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-automation-hero.png"
 slug: "google-ads-automation"
+author: "Toffu Team"
 ---
 
 # Google Ads Automation: What AI Can (and Can't) Do for Your Campaigns

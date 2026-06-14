@@ -4,6 +4,7 @@ description: "Learn how to use AI for Google Ads negative keyword management, au
 date: "2025-02-05"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ai-automation-negative-keywords-google-ads-hero.avif"
 slug: "ai-automation-negative-keywords-google-ads"
+author: "Toffu Team"
 ---
 
 # How to Use AI Automation for Google Ads Negative Keywords

@@ -1,5 +1,6 @@
 ---
 title: "Zapier vs n8n: The Complete Workflow Automation Software Comparison (2025)"
+author: "Toffu Team"
 date: "2025-05-29"
 image: "/images/blog/zapier-vs-n8n.jpg"
 description: "A comprehensive comparison of Zapier and n8n, two popular workflow automation platforms."

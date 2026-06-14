@@ -4,6 +4,7 @@ description: "A comprehensive guide for marketers, entrepreneurs, and creators l
 date: "2025-01-23"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/reddit-self-promotion-subreddits-2025.png"
 slug: "top-10-subreddits-self-promotion-2025"
+author: "Toffu Team"
 ---
 
 # Top 10 Subreddits That Allow Self-Promotion in 2025

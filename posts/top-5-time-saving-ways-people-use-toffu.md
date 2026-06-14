@@ -4,6 +4,7 @@ description: "Discover how marketing teams save 26-44 hours weekly using Toffu A
 date: "2025-01-14"
 image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/top-5-time-saving-toffu-hero.png
 slug: "top-5-time-saving-ways-people-use-toffu-ai"
+author: "Toffu Team"
 tags: ["Time Saving", "Marketing Automation", "Google Analytics", "Google Ads", "Competitor Research", "Productivity"]
 ---
 

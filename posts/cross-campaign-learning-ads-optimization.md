@@ -4,6 +4,7 @@ description: "Learn how to scale successful Google Ads insights across multiple 
 date: "2025-07-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/cross-campaign-learning-hero.avif"
 slug: "cross-campaign-learning-google-ads-optimization"
+author: "Toffu Team"
 ---
 
 # How to Use Cross-Campaign Learning for Google Ads Optimization

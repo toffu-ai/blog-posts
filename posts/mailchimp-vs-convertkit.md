@@ -2,6 +2,7 @@
 title: "Mailchimp vs ConvertKit"
 description: "A comprehensive comparison of Mailchimp and ConvertKit, two leading email marketing platforms."
 slug: "mailchimp-vs-convertkit"
+author: "Toffu Team"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/mailchimp-vs-convertkit-blog-header.png"
 date: "2025-08-25"
 ---

@@ -4,6 +4,7 @@ description: "Most competitor analysis guides cover theory. This one covers exec
 date: "2026-03-11"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/competitor-analysis-marketing-teams-hero.png"
 slug: "competitor-analysis-marketing-teams"
+author: "Toffu Team"
 ---
 
 # Competitor Analysis for Marketing Teams: A Practical Playbook

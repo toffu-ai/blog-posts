@@ -1,7 +1,7 @@
 ---
 title: "Why Your Sales Team Ignores Your Marketing Leads (And How to Fix It)"
 date: "2025-01-28"
-author: "Toffu Team"
+author: "Or Arbel"
 excerpt: "The eternal sales vs marketing battle over lead quality isn't about bad leads - it's about broken handoff processes. Here's how to automate the solution."
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/sales-marketing-lead-handoff-tension.avif"
 tags: ["lead management", "sales marketing alignment", "marketing automation", "lead qualification"]

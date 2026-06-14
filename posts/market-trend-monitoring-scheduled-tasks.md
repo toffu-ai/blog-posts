@@ -4,6 +4,7 @@ description: "Stop checking competitor sites, ad libraries, and review platforms
 date: "2026-03-08"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/market-trend-monitoring-scheduled-tasks-hero.png"
 slug: "market-trend-monitoring-scheduled-tasks"
+author: "Toffu Team"
 ---
 
 # How to Automate Market Trend Monitoring with Scheduled Tasks

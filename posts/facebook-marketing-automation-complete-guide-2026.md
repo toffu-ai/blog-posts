@@ -1,5 +1,6 @@
 ---
 title: "Facebook Marketing Automation: The Complete Guide for 2026"
+author: "Toffu Team"
 description: "How to automate your Facebook and Meta ad campaigns in 2026 — from rules and budgets to Advantage+ and AI-driven creative."
 date: "2026-01-22"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/facebook-marketing-automation-complete-guide-2026-hero.png"

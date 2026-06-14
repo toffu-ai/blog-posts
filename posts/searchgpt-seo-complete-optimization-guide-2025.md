@@ -4,6 +4,7 @@ description: "Master SearchGPT optimization with this comprehensive 2025 guide. 
 date: "2026-01-07"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/searchgpt-seo-optimization-guide-2025.png"
 slug: "searchgpt-seo-complete-optimization-guide-2025"
+author: "Toffu Team"
 ---
 
 # Why Your SEO Strategy Is About to Become Obsolete (And What SearchGPT Actually Ranks)

@@ -4,6 +4,7 @@ description: "Master competitor research across Meta, Google, and LinkedIn ad li
 date: "2025-01-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ultimate-ad-library-research-hero-v2.avif"
 slug: "ultimate-ad-library-competitor-research-guide"
+author: "Toffu Team"
 featured: true
 ---
 

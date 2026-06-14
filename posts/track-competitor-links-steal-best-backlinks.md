@@ -4,6 +4,7 @@ description: "A step-by-step guide to finding, analyzing, and replicating your c
 date: "2025-09-05"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/track-competitor-links-steal-best-backlinks-hero.png"
 slug: "track-competitor-links-steal-best-backlinks"
+author: "Toffu Team"
 ---
 
 Backlinks remain one of Google's top three ranking factors. Pages that rank in position one have, on average, [3.8x more backlinks](https://backlinko.com/search-engine-ranking) than the pages below them. More than 91% of all indexed pages get zero organic traffic - and 55% of those have no backlinks at all.

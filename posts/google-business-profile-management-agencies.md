@@ -4,6 +4,7 @@ description: "Managing 500 Google Business Profiles manually is a full-time job 
 date: "2026-03-08"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-business-profile-management-agencies-hero.png"
 slug: "google-business-profile-management-agencies"
+author: "Toffu Team"
 ---
 
 # Google Business Profile Management for Agencies: How to Handle Hundreds of Locations

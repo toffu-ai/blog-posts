@@ -3,6 +3,7 @@ title: "How to Use AI Automation for Google Ads Campaign Restructuring"
 description: "Learn how systematic campaign restructuring delivered 104% ROAS improvements and 73% CPA reductions. Use AI to analyze and optimize your campaign structure."
 date: "2025-07-24"
 slug: "ai-automation-google-ads-campaign-restructuring"
+author: "Or Arbel"
 ---
 
 # How to Use AI Automation for Google Ads Campaign Restructuring

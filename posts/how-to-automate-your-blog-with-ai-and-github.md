@@ -4,6 +4,7 @@ description: "Learn how to automate your blog with AI and GitHub to save time an
 date: "2025-07-24"
 image: "/images/blog/toffu-github.jpg"
 slug: "how-to-use-ai-automation-and-github-to-automate-your-blog"
+author: "Toffu Team"
 ---
 
 Creating high-quality content is hard enough, but another annoying part of maintaining a lively blog is to copy paste the metadata and content from the creation stage to the publishing stage.

@@ -4,6 +4,7 @@ description: "Learn how Plus500 scaled SEO across 13 markets, automates localiza
 date: 2025-09-29
 image: "/images/blog/plus500.jpg"
 slug: "case-study-plus500"
+author: "Or Arbel"
 ---
 
 ## Introduction

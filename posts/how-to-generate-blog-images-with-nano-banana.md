@@ -4,6 +4,7 @@ description: "Learn how to generate blog image with Nano Banana and Toffu AI"
 date: "2025-09-03"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/bc2fddaf-4bff-453a-9258-0ac77a296152.jpg"
 slug: "how-to-generate-blog-images-with-nano-banana"
+author: "Toffu Team"
 ---
 
 Google announced [Nano Banana](https://blog.google/products/gemini/updated-image-editing-model/) which is a new image editing model that is considered to be the best image editing model available (at least up until as of this writing).

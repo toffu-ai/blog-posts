@@ -1,5 +1,6 @@
 ---
 title: "How to Slash Ad Spend Waste with Marketing Automation"
+author: "Toffu Team"
 date: "2026-06-14"
 coverImage: "https://i.toffu.ai/slash-ad-spend-automation-cover_lno6quej.png"
 ---

@@ -4,6 +4,7 @@ description: "AEO trackers monitor how your brand appears in AI-generated answer
 date: "2026-02-20"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/aeo-tracker-what-it-is-why-every-marketer-needs-one-hero.png"
 slug: "aeo-tracker-what-it-is-why-every-marketer-needs-one"
+author: "Toffu Research"
 ---
 
 Most marketers track rankings, clicks, and impressions. But none of those numbers tell you what ChatGPT says about your brand when someone asks which tool to use, which agency to hire, or which product to buy.

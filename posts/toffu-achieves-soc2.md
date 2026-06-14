@@ -1,5 +1,6 @@
 ---
 title: "Toffu Achieves SOC 2 Certification"
+author: "Or Arbel"
 description: "Toffu AI has successfully achieved SOC 2, demonstrating our unwavering commitment to security, privacy, and compliance."
 date: "2025-07-23"
 image: "/images/blog/soc2-blog.png"

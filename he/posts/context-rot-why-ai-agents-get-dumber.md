@@ -4,6 +4,7 @@ description: "אותם פרומפטים, תוצאות גרועות יותר? ה�
 date: "2026-06-12"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/context-rot-why-ai-agents-get-dumber-hero.png"
 slug: "context-rot-why-ai-agents-get-dumber"
+author: "Or Arbel"
 lang: "he"
 dir: "rtl"
 ---

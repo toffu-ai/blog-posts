@@ -4,6 +4,7 @@ description: "Automate Meta Ad Library competitor research with AI. Analyze Face
 date: "2025-03-05"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/meta-ad-library-research-hero.png"
 slug: "meta-ad-library-competitor-research"
+author: "Toffu Team"
 ---
 
 # Meta Ad Library Competitor Research with AI

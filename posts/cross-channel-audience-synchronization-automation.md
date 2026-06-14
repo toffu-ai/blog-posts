@@ -4,6 +4,7 @@ description: "Manually uploading customer lists to Google Ads, Facebook, and ema
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/cross-channel-audience-sync-hero.avif"
 slug: "cross-channel-audience-synchronization-automation"
+author: "Toffu Team"
 ---
 
 # Stop Managing the Same Audience Data Everywhere - Automate Your Workflow

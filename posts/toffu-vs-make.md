@@ -3,6 +3,7 @@ title: "Toffu vs Make: Conversational AI vs Visual Workflow Builder"
 description: "Marketing automation has hit a fork in the road. On one side, you've got traditional visual workflow builders like Make that make you map out every single step in detailed diagrams. On the other side, conversational AI tools like Toffu let you just describe what you want in plain English and handle all the technical mess behind the scenes."
 date: 2025-05-25
 slug: "toffu-vs-make"
+author: "Or Arbel"
 image: "/images/blog/toffu-vs-make.jpg"
 ---
 
