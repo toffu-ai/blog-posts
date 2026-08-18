@@ -64,7 +64,7 @@ Where Claude stands out vs. ChatGPT: better at following complex multi-step inst
 
 **Pricing:** Free tier available. Claude Pro at $20/month. Team plans available. [claude.ai](https://claude.ai)
 
-**Limitation:** No native tool integrations. To connect Claude to your marketing stack, you need an agent layer like Toffu or build your own MCP setup.
+**Limitation:** No native tool integrations. To connect Claude to your marketing stack, you need an agent layer like Toffu or build your own MCP setup. The fastest route is [connecting Claude to Toffu over MCP](https://toffu.ai/academy/mcp) — one OAuth click, and Claude can pull campaign performance and creative reports from your ad accounts.
 
 #### 3. Surfer SEO
 
