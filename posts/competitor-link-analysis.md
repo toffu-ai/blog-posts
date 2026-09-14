@@ -172,7 +172,7 @@ Toffu connects to your SEO data and can run scheduled competitive analysis tasks
 
 Competitor link analysis sits within the larger discipline of competitor analysis. Understanding where competitors get their links is one layer. Understanding what keywords they rank for, what ad copy they use, and how their content is structured gives you a complete picture of the competitive landscape.
 
-If you have not already built out a full competitive analysis workflow, the post on [competitor analysis for marketing teams](https://toffu.ai/blog/competitor-analysis-marketing-teams) covers how to structure the broader process.
+If you have not already built out a full competitive analysis workflow, the post on [competitor analysis for marketing teams](/blog/competitor-analysis-for-marketers) covers how to structure the broader process.
 
 The link analysis work you do feeds into content planning (what types of content earn links in your space), outreach prioritization (which sites to contact first), and keyword strategy (which pages to build links to based on ranking potential).
 

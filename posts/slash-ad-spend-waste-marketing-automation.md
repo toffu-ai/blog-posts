@@ -84,7 +84,7 @@ Meta's ad auction runs per-impression. If two of your ad sets are eligible to sh
 
 The fix: audience overlap analysis before launching new ad sets, and consolidation of existing campaigns that share significant audience overlap. Meta's Audience Overlap tool shows you the percentage overlap between any two saved audiences - use it before duplicating campaigns.
 
-[Audience exclusion strategies](https://toffu.ai/blog/audience-exclusions-overlap-management-automation) are the other half of this. Excluding recent purchasers from prospecting campaigns, excluding existing leads from top-of-funnel, and excluding engaged audiences from cold traffic campaigns all reduce overlap and improve efficiency.
+Audience exclusion strategies are the other half of this. Excluding recent purchasers from prospecting campaigns, excluding existing leads from top-of-funnel, and excluding engaged audiences from cold traffic campaigns all reduce overlap and improve efficiency.
 
 ## The Compound Effect: Small Fixes, Big Savings
 
@@ -119,6 +119,6 @@ Second is creative monitoring on Meta. Set frequency and CTR thresholds, get ale
 
 Third is audience architecture - make sure your Meta campaigns aren't cannibalizing each other, and that your exclusion lists are actually working.
 
-From there, the [full ad account audit](https://toffu.ai/blog/ad-copy-testing-ai) approach - looking at campaign structure, bidding strategy alignment, landing page quality, and conversion tracking accuracy - gives you a complete picture of where efficiency is leaking.
+From there, the full ad account audit approach - looking at campaign structure, bidding strategy alignment, landing page quality, and conversion tracking accuracy - gives you a complete picture of where efficiency is leaking.
 
 The goal isn't to cut spend. It's to make every dollar work harder. Automation is how you do that at scale, without adding headcount or spending hours in dashboards every day.

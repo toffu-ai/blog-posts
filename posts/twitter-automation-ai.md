@@ -160,7 +160,6 @@ AI should adapt content specifically for Twitter's character limits, hashtag usa
 *Learn more about [Toffu's social media tools](https://toffu.ai/use-cases/social-media-strategy), [automated scheduling capabilities](https://toffu.ai/academy/scheduled-tasks), and [social media workflow automation](https://toffu.ai/academy/social-media) that power systematic Twitter marketing.*
 *Part of our social media automation series:*
 - *[LinkedIn Content Automation](https://toffu.ai/blog/linkedin-content-automation)*
-- *[Instagram Automation with Canva](https://toffu.ai/blog/instagram-canva-automation)*
 - *[AI Social Listening Automation](https://toffu.ai/blog/how-to-use-ai-automation-for-social-listening)*
 - **Cross-platform coordination**: Twitter content that supports broader marketing campaigns
 

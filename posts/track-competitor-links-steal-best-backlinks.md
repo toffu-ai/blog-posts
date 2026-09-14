@@ -165,7 +165,7 @@ Competitor backlink research is not a one-time audit. New links appear constantl
 
 Running this continuously turns competitor link tracking from a one-off project into a systematic, ongoing acquisition channel that surfaces new opportunities every week.
 
-For marketing teams managing multiple brands or clients, this kind of continuous monitoring is exactly where automation pays off. Toffu's [AI-driven competitor analysis](https://toffu.ai/blog/competitor-analysis-marketing-teams) can run these monitoring workflows on autopilot, surfacing new competitor links and flagging high-value opportunities without anyone manually pulling Ahrefs reports each week.
+For marketing teams managing multiple brands or clients, this kind of continuous monitoring is exactly where automation pays off. Toffu's [AI-driven competitor analysis](/blog/competitor-analysis-for-marketers) can run these monitoring workflows on autopilot, surfacing new competitor links and flagging high-value opportunities without anyone manually pulling Ahrefs reports each week.
 
 ---
 
@@ -219,11 +219,11 @@ The research phase is straightforward. The outreach is where most teams fail - n
 
 Running competitor backlink research manually across five competitors takes several hours per month. Multiplied across a team managing multiple clients or brands, it becomes a full-time job.
 
-AI marketing tools can automate the monitoring layer - pulling new competitor links on a schedule, filtering by your criteria, and surfacing only the high-value targets. This is where platforms like Toffu add real leverage. Rather than checking Ahrefs manually each week, you can configure [automated competitor monitoring](https://toffu.ai/blog/competitor-analysis-marketing-teams) that delivers a curated list of new link opportunities directly to your workflow.
+AI marketing tools can automate the monitoring layer - pulling new competitor links on a schedule, filtering by your criteria, and surfacing only the high-value targets. This is where platforms like Toffu add real leverage. Rather than checking Ahrefs manually each week, you can configure [automated competitor monitoring](/blog/competitor-analysis-for-marketers) that delivers a curated list of new link opportunities directly to your workflow.
 
-Toffu also supports [AI-powered competitor ad and content tracking](https://toffu.ai/blog/competitor-filtering-ai), which means you can combine backlink monitoring with a broader picture of what competitors are doing across paid and organic - all in one place.
+Toffu also supports [AI-powered competitor ad and content tracking](/blog/competitor-analysis-for-marketers), which means you can combine backlink monitoring with a broader picture of what competitors are doing across paid and organic - all in one place.
 
-For teams already using [scheduled task automation](https://toffu.ai/blog/market-trend-monitoring-scheduled-tasks) for other marketing workflows, adding competitor link monitoring to that same system creates a genuinely continuous intelligence feed rather than periodic snapshots.
+For teams already using [scheduled task automation](/blog/how-to-automate-market-trend-monitoring-scheduled-tasks) for other marketing workflows, adding competitor link monitoring to that same system creates a genuinely continuous intelligence feed rather than periodic snapshots.
 
 ---
 
@@ -256,7 +256,7 @@ Key metrics to track:
 - **Keyword ranking changes**: Are pages you've built links to moving up in SERPs?
 - **Organic traffic**: Are ranking improvements translating to traffic growth?
 
-Use Google Search Console to monitor ranking changes for specific pages. Pair it with Ahrefs or Semrush to track referring domain growth. For a broader competitive view - including how your SEO position compares to competitors across keywords and traffic - see how to set up a [full competitor analysis workflow for marketing teams](https://toffu.ai/blog/competitor-analysis-marketing-teams).
+Use Google Search Console to monitor ranking changes for specific pages. Pair it with Ahrefs or Semrush to track referring domain growth. For a broader competitive view - including how your SEO position compares to competitors across keywords and traffic - see how to set up a [full competitor analysis workflow for marketing teams](/blog/competitor-analysis-for-marketers).
 
 ---
 
