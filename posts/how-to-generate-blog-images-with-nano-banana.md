@@ -72,7 +72,7 @@ Generate a blog image for the blog post "Mailchimp vs ConvertKit"
 
 This is the result I got:
 
-![Toffu's Blog image](https://toffu.ai/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftoffu-ai%2Fblog-posts%2Fmain%2Fimages%2Fmailchimp-vs-convertkit-blog-header.png&w=828&q=75)
+![Toffu's Blog image](https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/mailchimp-vs-convertkit-blog-header.png)
 
 I only had to ask it once and now it's done.
 

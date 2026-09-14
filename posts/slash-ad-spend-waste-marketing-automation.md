@@ -84,7 +84,7 @@ Meta's ad auction runs per-impression. If two of your ad sets are eligible to sh
 
 The fix: audience overlap analysis before launching new ad sets, and consolidation of existing campaigns that share significant audience overlap. Meta's Audience Overlap tool shows you the percentage overlap between any two saved audiences - use it before duplicating campaigns.
 
-[Audience exclusion strategies](https://toffu.ai/blog/audience-exclusions) are the other half of this. Excluding recent purchasers from prospecting campaigns, excluding existing leads from top-of-funnel, and excluding engaged audiences from cold traffic campaigns all reduce overlap and improve efficiency.
+[Audience exclusion strategies](https://toffu.ai/blog/audience-exclusions-overlap-management-automation) are the other half of this. Excluding recent purchasers from prospecting campaigns, excluding existing leads from top-of-funnel, and excluding engaged audiences from cold traffic campaigns all reduce overlap and improve efficiency.
 
 ## The Compound Effect: Small Fixes, Big Savings
 
