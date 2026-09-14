@@ -1,6 +1,7 @@
 ---
 title: "Competitor Analysis for Marketing Teams: A Practical Playbook"
-description: "Most competitor analysis guides cover theory. This one covers execution - how to track competitor ads, SEO, traffic, backlinks, and messaging, and how to automate the parts that eat the most time."
+seoTitle: "Competitor Analysis for Marketing Teams"
+description: "Execution, not theory: how to track competitor ads, SEO, traffic, backlinks and messaging, and how to automate the parts that eat the most hours."
 date: "2026-03-11"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/competitor-analysis-marketing-teams-hero.png"
 slug: "competitor-analysis-marketing-teams"

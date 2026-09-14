@@ -1,4 +1,6 @@
 ---
+title: "How to Automate Market Trend Monitoring with Scheduled Tasks"
+description: "Competitor sites, ad libraries, Search Console and review platforms, checked on a schedule instead of by hand, with the findings delivered to you."
 author: "Toffu Team"
 ---
 

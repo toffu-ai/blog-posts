@@ -1,6 +1,7 @@
 ---
 title: "Google Ads Automation Platforms: How to Choose the Right AI Tool for Your Account"
-description: "A plain-language breakdown of every category of Google Ads automation platform, what each one actually does, and how to match the right tool to your account size, workflow, and goals."
+seoTitle: "Google Ads Automation Platforms Compared"
+description: "Every category of Google Ads automation platform, what each one actually does, and how to match one to your account size, workflow and goals."
 date: "2025-10-17"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-automation-platforms-hero.png"
 slug: "google-ads-automation-platforms"

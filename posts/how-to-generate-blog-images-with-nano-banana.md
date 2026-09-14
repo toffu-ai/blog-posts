@@ -1,6 +1,6 @@
 ---
 title: "How to generate on-brand blog images with Nano Banana"
-description: "Learn how to generate blog image with Nano Banana and Toffu AI"
+description: "Nano Banana is the strongest image editing model available, but on-brand blog images still need direction. How to generate them well with Toffu."
 date: "2025-09-03"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/bc2fddaf-4bff-453a-9258-0ac77a296152.jpg"
 slug: "how-to-generate-blog-images-with-nano-banana"

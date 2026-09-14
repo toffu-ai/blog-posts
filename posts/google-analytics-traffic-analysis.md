@@ -1,6 +1,7 @@
 ---
 title: "Google Analytics Traffic Analysis: What the Numbers Actually Mean"
-description: "A practical guide to reading Google Analytics traffic data in GA4 - what sessions, users, channels, and engagement metrics actually measure and how to act on them."
+seoTitle: "Google Analytics Traffic Analysis Explained"
+description: "What GA4 sessions, users, channels and engagement metrics actually measure, how the traffic reports connect, and how to act on what they show."
 date: "2025-10-03"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-analytics-traffic-analysis-hero.png"
 slug: "google-analytics-traffic-analysis"

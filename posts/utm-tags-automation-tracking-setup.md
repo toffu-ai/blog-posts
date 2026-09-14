@@ -1,6 +1,7 @@
 ---
 title: "The UTM Tag Nightmare: Why Manual Tracking Setup Is Killing Your Marketing Attribution"
-description: "Manual UTM tag creation is messy, inconsistent, and time-consuming. Here's how AI automation creates perfect tracking URLs for every campaign without the headaches."
+seoTitle: "Automate UTM Tag Creation and Tracking"
+description: "Manual UTM building is inconsistent and slow, and the typos wreck attribution. How automation produces clean tracking URLs for every campaign."
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/utm-tags-automation-hero.avif"
 slug: "utm-tags-automation-tracking-setup"

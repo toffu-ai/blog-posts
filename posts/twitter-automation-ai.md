@@ -1,6 +1,6 @@
 ---
 title: "How to Automate Twitter/X Marketing with AI Scheduling"
-description: "Automate Twitter marketing with AI scheduling and content creation. Stop spending hours on manual posting and start building consistent engagement automatically."
+description: "Automate Twitter/X marketing with AI scheduling and content creation. Stop spending hours on manual posting and build consistent engagement instead."
 date: "2025-01-24"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/b68aa005-d705-473b-be53-486cef2190e4.png"
 slug: "twitter-automation-ai"

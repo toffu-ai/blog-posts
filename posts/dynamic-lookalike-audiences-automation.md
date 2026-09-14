@@ -1,5 +1,6 @@
 ---
 title: "Customer Match Lists Are Confusing - Here's How to Build Better Lookalike Audiences"
+seoTitle: "Build Better Lookalike Audiences Automatically"
 description: "Manual customer match setup is confusing and often doesn't work. Here's how to automate dynamic lookalike audience creation that actually drives results."
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/dynamic-lookalike-audiences-hero.avif"

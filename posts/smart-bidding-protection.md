@@ -1,5 +1,6 @@
 ---
 title: "Smart Bidding Protection: AI Safeguards for Google Ads"
+description: "Smart Bidding can burn a week of budget in two days while it learns. The guardrails that keep automated Google Ads bidding from getting expensive."
 author: "Toffu Team"
 date: "2025-12-03"
 summary: "Protect your Google Ads campaigns from Smart Bidding overspend and performance issues with AI-powered safeguards, automated monitoring, and intelligent budget protection strategies."

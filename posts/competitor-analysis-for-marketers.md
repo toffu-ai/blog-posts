@@ -1,6 +1,6 @@
 ---
 title: "Competitor Analysis for Marketers: The Complete Playbook"
-description: "A practical guide to running competitor analysis that produces decisions, not just documents. Covers frameworks, tools, data sources, and how to build ongoing competitive intelligence."
+description: "A practical guide to competitor analysis that ends in decisions, not documents: frameworks, data sources, and how to keep the intelligence current."
 date: "2026-04-13"
 image: "https://i.toffu.ai/competitor-analysis-cover_08ko27jf.png"
 slug: "competitor-analysis-for-marketers"
@@ -120,7 +120,7 @@ You can also use Toffu's [content gap analysis playbook](https://toffu.ai/playbo
 - What ad copy are they running? The [Google Ads Transparency Center](https://adstransparency.google.com/) shows ads any advertiser is running, free.
 - Run an auction insights report in Google Ads to see your impression share vs. rivals.
 
-For a deeper look at competitor ad research across channels, see our guide on [researching competitor ads on Google, Meta, and LinkedIn](/blog/how-to-research-competitor-ads-on-google-meta-and-linkedin).
+For a deeper look at competitor ad research across channels, see our guide on [researching competitor ads on Google, Meta, and LinkedIn](/blog/ultimate-ad-library-competitor-research).
 
 **Social and content:**
 - What content formats are driving their highest engagement?

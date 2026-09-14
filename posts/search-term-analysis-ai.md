@@ -1,6 +1,6 @@
 ---
 title: "How to Use AI Automation for Google Ads Search Term Analysis"
-description: "Learn how AI automation can process thousands of Google Ads search terms instantly, identify wasteful patterns, and optimize campaigns faster than manual analysis."
+description: "How AI automation processes thousands of Google Ads search terms at once, finds the wasteful patterns, and optimises faster than manual review."
 date: "2025-07-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/search-term-analysis-ai-hero.avif"
 slug: "ai-automation-google-ads-search-term-analysis"

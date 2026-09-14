@@ -1,1 +1,0 @@
-https://s.toffu.ai/cf/facebook-ads-6idi.md

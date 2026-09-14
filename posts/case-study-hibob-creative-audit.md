@@ -1,6 +1,7 @@
 ---
 title: "Case Study: How HiBob Audited 100s of Ad Creatives in Hours with Toffu"
-description: "How HiBob's Sr. Director of Performance Creative used Toffu to map every ad across Meta, Google, YouTube, and LinkedIn by region, segment, persona, and funnel stage."
+seoTitle: "HiBob: Auditing Hundreds of Ad Creatives Fast"
+description: "How HiBob's Sr. Director of Performance Creative mapped every ad across Meta, Google, YouTube and LinkedIn by region, segment, persona and funnel stage."
 date: 2026-04-26
 image: "/images/blog/hibob-case-study-hero.png"
 slug: "case-study-hibob-creative-audit"

@@ -1,6 +1,7 @@
 ---
 title: "Competitor Link Analysis: How to Find and Use Their Backlink Strategy"
-description: "Learn how to perform a competitor link analysis step by step - find which sites link to your competitors, identify link gaps, and build a backlink strategy that actually improves your rankings."
+seoTitle: "Competitor Link Analysis: Find Their Backlinks"
+description: "Find which sites link to your competitors, spot the link gaps, and turn that into a backlink strategy that actually moves your own rankings."
 date: "2025-10-10"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/competitor-link-analysis-hero.png"
 slug: "competitor-link-analysis"

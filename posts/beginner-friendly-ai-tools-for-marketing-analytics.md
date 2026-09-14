@@ -1,6 +1,6 @@
 ---
 title: "Best AI Marketing Analytics Tools for Beginners"
-description: "Discover the top AI marketing analytics tools that turn complex data into actionable insights. Perfect for beginners - no data science degree required. Start free."
+description: "The AI marketing analytics tools that turn scattered data into decisions, picked for beginners. No data science degree, no spreadsheet wrangling."
 image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/beginner-friendly-ai-marketing-analytics-tools.png
 slug: "beginner-friendly-ai-tools-for-marketing-analytics"
 author: "Toffu Team"

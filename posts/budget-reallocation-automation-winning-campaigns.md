@@ -1,5 +1,6 @@
 ---
 title: "The Daily Budget Shuffle: Why Smart Marketers Automate Campaign Budget Reallocation"
+seoTitle: "Automate Google Ads Budget Reallocation"
 description: "Stop manually moving budget between campaigns every day. Here's how AI automatically shifts money from losing ads to winning ones, boosting ROI while you sleep."
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/budget-reallocation-automation-hero.avif"

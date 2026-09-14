@@ -1,5 +1,6 @@
 ---
 title: "How to Slash Ad Spend Waste with Marketing Automation"
+description: "An estimated 60% of digital ad spend is wasted. The fix is not spending less, it is catching waste faster. How automation closes that gap for you."
 author: "Toffu Team"
 date: "2026-06-14"
 coverImage: "https://i.toffu.ai/slash-ad-spend-automation-cover_lno6quej.png"

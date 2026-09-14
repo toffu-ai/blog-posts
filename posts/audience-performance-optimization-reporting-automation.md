@@ -1,6 +1,7 @@
 ---
 title: "Manual Audience Reporting Is Killing Your Optimization - Here's How to Fix It"
-description: "Creating audience performance reports manually is time-consuming and often inaccurate. Here's how to automate audience optimization and reporting for better results."
+seoTitle: "Automate Google Ads Audience Reporting"
+description: "Building audience performance reports by hand is slow and often out of date on arrival. How to automate audience reporting and optimisation instead."
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/audience-performance-optimization-hero.avif"
 slug: "audience-performance-optimization-reporting-automation"

@@ -1,6 +1,7 @@
 ---
 title: "Google Ads Automation: What AI Can (and Can't) Do for Your Campaigns"
-description: "Google Ads automation is powerful - but only when pointed at the right thing. A practical guide to Smart Bidding, PMax, RSAs, scripts, and where AI agents fill the gaps Google's own automation can't."
+seoTitle: "Google Ads Automation: What AI Can and Cannot Do"
+description: "A practical guide to Smart Bidding, Performance Max, RSAs and scripts, and where AI agents fill the gaps Google's own automation leaves open."
 date: "2026-03-08"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-automation-hero.png"
 slug: "google-ads-automation"

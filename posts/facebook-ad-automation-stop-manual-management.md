@@ -1,6 +1,7 @@
 ---
 title: "Facebook Ad Automation: How to Stop Managing Campaigns Manually"
-description: "Learn how to automate your Facebook ad campaigns with rule-based automation, budget scaling, creative refresh systems, and AI-powered oversight -- so your campaigns run efficiently without constant manual intervention."
+seoTitle: "Facebook Ad Automation: Stop Managing by Hand"
+description: "Rule-based automation, budget scaling, creative refresh and AI oversight, so your Facebook campaigns run without constant manual intervention."
 date: "2025-10-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/facebook-ad-automation-stop-manual-management-hero.png"
 slug: "facebook-ad-automation-stop-manual-management"

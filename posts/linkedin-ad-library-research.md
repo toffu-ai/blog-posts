@@ -164,4 +164,4 @@ Your B2B competitors are evolving their messaging and positioning continuously. 
 
 ---
 
-*Learn more about [Toffu's LinkedIn capabilities](https://toffu.ai/tools/linkedin) and [competitive intelligence workflows](https://toffu.ai/academy/competitive-analysis).*
+*Learn more about [Toffu's LinkedIn capabilities](https://toffu.ai/tools/linkedin) and [competitive intelligence workflows](https://toffu.ai/academy/competitor-analysis).*
