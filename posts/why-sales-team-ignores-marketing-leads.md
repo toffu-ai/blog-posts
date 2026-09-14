@@ -1,5 +1,7 @@
 ---
 title: "Why Your Sales Team Ignores Your Marketing Leads (And How to Fix It)"
+seoTitle: "Why Sales Ignores Your Marketing Leads"
+description: "Sales blames marketing, marketing blames sales, and the pipeline stalls in between. What actually breaks the lead handoff, and how to repair it."
 date: "2025-01-28"
 author: "Or Arbel"
 excerpt: "The eternal sales vs marketing battle over lead quality isn't about bad leads - it's about broken handoff processes. Here's how to automate the solution."

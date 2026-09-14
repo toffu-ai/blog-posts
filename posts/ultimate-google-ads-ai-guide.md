@@ -56,7 +56,7 @@ Before optimizing for performance, you need automation that prevents expensive m
 
 **The Problem**: Manual negative keyword management is reactive, inconsistent, and impossible to scale across multiple campaigns.
 
-**The AI Solution**: [Automated negative keyword intelligence](/blog/negative-keywords-automation) that identifies wasteful patterns and applies insights across campaigns systematically.
+**The AI Solution**: [Automated negative keyword intelligence](/blog/ai-automation-negative-keywords-google-ads) that identifies wasteful patterns and applies insights across campaigns systematically.
 
 **Key Benefits**:
 - Identifies wasteful search patterns before they drain significant budget
@@ -145,7 +145,7 @@ The most sophisticated automation handles complex strategic decisions.
 **Implement First**:
 1. **[Smart Bidding Protection](/blog/smart-bidding-protection)** - Prevent catastrophic overspending
 2. **[Performance Monitoring](/blog/performance-monitoring-ai)** - 24/7 account protection  
-3. **[Negative Keywords Automation](/blog/negative-keywords-automation)** - Stop wasteful spending patterns
+3. **[Negative Keywords Automation](/blog/ai-automation-negative-keywords-google-ads)** - Stop wasteful spending patterns
 
 ### Phase 2: Optimization (Month 2)
 **Priority**: Scale successful strategies and improve systematic performance
@@ -204,7 +204,7 @@ The businesses winning with Google Ads in 2025 aren't just spending more efficie
 ### ✅ **Foundational Protection (Week 1-2)**
 - [ ] **[Smart Bidding Protection](/blog/smart-bidding-protection)** - Prevent expensive clicks
 - [ ] **[Performance Monitoring](/blog/performance-monitoring-ai)** - 24/7 account protection
-- [ ] **[Negative Keywords Automation](/blog/negative-keywords-automation)** - Stop wasteful spending
+- [ ] **[Negative Keywords Automation](/blog/ai-automation-negative-keywords-google-ads)** - Stop wasteful spending
 
 ### ✅ **Performance Optimization (Week 3-4)**  
 - [ ] **[Search Term Analysis](/blog/ai-search-term-analysis)** - Automated opportunity identification

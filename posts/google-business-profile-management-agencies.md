@@ -1,6 +1,7 @@
 ---
 title: "Google Business Profile Management for Agencies: How to Handle Hundreds of Locations"
-description: "Managing 500 Google Business Profiles manually is a full-time job that still gets done inconsistently. Here's how agencies structure access, automate reviews, detect suspensions, and scale without adding headcount."
+seoTitle: "Google Business Profile Management for Agencies"
+description: "How agencies structure access, automate review responses, detect suspensions and keep NAP data consistent across hundreds of Google locations."
 date: "2026-03-08"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-business-profile-management-agencies-hero.png"
 slug: "google-business-profile-management-agencies"

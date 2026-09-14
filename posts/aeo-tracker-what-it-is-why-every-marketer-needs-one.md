@@ -1,6 +1,6 @@
 ---
 title: "AEO Tracker: What It Is and Why Every Marketer Needs One"
-description: "AEO trackers monitor how your brand appears in AI-generated answers from ChatGPT, Perplexity, Gemini, and Google AI Overviews. Here's what they measure and why they matter."
+description: "AEO trackers monitor how your brand shows up in AI answers from ChatGPT, Perplexity, Gemini and Google AI Overviews. What they measure, and why it matters."
 date: "2026-02-20"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/aeo-tracker-what-it-is-why-every-marketer-needs-one-hero.png"
 slug: "aeo-tracker-what-it-is-why-every-marketer-needs-one"

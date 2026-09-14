@@ -1,5 +1,6 @@
 ---
 title: "Stop Writing Shopify Blog Posts Manually - Here's How to Automate Your Content Strategy"
+seoTitle: "Automate Your Shopify Blog Content Strategy"
 description: "Manual blog content creation for your Shopify store is killing your time and SEO. Here's how to automate your entire content workflow with AI."
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/shopify-blog-automation-hero.avif"

@@ -1,5 +1,6 @@
 ---
 title: "Stop Managing the Same Audience Data Everywhere - Automate Your Workflow"
+seoTitle: "Automate Cross-Channel Audience Syncing"
 description: "Manually uploading customer lists to Google Ads, Facebook, and email platforms is tedious and error-prone. Here's how to streamline audience data management."
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/cross-channel-audience-sync-hero.avif"

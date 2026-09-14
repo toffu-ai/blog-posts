@@ -1,5 +1,6 @@
 ---
 title: "Case Study: How Plus500 Scaled SEO Across 13 Markets with Toffu"
+seoTitle: "Plus500: Scaling SEO Across 13 Markets"
 description: "Learn how Plus500 scaled SEO across 13 markets, automates localization with AI, and scales content creation across markets."
 date: 2025-09-29
 image: "/images/blog/plus500.jpg"

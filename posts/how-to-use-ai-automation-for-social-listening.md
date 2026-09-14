@@ -1,6 +1,6 @@
 ---
 title: "How to Use AI Automation for Social Listening"
-description: "Learn how to set up automated social listening with AI tools. Monitor Reddit discussions, track sentiment in Google Sheets, and get real-time alerts for brand mentions."
+description: "Set up automated social listening with AI: monitor Reddit discussions, track sentiment in Google Sheets, and get alerts when your brand is mentioned."
 date: "2025-07-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/social-listening-ai-hero.avif"
 slug: "how-to-use-ai-automation-for-social-listening"
@@ -71,7 +71,7 @@ That's exactly what we're going to fix.
 Your brand's reputation is being shaped right now in Reddit communities. The question is whether you'll have the data and insights needed to respond effectively and measure your success.
 *Part of our social media automation series:*
 - *[LinkedIn Content Automation](https://toffu.ai/blog/linkedin-content-automation)*
-- *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-marketing-automation-ai-scheduling)*
+- *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-automation-ai)*
 - *[Instagram Automation with Canva](https://toffu.ai/blog/instagram-canva-automation)*
 - *AI Social Listening Automation (you are here)*
 

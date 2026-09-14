@@ -1,6 +1,6 @@
 ---
 title: "How to Automate Market Trend Monitoring with Scheduled Tasks"
-description: "Stop checking competitor sites, ad libraries, and review platforms manually. Learn how to set up automated market trend monitoring using scheduled tasks that run daily, weekly, or monthly and deliver insights directly to Slack or email."
+description: "Stop checking competitor sites, ad libraries and review platforms by hand. Set up scheduled monitoring that runs daily or weekly and reports to Slack."
 date: "2026-03-08"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/market-trend-monitoring-scheduled-tasks-hero.png"
 slug: "market-trend-monitoring-scheduled-tasks"

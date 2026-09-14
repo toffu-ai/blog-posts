@@ -1,6 +1,7 @@
 ---
 title: "Market Trends Monitoring: How to Automate It with Scheduled Tasks"
-description: "Most marketing teams spend 5-10 hours a week collecting market intelligence manually. Here's how to automate market trends monitoring with scheduled tasks so the insights come to you."
+seoTitle: "How to Automate Market Trends Monitoring"
+description: "Marketing teams lose 5-10 hours a week collecting market intelligence by hand. How to automate it with scheduled tasks so the insights come to you."
 date: "2025-09-01"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/market-trends-monitoring-how-to-automate-it-with-scheduled-tasks-hero.png"
 slug: "market-trends-monitoring-how-to-automate-it-with-scheduled-tasks"

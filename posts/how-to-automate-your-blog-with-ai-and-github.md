@@ -1,6 +1,6 @@
 ---
 title: "How to use AI Automation and GitHub to Automate Your Blog"
-description: "Learn how to automate your blog with AI and GitHub to save time and improve your content."
+description: "Copying metadata and content from draft to publish is the dull half of blogging. How to automate it with AI and GitHub, with you still in the loop."
 date: "2025-07-24"
 image: "/images/blog/toffu-github.jpg"
 slug: "how-to-use-ai-automation-and-github-to-automate-your-blog"

@@ -1,6 +1,7 @@
 ---
 title: "Marketing Workflows: How to Build a System That Actually Ships Campaigns"
-description: "Most marketing teams don't fail on strategy. They fail on execution. Here's how to build marketing workflows that eliminate bottlenecks, reduce back-and-forth, and consistently ship campaigns on time."
+seoTitle: "Marketing Workflows That Actually Ship Campaigns"
+description: "Most marketing teams fail on execution, not strategy. How to build workflows that kill bottlenecks, cut back-and-forth, and ship campaigns on time."
 date: "2025-09-26"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/marketing-workflows-complete-guide-hero.png"
 slug: "marketing-workflows-complete-guide"

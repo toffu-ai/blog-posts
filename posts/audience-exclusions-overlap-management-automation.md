@@ -1,5 +1,6 @@
 ---
 title: "Stop Bidding Against Yourself: How to Fix Audience Overlap and Exclusion Chaos"
+seoTitle: "Fix Google Ads Audience Overlap and Exclusions"
 description: "Manual audience exclusions are messy and incomplete. Here's how to automate overlap management so your campaigns stop competing against each other."
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/audience-exclusions-overlap-management-hero.avif"

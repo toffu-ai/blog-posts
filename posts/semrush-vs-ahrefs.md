@@ -1,7 +1,7 @@
 ---
-title: "SEMrush vs Ahrefs"
+title: "SEMrush vs Ahrefs: Which SEO Tool Is Worth It"
 author: "Toffu Team"
-description: "Complete comparison of SEMrush vs Ahrefs for SEO professionals. Features, pricing, keyword research, backlink analysis, and which tool fits your marketing needs."
+description: "A full comparison of SEMrush and Ahrefs: keyword research, backlink data, pricing and features, and which one fits the way you actually work."
 date: 2025-01-07
 image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/semrush-vs-ahrefs-hero.png
 ---

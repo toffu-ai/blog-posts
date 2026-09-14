@@ -1,5 +1,6 @@
 ---
 title: "Best AI Marketing Tools: What Actually Works"
+description: "65% of marketers use AI tools, under 20% say they saved real time. A breakdown of which AI marketing tools solve which problem, with honest pricing."
 date: "2026-03-30"
 excerpt: "Most AI marketing tool lists are roundups written by people who haven't used them. This one is different. Here's what actually moves the needle for marketing teams in 2026."
 coverImage: "https://i.toffu.ai/best-ai-marketing-tools-cover_z0cxh8yy.png"

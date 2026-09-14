@@ -1,6 +1,7 @@
 ---
 title: "Toffu is Now Available in Slack: AI Marketing Manager in Your Workspace"
-description: "Bring Toffu's AI marketing automation directly into your Slack workspace. Execute campaigns, analyze performance, and manage marketing tasks without leaving your team's communication hub."
+seoTitle: "Toffu is Now Available in Slack"
+description: "Run campaigns, pull performance and hand off marketing tasks from inside Slack. Toffu now works alongside your team in the tool you already use."
 date: "2025-07-28"
 image: "https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/toffu-slack-clean-logo.png"
 slug: "toffu-slack-integration"

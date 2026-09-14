@@ -1,6 +1,6 @@
 ---
-title: "n8n vs Clay"
-description: "A comparison of n8n and Clay, two leading workflow automation tools."
+title: "n8n vs Clay: Which Automation Tool Fits Your Team"
+description: "n8n is an open-source workflow builder, Clay is a data enrichment platform. Where each one wins, what they cost, and which fits the work you do."
 slug: "n8n-vs-clay"
 author: "Toffu Team"
 image: "/images/blog/n8n-vs-clay.jpg"

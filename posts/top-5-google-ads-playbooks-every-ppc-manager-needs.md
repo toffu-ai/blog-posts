@@ -1,6 +1,6 @@
 ---
 title: "5 Google Ads Playbooks That Every PPC Manager Actually Needs"
-description: "Stop running Google Ads on vibes. These five automation playbooks cover the audits, alerts, and optimizations that separate accounts that scale from accounts that bleed."
+description: "Five automation playbooks covering the audits, alerts and optimisations that separate Google Ads accounts that scale from accounts that quietly bleed."
 date: "2026-02-24"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/top-5-google-ads-playbooks.jpg"
 slug: "top-5-google-ads-playbooks-every-ppc-manager-needs"

@@ -1,5 +1,6 @@
 ---
 title: "Why Your Marketing ROI Numbers Are Wrong (And How to Fix It)"
+description: "Cross-platform ad reporting double-counts some conversions and misses the rest. Why your marketing ROI numbers are wrong, and how to rebuild them."
 date: "2026-01-28"
 author: "Or Arbel"
 excerpt: "Most marketers are drowning in spreadsheets trying to track ROI across platforms. Here's why your numbers are wrong and how to fix it."

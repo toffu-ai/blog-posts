@@ -1,6 +1,7 @@
 ---
 title: "The Complete Guide to Google Ads Audience Management Automation"
-description: "Stop wasting time on manual audience creation, exclusions, and reporting. This complete guide shows how to automate every aspect of audience management for better results."
+seoTitle: "Google Ads Audience Management Automation"
+description: "Stop hand-building audiences, exclusions and reports. A complete guide to automating every part of Google Ads audience management, end to end."
 date: "2025-08-02"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/complete-audience-management-guide-hero.avif"
 slug: "complete-audience-management-automation-guide"
