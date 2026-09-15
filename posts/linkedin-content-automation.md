@@ -156,7 +156,7 @@ Manual posting leads to irregular schedules. As one professional noted: "And whe
 *Part of our social media automation series:*
 - *LinkedIn Content Automation (you are here)*
 - *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-automation-ai)*
-- *[Instagram Automation with Canva](https://toffu.ai/blog/instagram-canva-automation)*
+- *Instagram Automation with Canva*
 - *[AI Social Listening Automation](https://toffu.ai/blog/how-to-use-ai-automation-for-social-listening)*
 **Advanced Strategies**
 

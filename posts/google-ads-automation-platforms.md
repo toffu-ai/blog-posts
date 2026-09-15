@@ -97,7 +97,7 @@ AI agents do the diagnostic work. The better ones then produce a structured reco
 
 Beyond Google Ads, Toffu connects to Google Analytics, Meta Ads, LinkedIn Ads, Google Search Console, and other marketing data sources in the same workspace. This matters because many Google Ads performance problems are not caused by Google Ads settings - they are caused by traffic quality changes that only show up when you look at analytics data, or by landing page issues that require looking at engagement metrics.
 
-[Automated daily reporting](https://toffu.ai/blog/automated-daily-google-ads-reports-setup) is one of the practical use cases: instead of manually checking dashboards every morning, you set up a scheduled analysis that runs at 7am and surfaces any anomalies before your team day starts. For agencies managing multiple accounts, the multi-account view means anomalies across all client accounts surface in one place rather than requiring individual logins.
+Automated daily reporting is one of the practical use cases: instead of manually checking dashboards every morning, you set up a scheduled analysis that runs at 7am and surfaces any anomalies before your team day starts. For agencies managing multiple accounts, the multi-account view means anomalies across all client accounts surface in one place rather than requiring individual logins.
 
 The [pricing page](https://toffu.ai/pricing) shows current plan details. [Start with a free account](https://toffu.ai/account/sign-up) to connect your Google Ads property and run a diagnostic analysis on your current campaigns.
 
@@ -183,4 +183,4 @@ Google's native AI handles auction-time decisions at a scale and speed no extern
 
 If you want to see how this works in practice for your account, [Toffu connects to Google Ads](https://toffu.ai/account/sign-up) and can run a diagnostic analysis on your current campaigns. The analysis surfaces which channels are performing, which have anomalies worth investigating, and where automation gaps are costing you money - without requiring you to navigate through multiple reports.
 
-For broader [Google Ads automation guidance](https://toffu.ai/blog/google-ads-automation), the complete guide covers the strategic layer above the tool selection decisions covered here.
+For broader Google Ads automation guidance, the complete guide covers the strategic layer above the tool selection decisions covered here.

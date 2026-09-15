@@ -72,7 +72,6 @@ Your brand's reputation is being shaped right now in Reddit communities. The que
 *Part of our social media automation series:*
 - *[LinkedIn Content Automation](https://toffu.ai/blog/linkedin-content-automation)*
 - *[Twitter/X Marketing Automation](https://toffu.ai/blog/twitter-automation-ai)*
-- *[Instagram Automation with Canva](https://toffu.ai/blog/instagram-canva-automation)*
 - *AI Social Listening Automation (you are here)*
 
 ## Step 2: Create Your Social Listening Tracking Sheet

@@ -211,9 +211,9 @@ These are ranges, not guarantees. Your actual numbers will depend on your funnel
 
 Manually checking GA4 every day creates a reporting lag. Issues discovered on Friday about what happened on Monday cost you a week of wasted spend.
 
-[Automated daily reporting](https://toffu.ai/blog/automated-daily-google-ads-reports-setup) solves this by surfacing anomalies as they happen. With Toffu, you can connect your Google Analytics account and set up natural language queries that run on a schedule. Instead of navigating through GA4 reports, you ask: "Which channels had the biggest drop in engagement rate this week compared to last week?" and get a structured answer with the specific numbers.
+Automated daily reporting solves this by surfacing anomalies as they happen. With Toffu, you can connect your Google Analytics account and set up natural language queries that run on a schedule. Instead of navigating through GA4 reports, you ask: "Which channels had the biggest drop in engagement rate this week compared to last week?" and get a structured answer with the specific numbers.
 
-This is particularly useful for [marketing analytics across multiple channels](https://toffu.ai/blog/beginner-friendly-ai-tools-for-marketing-analytics) - when you are tracking organic search, paid campaigns, and referral traffic simultaneously, automated alerts catch the drops before they become expensive problems.
+This is particularly useful for marketing analytics across multiple channels - when you are tracking organic search, paid campaigns, and referral traffic simultaneously, automated alerts catch the drops before they become expensive problems.
 
 If you want to understand what Toffu can do for your analytics workflow, the [pricing page](https://toffu.ai/pricing) shows exactly what is included in each plan.
 

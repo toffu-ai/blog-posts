@@ -165,7 +165,7 @@ Learn more about leveraging automation in your marketing efforts and explore our
 
 If you're still weighing your options, consider these alternatives:
 
-- **For Clay users seeking simplicity**: Check out our guide on [Clay alternatives for a simpler approach](/blog/clay-alternative-for-dummies)
+- **For Clay users seeking simplicity**: Check out our guide on Clay alternatives for a simpler approach
 - **For those interested in prompt-based automation**: Learn about the differences between [Toffu's conversational approach vs n8n's complex workflows](/blog/toffu-vs-n8n-prompt-based-automation-vs-complex-workflows)
 
 ## Conclusion
