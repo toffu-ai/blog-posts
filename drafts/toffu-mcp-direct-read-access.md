@@ -1,29 +1,51 @@
 ---
-title: "Toffu's MCP Now Reads Every Platform Directly"
-description: "Claude, ChatGPT, and any MCP client can now read your ad accounts, analytics, CRM, and store through Toffu, with no agent turn in between."
+title: "One Connector for All Your Marketing Data in Claude and ChatGPT"
+description: "Connect Toffu once and Claude, ChatGPT, or any MCP client can read every ad account, analytics property, store, and CRM you use. In seconds, read-only, no extra setup."
 date: "TBD"
 image: ""
 slug: "toffu-mcp-direct-read-access"
 ---
 
-*Claude, ChatGPT, and any MCP client can now read your ad accounts, analytics, CRM, and store through Toffu, with no agent turn in between.*
+*Connect Toffu once and Claude, ChatGPT, or any MCP client can read every ad account, analytics property, store, and CRM you use. In seconds, read-only, no extra setup.*
 
 ---
 
-Until today, connecting Claude or ChatGPT to Toffu gave you one main path: send a message to the Toffu agent and wait for its answer. That is the right path for real work. Toffu knows your accounts, your brand, and your history, and it plans before it acts.
+Your team already works in Claude or ChatGPT. The data they need lives somewhere else: Google Ads, Meta, GA4, Shopify, HubSpot, and five more tools after that.
 
-But a lot of the questions people ask from Claude are not real work. They are lookups. "What did we spend on Meta yesterday?" "Which Google Ads campaigns are paused?" "Pull the last 50 Shopify orders." Routing a lookup through a full agent run is slow, and it costs a run.
+Getting that data into the AI is the hard part. Try it yourself and you'll find:
 
-So we opened up the data layer.
+- Google Ads needs a developer token, and getting basic access means an application and a review.
+- Meta needs a business-verified app and an app review for every permission you want.
+- LinkedIn's advertising API needs a separate approval to its Marketing Developer Platform.
+- Many of the other platforms have no connector at all.
+- The ones that do each need their own setup, login, and permissions. Each covers a different slice of the API, and their tokens expire.
 
-## What's new
+That's weeks of approvals and plumbing before your AI answers a single question. If you run an agency, multiply it by every client.
+
+So most people still export a CSV, paste it into the chat, and hope it's the right date range.
+
+Starting today, you connect Toffu once and that problem is gone.
+
+## Why this matters
+
+**One connection instead of forty.** Toffu already did the approvals, app reviews, and token plumbing for every platform below. You click Connect in Toffu, add Toffu to Claude or ChatGPT, and your AI can read all of them. No developer tokens, no app reviews, no API keys pasted into a chat.
+
+**Every account, not just yours.** Agencies get every client's accounts through the same single connection, scoped to the client you pick.
+
+**Cross-platform answers in one conversation.** Ask "Compare last week's Meta spend with Shopify revenue by day" and your AI pulls both and lines them up. That used to be two exports and a spreadsheet.
+
+**The full API, not a preset menu.** Most connectors expose a handful of reports someone decided you'd want. Toffu lets your AI read any endpoint the platform offers, so the odd question gets answered too: a specific asset group, a rejected ad's policy reason, a custom GA4 dimension.
+
+**Seconds, not minutes.** A lookup goes straight to the platform. It doesn't start a full Toffu agent run, so simple questions come back fast.
+
+**Nothing can break.** Everything new is read-only. Your AI can look at every campaign; it cannot change one.
+
+## What's new, exactly
 
 Toffu's MCP server now exposes the same read tools the Toffu agent uses internally:
 
-- **List entities.** Campaigns, ad sets, ads, keywords, audiences, pages, posts, products, orders, contacts, deals, properties, and more, on every connected platform. One tool, one `platform` argument.
-- **Read any API endpoint.** When the entity tools don't cover what you need, your MCP client can call the platform's own API directly, read-only, signed with the connection you already set up in Toffu.
-
-Your client gets raw data in seconds, and you keep the Toffu agent for the work that needs judgment.
+- **List entities.** Campaigns, ad sets, ads, keywords, audiences, pages, posts, products, orders, contacts, deals, and more, on every connected platform.
+- **Read any API endpoint.** When a list isn't enough, your AI calls the platform's own API directly, read-only, signed with the connection you already set up in Toffu.
 
 ## Which platforms
 
@@ -39,30 +61,26 @@ Every platform you connect in Toffu, including:
 
 **CRM, content, and work:** HubSpot, GoHighLevel, WordPress, Webflow, Monday, Asana, Typeform, GitHub
 
-If you connected it in Toffu, your MCP client can read it.
-
 ## Why reads only
 
-Reading is safe to hand to any client. Writing is not.
+A write tool that any AI client can call with your ad account access is one prompt injection away from a paused campaign or a budget you didn't approve. A web page, a sheet cell, or a forwarded email can carry instructions, and the model reading it may follow them.
 
-A write tool that any MCP client can call with your ad account tokens is one prompt injection away from a paused campaign or a budget you didn't approve. A web page, a sheet cell, or a forwarded email can carry instructions, and the model reading it may follow them.
+So changes still go through Toffu's change flow: your AI proposes a change, you approve it, and you can undo it. Every change is logged. That flow is what makes it safe to connect an ad account to an AI in the first place.
 
-So changes still go through Toffu's change flow: the client proposes a change, you approve it, and you can undo it. Every change is logged. That flow is what makes it safe to connect an ad account to an AI in the first place, and we are not giving it up for convenience.
+## How to start
 
-## How to use it
+Already connected Toffu to Claude or ChatGPT? Nothing to do. The new tools appear the next time your client loads Toffu's tools.
 
-If you already connected Toffu to Claude or ChatGPT, there is nothing to do. The new tools appear the next time your client loads Toffu's tools.
-
-If you haven't:
+New to it:
 
 1. In Claude or ChatGPT, add a custom connector with the URL `https://mcp.toffu.ai/mcp`.
 2. Sign in to Toffu when asked.
-3. Ask a question that needs data, for example: "Use Toffu to list my active Meta campaigns and their daily budgets."
+3. Ask something that needs data: "Use Toffu to list my active Meta campaigns and their daily budgets."
 
-## When to use which
+## Read tools or the Toffu agent?
 
 **Use the read tools** when you know what data you want: a list, a number, a raw report.
 
-**Ask the Toffu agent** when you want an answer: why CPA went up, what to cut, what to launch next, or a report built across five platforms. The agent uses the same data, plus your brand, your history, and your skills.
+**Ask the Toffu agent** when you want a decision: why CPA went up, what to cut, what to launch next. The agent reads the same data and adds your brand, your account history, and your playbooks.
 
-Most days you will use both in the same conversation. That is the point.
+Most days you'll use both in the same conversation.
