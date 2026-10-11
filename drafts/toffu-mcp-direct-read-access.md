@@ -20,7 +20,7 @@ Getting that data into the AI is the hard part. Try it yourself and you'll find:
 - Many of the other platforms have no connector at all.
 - The ones that do each need their own setup, login, and permissions. Each covers a different slice of the API, and their tokens expire.
 
-That's weeks of approvals and plumbing before your AI answers a single question. If you run an agency, multiply it by every client.
+That's a day of setup per platform, and weeks for the ones that need approval, before your AI answers a single question. If you run an agency, multiply it by every client.
 
 So most people still export a CSV, paste it into the chat, and hope it's the right date range.
 
