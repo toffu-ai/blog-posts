@@ -14,8 +14,8 @@ Your team already works in Claude or ChatGPT. The data they need lives somewhere
 
 Getting that data into the AI is the hard part. Try it yourself and you'll find:
 
-- Google Ads needs a developer token, and getting basic access means an application and a review.
-- Meta needs a business-verified app and an app review for every permission you want.
+- Google's own Google Ads MCP server is self-hosted. You need a Google Cloud project, OAuth credentials, a developer token from a manager account, and somewhere to run it.
+- Meta needs your own developer app. Reading accounts beyond your own means business verification and app review.
 - LinkedIn's advertising API needs a separate approval to its Marketing Developer Platform.
 - Many of the other platforms have no connector at all.
 - The ones that do each need their own setup, login, and permissions. Each covers a different slice of the API, and their tokens expire.
