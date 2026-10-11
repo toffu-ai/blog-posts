@@ -1,16 +1,18 @@
 ---
-title: "One Connector for All Your Marketing Data in Claude and ChatGPT"
-description: "Connect Toffu once and Claude, ChatGPT, or any MCP client can read every ad account, analytics property, store, and CRM you use. In seconds, read-only, no extra setup."
+title: "How to Connect Google Ads, Meta Ads, and GA4 to Claude and ChatGPT"
+description: "Connect Google Ads, Meta Ads, GA4, Shopify, and 40+ marketing platforms to Claude or ChatGPT with one MCP connector. No developer tokens, no self-hosting."
 date: "TBD"
 image: ""
 slug: "toffu-mcp-direct-read-access"
 ---
 
-*Connect Toffu once and Claude, ChatGPT, or any MCP client can read every ad account, analytics property, store, and CRM you use. In seconds, read-only, no extra setup.*
+*Connect Google Ads, Meta Ads, GA4, Shopify, and 40+ marketing platforms to Claude or ChatGPT with one MCP connector. No developer tokens, no self-hosting.*
 
 ---
 
 Your team already works in Claude or ChatGPT. The data they need lives somewhere else: Google Ads, Meta, GA4, Shopify, HubSpot, and five more tools after that.
+
+## Why connecting ad platforms to Claude directly is hard
 
 Getting that data into the AI is the hard part. Try it yourself and you'll find:
 
@@ -24,9 +26,9 @@ That's a day of setup per platform, and weeks for the ones that need approval, b
 
 So most people still export a CSV, paste it into the chat, and hope it's the right date range.
 
-Starting today, you connect Toffu once and that problem is gone.
+You can't skip the plumbing without a connector in the middle. Toffu is that connector: connect each platform in Toffu with one click, add Toffu to Claude or ChatGPT, and your AI reads all of them.
 
-## Why this matters
+## Why Toffu as your Claude and ChatGPT marketing connector
 
 **One connection instead of forty.** Toffu already did the approvals, app reviews, and token plumbing for every platform below. You click Connect in Toffu, add Toffu to Claude or ChatGPT, and your AI can read all of them. No developer tokens, no app reviews, no API keys pasted into a chat.
 
@@ -38,11 +40,13 @@ Starting today, you connect Toffu once and that problem is gone.
 
 **Seconds, not minutes.** A lookup goes straight to the platform. It doesn't start a full Toffu agent run, so simple questions come back fast.
 
-**Nothing can break.** Everything new is read-only. Your AI can look at every campaign; it cannot change one.
+**More than a data pipe.** Most connectors stop at reading data. Toffu also gives your AI a marketing agent that knows your brand, your account history, and your playbooks, and it makes changes only after you approve them, with undo.
 
-## What's new, exactly
+**Nothing can break.** The data tools are read-only. Your AI can look at every campaign; it cannot change one.
 
-Toffu's MCP server now exposes the same read tools the Toffu agent uses internally:
+## What your AI gets
+
+Toffu's MCP server exposes the same read tools the Toffu agent uses internally:
 
 - **List entities.** Campaigns, ad sets, ads, keywords, audiences, pages, posts, products, orders, contacts, deals, and more, on every connected platform.
 - **Read any API endpoint.** When a list isn't enough, your AI calls the platform's own API directly, read-only, signed with the connection you already set up in Toffu.
@@ -67,15 +71,12 @@ A write tool that any AI client can call with your ad account access is one prom
 
 So changes still go through Toffu's change flow: your AI proposes a change, you approve it, and you can undo it. Every change is logged. That flow is what makes it safe to connect an ad account to an AI in the first place.
 
-## How to start
+## How to connect Google Ads, Meta Ads, and GA4 to Claude or ChatGPT
 
-Already connected Toffu to Claude or ChatGPT? Nothing to do. The new tools appear the next time your client loads Toffu's tools.
-
-New to it:
-
-1. In Claude or ChatGPT, add a custom connector with the URL `https://mcp.toffu.ai/mcp`.
-2. Sign in to Toffu when asked.
-3. Ask something that needs data: "Use Toffu to list my active Meta campaigns and their daily budgets."
+1. Sign up at [toffu.ai](https://toffu.ai) and connect your platforms with one click each.
+2. In Claude or ChatGPT, add a custom connector with the URL `https://mcp.toffu.ai/mcp`.
+3. Sign in to Toffu when asked.
+4. Ask something that needs data: "Use Toffu to list my active Meta campaigns and their daily budgets."
 
 ## Read tools or the Toffu agent?
 
