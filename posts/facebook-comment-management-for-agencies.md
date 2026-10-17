@@ -2,7 +2,7 @@
 title: "Facebook Comment Management for Agencies: Read, Reply and Moderate Every Client Page from One Chat"
 description: "Toffu now reads and answers comments on your clients' Facebook Pages. How agencies use it for replies, moderation, lead capture and reporting."
 date: "2026-10-17"
-image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/facebook-comment-management-for-agencies-hero.png"
+image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ai-tools-facebook-page-management-hero.png"
 slug: "facebook-comment-management-for-agencies"
 author: "Toffu Team"
 ---
