@@ -20,7 +20,7 @@ Today we release the Toffu Chrome extension. It lets Toffu control your own Chro
 Install it and ask:
 "Use my own Chrome. Open the client portal and compare October's leads with what Google Ads reports."
 
-→ Toffu works in one tab only: the purple Toffu tab group. Your other tabs stay out of reach.
+→ Toffu works in one tab only: the green Toffu tab group. Your other tabs stay out of reach.
 → You see every click. Toffu's cursor moves to each button before it clicks.
 → Cancel on Chrome's bar stops it at once.
 → It never types a password. Logins and 2FA codes come back to you in the chat.
@@ -42,7 +42,7 @@ Part of the Browser add-on. How it works: https://toffu.ai/blog/toffu-in-your-ow
 מתקינים ומבקשים:
 "תשתמש בכרום שלי. תפתח את הפורטל של הלקוח ותשווה את הלידים של אוקטובר למה שגוגל אדס מדווח."
 
-← Toffu עובד בלשונית אחת בלבד, בקבוצת הלשוניות הסגולה Toffu. שאר הלשוניות מחוץ להישג יד.
+← Toffu עובד בלשונית אחת בלבד, בקבוצת הלשוניות הירוקה Toffu. שאר הלשוניות מחוץ להישג יד.
 ← רואים כל קליק: הסמן של Toffu זז לכל כפתור לפני שהוא לוחץ.
 ← Cancel בפס של כרום עוצר אותו מיד.
 ← הוא אף פעם לא מקליד סיסמה. התחברות וקודי אימות חוזרים אליכם בצ'אט.

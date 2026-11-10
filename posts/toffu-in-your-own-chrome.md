@@ -29,13 +29,13 @@ Toffu opens the portal in your Chrome, already logged in with your session, read
 
 ## One tab, and you see every click
 
-Giving an AI agent your browser should not mean giving it your whole browser. So the extension works in one tab only: the tab of a purple **Toffu** tab group. If there is no such tab, the extension opens one. Your email, your other clients and every other tab stay out of reach. To hand Toffu a page you already have open, drag that tab into the group.
+Giving an AI agent your browser should not mean giving it your whole browser. So the extension works in one tab only: the tab of a green **Toffu** tab group. If there is no such tab, the extension opens one. Your email, your other clients and every other tab stay out of reach. To hand Toffu a page you already have open, drag that tab into the group.
 
 ![Toffu working in the Toffu tab of your own Chrome](https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-in-your-own-chrome-tab.png)
 
 While Toffu works, you see it:
 
-- A purple cursor moves to each button and field before Toffu clicks or types.
+- A green cursor moves to each button and field before Toffu clicks or types.
 - Chrome shows a bar that says Toffu is working in the browser. **Cancel** on that bar stops Toffu at once.
 
 Toffu never types a password. When it reaches a login, a code or a captcha, it asks you in the chat, you do that step in the Toffu tab, and Toffu continues from there.
