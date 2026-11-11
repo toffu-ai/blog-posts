@@ -32,7 +32,7 @@ Meta Ads works this way: sign in once in Toffu's browser, and later runs use tha
 
 Many of the tools behind this work sit behind a Google login: Looker Studio, Google Ads, Search Console. Until now, someone had to sign in for Toffu.
 
-Now each workspace gets its own address, like **acme@agent.toffu.ai**. You find it in the browser panel, with a copy button.
+Now each workspace gets its own address, like **acme@agent.toffu.ai**. You find it in the browser panel, with a copy button. If you run a workspace per client, each client's workspace has its own address. You invite the address of the workspace that does the work.
 
 **Invite it like a teammate.** Share the client's Looker report with it. Add it as a user in the Google Ads account. Use the normal Share or Invite button you'd use for a colleague, at the access level you choose.
 
@@ -43,6 +43,18 @@ Now each workspace gets its own address, like **acme@agent.toffu.ai**. You find 
 If Toffu opens something it can't see yet, it tells you which address to share it with. You share it once, and from then on it opens.
 
 The address is for invitations and sharing. It doesn't receive email.
+
+## Why it's secure
+
+**One address per workspace, never shared.** Each workspace's address belongs to that workspace only. A report you share with one client's address is not visible from another client's workspace. Clients stay as separate as they are in your agency today.
+
+**There is no password to leak.** The account has no password that anyone knows, us included. It signs in only through Toffu's own sign-in, and only from Toffu's browser. Each sign-in uses a one-time code that works once and expires within minutes.
+
+**It can never be you.** Toffu's sign-in works only for its own agent addresses. It cannot sign in as you, your team or anyone at your clients.
+
+**It sees only what you grant.** It starts with access to nothing. It gets exactly the reports and accounts you share with it, at the level you choose, Viewer included. You can see who has access, and remove it, in the tool itself, as for any teammate.
+
+**Your own logins stay yours.** A login you do yourself in Toffu's browser is saved for you alone. Teammates in the same workspace can't see or use it, and you can remove it in AI Settings → Browser logins.
 
 ## What the two do together
 
