@@ -32,7 +32,7 @@ Meta Ads works this way: sign in once in Toffu's browser, and later runs use tha
 
 Many of the tools behind this work sit behind a Google login: Looker Studio, Google Ads, Search Console. Until now, someone had to sign in for Toffu.
 
-Now each workspace gets its own address, like **acme@agent.toffu.ai**. You find it in the browser panel, with a copy button. If you run a workspace per client, each client's workspace has its own address. You invite the address of the workspace that does the work.
+Now each workspace gets its own address, like **acme@agent.toffu.ai**. Toffu tells you the address in the chat when it needs access to something. If you run a workspace per client, each client's workspace has its own address. You invite the address of the workspace that does the work.
 
 **Invite it like a teammate.** Share the client's Looker report with it. Add it as a user in the Google Ads account. Use the normal Share or Invite button you'd use for a colleague, at the access level you choose.
 
@@ -70,6 +70,6 @@ The same applies to a Google Ads task that only the UI supports, or a client's d
 
 ## How to start
 
-Ask Toffu to do something in a tool it has no integration for, and it will open the browser. For Google tools, copy the address from the browser panel and share the report or account with it first.
+Ask Toffu to do something in a tool it has no integration for, and it will open the browser. For a Google report, just ask: if Toffu can't see it yet, it tells you which address to share it with.
 
 [AVAILABILITY: which plans include the browser, and how to turn it on]
