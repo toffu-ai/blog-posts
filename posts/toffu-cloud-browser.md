@@ -1,10 +1,10 @@
 ---
-source: local
 title: "Toffu's Browser: Client Portals and Dashboards With No Integration"
 description: "Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, sends screenshots of ad previews for client approval, gets its own email address to share reports with, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money."
 date: "2026-11-12"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-cloud-browser-hero.png"
 slug: "toffu-cloud-browser"
+author: "Toffu"
 ---
 
 *Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, sends screenshots of ad previews for client approval, gets its own email address to share reports with, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money.*
