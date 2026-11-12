@@ -1,13 +1,13 @@
 ---
 source: local
 title: "Toffu's Browser: Client Portals and Dashboards With No Integration"
-description: "Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, gets its own email address to share reports with, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money."
+description: "Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, sends screenshots of ad previews for client approval, gets its own email address to share reports with, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money."
 date: "2026-11-12"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-cloud-browser-hero.png"
 slug: "toffu-cloud-browser"
 ---
 
-*Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, gets its own email address to share reports with, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money.*
+*Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, sends screenshots of ad previews for client approval, gets its own email address to share reports with, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money.*
 
 ---
 
@@ -26,6 +26,16 @@ The browser runs on Toffu's servers and shows in a panel next to the chat, so yo
 ![Toffu's browser in the panel next to the chat](https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-cloud-browser-panel.png)
 
 Toffu never types a password. When a site asks for a login, a code or a captcha, the chat asks you to do that step in the browser next to the chat. Your typing goes to the page, not to Toffu. Then Toffu continues from there.
+
+## Ad previews for client approval
+
+Before a campaign goes live, the client wants to see the ads the way their customers will. Ask Toffu:
+
+```
+Open the new Summer Sale ads in Ads Manager and send me a screenshot of each feed preview, so I can send them to the client for approval.
+```
+
+Toffu opens each ad's preview inside the ad platform and sends the screenshots back in the chat, ready to forward. It works in any ad platform you can log in to in Toffu's browser.
 
 ## Log in once, scheduled tasks too
 
