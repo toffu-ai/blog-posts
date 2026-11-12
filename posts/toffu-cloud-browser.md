@@ -1,13 +1,13 @@
 ---
 source: local
 title: "Toffu's Browser: Client Portals and Dashboards With No Integration"
-description: "Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money."
+description: "Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, gets its own email address to share reports with, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money."
 date: "2026-11-12"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-cloud-browser-hero.png"
 slug: "toffu-cloud-browser"
 ---
 
-*Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money.*
+*Toffu now has its own browser. It reads client portals, Looker Studio reports and partner dashboards that have no API, gets its own email address to share reports with, keeps the logins for scheduled tasks, and asks you before any change to delivery, budgets or money.*
 
 ---
 
@@ -35,9 +35,13 @@ Your logins are yours. Only you can see and use them, and a teammate who asks To
 
 A scheduled task never waits for a person. If a site asks for a login no one saved, the task reports it, and you log in once from the chat.
 
-## Looker Studio and Google pages
+## Toffu gets its own email address
 
-For Google pages, such as Looker Studio, Toffu signs in with the workspace's own Google account, not yours. If a report says it has no access, Toffu tells you that account's address. Share the report and its data source with it (Viewer is enough to read) and ask again.
+Every workspace gets its own Toffu address, like `your-workspace@agent.toffu.ai`. It is a real Google account, and it belongs to the workspace, not to you.
+
+So you share a Looker Studio report with Toffu the way you share it with a teammate: add the address as a Viewer on the report and its data source. Toffu opens Google pages signed in as that account, never as you. When a report has no access, Toffu gives you the address in the chat. Share it once, and every later task, scheduled ones too, can read the report.
+
+The address also gets email. When a site sends a sign-in code or a confirmation link to it, Toffu reads it and uses it itself. Codes sent to your own email or phone stay yours.
 
 ## It asks before it changes anything that costs money
 
