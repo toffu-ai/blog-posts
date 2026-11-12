@@ -1,7 +1,7 @@
 # Social posts: the Toffu Chrome extension
 
-Drafts only. Post them after the extension is live in the Chrome Web Store and
-`CHROME_WEB_STORE_URL` in the blog post is replaced with the store link.
+Drafts only. Post them after the blog post is live. The extension is live in the
+Chrome Web Store: https://chromewebstore.google.com/detail/toffu/cdaipbahmhgbkcafkhkoajfdicbgjfmp
 
 Images (toffu-chat `public/images/marketing/`):
 - `own-chrome-social-en.png` (1080x1080): LinkedIn EN, X

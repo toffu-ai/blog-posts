@@ -55,7 +55,7 @@ Without "use my own Chrome" in the request, Toffu uses the Cloud Browser.
 
 ## Get started
 
-1. Install the [Toffu Chrome extension](CHROME_WEB_STORE_URL).
+1. Install the [Toffu Chrome extension](https://chromewebstore.google.com/detail/toffu/cdaipbahmhgbkcafkhkoajfdicbgjfmp).
 2. Sign in to [toffu.ai](https://toffu.ai) in the same Chrome. The extension connects by itself.
 
 The extension is part of the **Browser** add-on. On an agency account, an admin of the agency turns it on once in [AI Settings → Browser logins](https://toffu.ai/ai-settings/browser-logins), and it then works in every client workspace.

@@ -57,7 +57,7 @@ Toffu אף פעם לא מקליד סיסמה. כשהוא מגיע להתחברו
 
 ## איך מתחילים
 
-1. מתקינים את [תוסף הכרום של Toffu](CHROME_WEB_STORE_URL).
+1. מתקינים את [תוסף הכרום של Toffu](https://chromewebstore.google.com/detail/toffu/cdaipbahmhgbkcafkhkoajfdicbgjfmp).
 2. מתחברים ל-[toffu.ai](https://toffu.ai) באותו כרום. התוסף מתחבר לבד.
 
 התוסף הוא חלק מתוסף **Browser**. בחשבון סוכנות, אדמין של הסוכנות מפעיל אותו פעם אחת ב-[AI Settings → Browser logins](https://toffu.ai/ai-settings/browser-logins), והוא עובד בכל סביבות הלקוחות.
