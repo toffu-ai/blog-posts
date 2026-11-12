@@ -2,7 +2,7 @@
 source: local
 title: "תוסף הכרום של Toffu: עכשיו Toffu עובד בכרום שלכם"
 description: "עם תוסף הכרום החדש, Toffu שולט בכרום שלכם: פורטלים ודשבורדים של לקוחות עם ההתחברויות שלכם, בלשונית Toffu אחת, ואתם רואים כל קליק."
-date: "2026-11-10"
+date: "2026-11-12"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-in-your-own-chrome-hero.png"
 slug: "toffu-in-your-own-chrome"
 lang: "he"

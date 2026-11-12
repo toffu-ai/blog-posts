@@ -2,7 +2,7 @@
 source: local
 title: "The Toffu Chrome Extension: Toffu Now Works in Your Own Chrome"
 description: "With the new Toffu Chrome extension, Toffu controls your own Chrome: client portals and dashboards with your logins, in one Toffu tab, while you watch every click."
-date: "2026-11-10"
+date: "2026-11-12"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/toffu-in-your-own-chrome-hero.png"
 slug: "toffu-in-your-own-chrome"
 ---
