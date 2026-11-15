@@ -1,6 +1,6 @@
 ---
-title: "Google Ads Transparency Center Research with AI"
-description: "Automate Google Ads Transparency Center competitive research with AI. Uncover competitor strategies and gain valuable insights for your campaigns."
+title: "Google Ads Transparency Center: How to Research Competitor Ads with AI"
+description: "How to use the Google Ads Transparency Center to see competitor ads, what it cannot show you, and how to automate the research with AI."
 date: "2025-12-11"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-transparency-research-hero.avif"
 slug: "google-ads-transparency-research"
