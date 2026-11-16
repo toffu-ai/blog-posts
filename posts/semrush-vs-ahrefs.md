@@ -1,209 +1,105 @@
 ---
-title: "SEMrush vs Ahrefs: Which SEO Tool Is Worth It"
+title: "Ahrefs vs Semrush (2026): Pricing, Data and API Access Compared"
+seoTitle: "Ahrefs vs Semrush (2026): Pricing, API and Which to Pick"
 author: "Toffu Team"
-description: "A full comparison of SEMrush and Ahrefs: keyword research, backlink data, pricing and features, and which one fits the way you actually work."
+description: "Ahrefs vs Semrush with prices checked on 16 Nov 2026: plans, seats, API and MCP access for AI agents, and which one an agency should pay for."
 date: 2025-01-07
 image: https://cdn-uw2.toffu.ai/68594b73894454f695c17c39/images/semrush-vs-ahrefs-hero.png
 ---
 
-# SEMrush vs Ahrefs
+# Ahrefs vs Semrush
 
-Choosing between SEMrush and Ahrefs is one of the biggest decisions for SEO professionals and digital marketers. Both tools dominate the SEO landscape, but they serve different strengths and use cases.
+*Updated 16 November 2026. Every price and plan limit below was checked on the vendors' own pricing and help pages on that date.*
 
-After analyzing both platforms extensively, here's your complete comparison to help you choose the right tool for your marketing needs.
+Short answer: **pick Ahrefs if links and organic research are the job. Pick Semrush if you also sell PPC, local or content work and want one vendor for all of it.** At the entry tier they cost about the same. The differences that cost agencies money show up later: extra seats, data history, and whether the tool will feed data to the AI agents and reports you already run.
 
-## Quick Overview
+Most comparisons stop at feature lists. This one focuses on the three things we had to work out when we connected both tools to [Toffu](https://toffu.ai/tools/ahrefs): what you actually pay per seat, what history you get, and what it takes to get the data out through an API or MCP server.
 
-**SEMrush** excels at comprehensive digital marketing beyond SEO - PPC research, social media monitoring, and competitive intelligence across multiple channels.
+## Pricing, checked 16 November 2026
 
-**Ahrefs** dominates pure SEO functionality with the most accurate backlink database and superior site auditing capabilities.
+| | Ahrefs | Semrush |
+|---|---|---|
+| Free option | Ahrefs Free (data on sites you own and verify) | Free plan: 1 demo project, 10 reports per day |
+| Cheapest paid plan | Starter, $29/mo | SEO, $139/mo ($117.33/mo billed yearly) |
+| Main tiers | Lite $129, Standard $249, Advanced $449 | Starter $199, Pro+ $299 |
+| Top tier | Enterprise, custom | Advanced, custom |
+| Extra users | $40 (Lite), $60 (Standard), $80 (Advanced) per user/mo | From $45 per user/mo |
+| Tracked keywords | 750 / 2,000 / 5,000 | 500 / 500 / 1,500 / 5,000+ |
+| Historical data | 6 months (Lite), 2 years (Standard), 5 years (Advanced) | "Historical SEO data" listed from Pro+ |
+| Yearly discount | Up to 17% | About 16% on the SEO plan |
 
-*Ready to streamline your SEO workflow? [See how Toffu integrates with marketing tools](https://toffu.ai/integrations) to automate your marketing tasks.*
+Sources: [ahrefs.com/pricing](https://ahrefs.com/pricing) and [semrush.com/prices](https://www.semrush.com/prices/).
 
-## Keyword Research Comparison
+Three things the table hides:
 
-### SEMrush Keyword Research
-- **Database size**: 25+ billion keywords across 142 countries
-- **Keyword Magic Tool**: Groups related keywords with intent analysis
-- **Keyword Gap**: Identifies competitor keyword opportunities
-- **Search volume accuracy**: Good for most markets, excellent for Google Ads integration
+- **Semrush renamed its plans.** If a guide quotes Pro, Guru and Business, it is out of date. The current tiers are SEO, Starter, Pro+ and Advanced, and AI visibility tracking is part of every paid tier.
+- **Ahrefs Lite caps history at 6 months.** For year-over-year client reports you need Standard ($249). This is the most common reason agencies outgrow Lite.
+- **Seats add up fast.** A 4-person team on Ahrefs Standard pays $249 + 3 × $60 = $429/mo. Do the seat math before you compare headline prices.
 
-### Ahrefs Keyword Research
-- **Database size**: 19+ billion keywords across 243 countries
-- **Keywords Explorer**: Clean interface with comprehensive metrics
-- **Keyword difficulty**: More conservative and accurate scoring
-- **SERP analysis**: Superior competitor content analysis
+## Data: stop comparing index sizes
 
-**Winner**: *SEMrush for volume and PPC integration, Ahrefs for accuracy and SERP insights*
+Both vendors publish big numbers about their keyword and backlink databases. They measure them in different ways, and the numbers change every quarter. Picking a tool on database size is like picking a bank on the size of its logo.
 
-## Backlink Analysis
+What actually matters is whether each tool sees *your* market:
 
-### SEMrush Backlinks
-- **Index size**: 45+ billion URLs
-- **Backlink Gap tool**: Compare up to 5 competitors simultaneously  
-- **Link building tools**: Outreach templates and prospect management
-- **Historical data**: 2+ years of backlink history
+1. Take 3 clients' domains and 1 competitor each.
+2. Compare each tool's referring-domain counts and top keywords with what you know from Google Search Console.
+3. Keep the tool that is closest on the sites you know.
 
-### Ahrefs Backlinks
-- **Index size**: 35+ billion pages, most frequently updated
-- **Link intersect**: Find sites linking to competitors but not you
-- **Broken link checker**: Most comprehensive in the industry
-- **Historical data**: 15+ years of backlink history
+Our experience: Ahrefs is the stronger tool for link work (Link Intersect, new and lost links, broken backlinks). Semrush is the broader suite: on top of SEO it sells separate toolkits for advertising, local, content and social. Both run competent site audits.
 
-**Winner**: *Ahrefs for database freshness and depth, SEMrush for competitor analysis features*
+## API and MCP access: the difference most comparisons miss
 
-*Want to automate your SEO analysis? [Try Toffu's keyword research capabilities](https://toffu.ai/use-cases/keyword-research) free for 7 days.*
+In 2026 a lot of SEO work runs through AI agents and automated reports, not through the tool's own UI. Here the rules are very different:
 
-## Site Auditing Capabilities
+| | Ahrefs | Semrush |
+|---|---|---|
+| Plans with API access | Lite and higher | One Starter, One Pro+, Classic Pro, Classic Guru (50,000 units included); Business and Advanced need a units package |
+| Units included | Lite 200,000, Standard 800,000, Advanced 2,000,000 per month | 50,000, refreshed at renewal |
+| MCP server | Yes, uses the same API units | Yes (`mcp.semrush.com/v2/mcp`), uses the same API units |
+| Rows per request | 100 (Lite) to 500 (Advanced) | Depends on the report |
 
-### SEMrush Site Audit
-- **Crawl limit**: Up to 20M pages (highest plans)
-- **Issue categories**: 130+ SEO checks
-- **Reporting**: White-label reports with branding options
-- **Integration**: Direct Google Analytics and Search Console sync
+Sources: [Ahrefs API v3 help article](https://help.ahrefs.com/en/articles/6559232-about-api-v3) and [Semrush MCP docs](https://developer.semrush.com/api/introduction/semrush-mcp).
 
-### Ahrefs Site Audit  
-- **Crawl limit**: Up to 10M pages (highest plans)
-- **Issue categories**: 170+ SEO checks including advanced technical issues
-- **Page speed insights**: Core Web Vitals integration
-- **Visualization**: Better data presentation and filtering options
+We hit this ourselves. When we asked Toffu to pull Domain Rating for two domains from the Ahrefs key on our own workspace on 16 November 2026, the API answered:
 
-**Winner**: *Ahrefs for technical depth, SEMrush for scale and reporting*
+```
+GET /v3/site-explorer/domain-rating?target=toffu.ai
+403 {"error": "Insufficient plan"}
+```
 
-## Pricing Breakdown
+The fix is plan-level, not a bug in your script. If you plan to put either tool behind an AI agent, a Looker Studio connector or a reporting pipeline, check the API row of your plan before you buy. Ahrefs older help pages still say API v3 is Enterprise-only. That changed: the current article says Lite and up.
 
-### SEMrush Pricing (2024)
-- **Pro**: $129.95/month - 5 projects, 500 keywords
-- **Guru**: $249.95/month - 15 projects, 1,500 keywords  
-- **Business**: $499.95/month - 40 projects, 5,000 keywords
+## Which one an agency should buy
 
-### Ahrefs Pricing (2024)
-- **Lite**: $129/month - 5 projects, 750 keywords
-- **Standard**: $249/month - 20 projects, 2,000 keywords
-- **Advanced**: $449/month - 50 projects, 5,000 keywords
-- **Enterprise**: $14,990/month - 100 projects, 10,000 keywords
+**Choose Ahrefs if:**
+- Link building and content gap work are most of your SEO retainers.
+- You want more API units per dollar for automated reporting (200,000 on Lite vs 50,000).
+- Your team is small, so the per-seat cost stays low.
 
-**Winner**: *Similar entry pricing, Ahrefs offers better value at mid-tier*
+**Choose Semrush if:**
+- You sell PPC, local SEO and content in the same retainer and want one vendor for all of it (each extra toolkit is priced on its own).
+- Your clients ask how they show up in AI search, and you want that tracking on every plan.
+- Account managers who are not SEO specialists need to pull their own reports.
 
-## Content Marketing Features
+**Use both only if** a client pays for it. Running two suites to settle arguments about whose number is right costs $400+/mo and rarely changes a decision.
 
-### SEMrush Content Tools
-- **Topic Research**: AI-powered content ideas
-- **SEO Writing Assistant**: Real-time optimization suggestions
-- **Content Audit**: Performance tracking across all content
-- **Social Media Toolkit**: Complete social management platform
+## How we use them in Toffu
 
-### Ahrefs Content Tools  
-- **Content Explorer**: Search 7+ billion pages for content ideas
-- **Content Gap**: Find topics competitors rank for
-- **SERP Overview**: Analyze top-ranking content structure
-- **Limited social features**: Basic social monitoring only
+Toffu connects to Ahrefs directly (domain metrics, keyword rankings and site audits) and to Semrush, or any other tool, through its MCP server: AI Settings → MCP Servers → add the server URL and your API key. Then you ask in plain words, for example "pull every keyword where the client ranks 11 to 30 with 500+ searches and draft the content brief". Toffu calls the tool, works with the rows it gets back, and tells you when the plan blocks a request instead of guessing a number.
 
-**Winner**: *SEMrush for comprehensive content marketing, Ahrefs for content research*
+[See what Toffu does with Ahrefs](https://toffu.ai/tools/ahrefs) · [Competitor analysis with Toffu](https://toffu.ai/use-cases/competitor-analysis)
 
-*Streamline your competitor analysis with [Toffu's automated competitor research](https://toffu.ai/use-cases/competitor-analysis).*
+## FAQ
 
-## User Experience & Interface
+**Is Ahrefs cheaper than Semrush?**
+At entry level, yes: Ahrefs Lite is $129/mo and Semrush SEO is $139/mo. Ahrefs also has a $29 Starter plan. At 3+ seats the gap depends on the tier, so do the seat math.
 
-### SEMrush Interface
-- **Learning curve**: Steeper due to extensive feature set
-- **Navigation**: Can feel overwhelming for new users
-- **Customization**: Highly customizable dashboards and reports
-- **Mobile app**: Full-featured iOS and Android apps
+**Does Semrush still have Pro, Guru and Business plans?**
+Not on the current pricing page. The tiers are SEO, Starter, Pro+ and Advanced. The API docs still refer to "Classic" Pro, Guru and Business plans for existing customers.
 
-### Ahrefs Interface
-- **Learning curve**: More intuitive for SEO-focused tasks
-- **Navigation**: Clean, logical menu structure  
-- **Speed**: Faster loading times and data processing
-- **Mobile app**: Basic mobile app with limited functionality
+**Which tool has better backlink data?**
+For link work most practitioners prefer Ahrefs. Test both on domains whose links you know before you commit.
 
-**Winner**: *Ahrefs for simplicity and speed, SEMrush for customization*
-
-## Integration Capabilities
-
-### SEMrush Integrations
-- **Google services**: Analytics, Search Console, Ads, My Business
-- **Social platforms**: Facebook, Twitter, YouTube analytics
-- **CRM tools**: Salesforce, HubSpot integration
-- **API access**: Comprehensive API for custom integrations
-
-### Ahrefs Integrations
-- **Google services**: Limited to Search Console and Analytics
-- **Social platforms**: Basic social monitoring
-- **Third-party tools**: Zapier integration available
-- **API access**: Robust API but fewer native integrations
-
-**Winner**: *SEMrush for breadth of integrations*
-
-*Connect both tools to your marketing stack with [Toffu's integration platform](https://toffu.ai/integrations) - no coding required.*
-
-## When to Choose SEMrush
-
-Choose SEMrush if you need:
-- **Comprehensive digital marketing** beyond just SEO
-- **PPC research and management** capabilities
-- **Social media monitoring** and management
-- **White-label reporting** for clients
-- **Larger team collaboration** features
-
-**Best for**: Digital marketing agencies, in-house marketing teams, PPC managers
-
-## When to Choose Ahrefs
-
-Choose Ahrefs if you need:
-- **Pure SEO focus** with best-in-class tools
-- **Most accurate backlink data** and analysis
-- **Superior technical SEO** auditing
-- **Content research and gap analysis**
-- **Faster, cleaner interface** for daily use
-
-**Best for**: SEO specialists, content marketers, solo practitioners, technical SEO
-
-## The Hybrid Approach
-
-Many successful SEO teams use both tools strategically:
-- **Ahrefs** for daily SEO tasks, backlink analysis, and site auditing
-- **SEMrush** for PPC research, competitor intelligence, and client reporting
-
-This approach maximizes strengths while minimizing weaknesses, though it doubles your tool costs.
-
-*Reduce tool complexity with [Toffu's traffic analysis features](https://toffu.ai/use-cases/traffic-analysis) - manage all your marketing data in one place.*
-
-## Alternative: Toffu + Your Preferred Tool
-
-Instead of managing multiple expensive tools, consider pairing your chosen SEO tool with Toffu for:
-
-- **Automated reporting** from both SEMrush and Ahrefs data
-- **Cross-platform campaign management** 
-- **AI-powered optimization suggestions**
-- **Unified team collaboration** across all marketing tools
-
-This approach saves 40-60% on tool costs while improving workflow efficiency.
-
-## Final Recommendation
-
-**For most users**: Start with **Ahrefs** if you're primarily focused on SEO and want the best data quality. Choose **SEMrush** if you need broader digital marketing capabilities.
-
-**For agencies**: **SEMrush** wins for client reporting and comprehensive service offerings.
-
-**For enterprise**: Consider both tools or evaluate Toffu Enterprise for unified marketing management.
-
-## Next Steps
-
-1. **Free trials**: Both offer 7-day trials - test your specific use cases
-2. **Team needs assessment**: Identify your primary goals (SEO-only vs full marketing)
-3. **Budget planning**: Factor in training time and team adoption
-
-*Ready to optimize your marketing workflow? [Start your free Toffu trial](https://toffu.ai/account/sign-up) and see how we integrate with both SEMrush and Ahrefs.*
-
-## Related Tools
-
-Explore how Toffu works with your existing marketing stack:
-
-- [Google Analytics Integration](https://toffu.ai/tools/google_analytics)
-- [LinkedIn Marketing Tools](https://toffu.ai/tools/linkedin)  
-- [Google Ads Management](https://toffu.ai/tools/google_ads)
-
----
-
-*Toffu helps marketing teams manage SEO tools, automate reporting, and optimize campaigns across platforms. [Try it free for 14 days](https://toffu.ai/account/sign-up) - no credit card required.*
+**Can I use Ahrefs or Semrush with ChatGPT, Claude or other AI agents?**
+Yes. Both have MCP servers. Ahrefs needs Lite or higher. Semrush needs a plan with API units. Every MCP call uses the same units as a normal API call.
