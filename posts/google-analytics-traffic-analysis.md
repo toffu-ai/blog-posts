@@ -1,7 +1,7 @@
 ---
 title: "Google Analytics Traffic Analysis: How to Check and Read Your Website Traffic in GA4"
 seoTitle: "Google Analytics Traffic Analysis: Check Website Traffic"
-description: "How to check website traffic in Google Analytics 4, which reports to open, and how to spot fake traffic. With a real analysis of our own site."
+description: "How to check website traffic in Google Analytics 4, which reports to open, and how to spot fake traffic. With a worked analysis of Google's public GA4 store data."
 date: "2025-10-03"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-analytics-traffic-analysis-hero.png"
 slug: "google-analytics-traffic-analysis"
@@ -12,7 +12,7 @@ author: "Toffu Team"
 
 To check your website traffic in Google Analytics 4, open **Reports → Acquisition → Traffic acquisition**. It shows sessions by channel (Organic Search, Direct, Paid, Social and more), with engagement and key events next to each one. Set the date range at the top right and turn on **Compare** to see the change against the previous period.
 
-That gives you the numbers. The harder part is knowing which numbers are real. When we ran this analysis on our own site, **more than half of our sessions turned out to be noise**. The full breakdown is below, and the method works on any site.
+That gives you the numbers. The harder part is knowing which numbers are real. We ran the full analysis on Google's own public GA4 data: **sessions grew 22% in a month, but real traffic grew less than 5%**. The breakdown is below, and the method works on any site.
 
 ## The 3 reports that answer most traffic questions
 
@@ -35,43 +35,45 @@ If you only want a quick daily check, **Reports → Realtime** shows the last 30
 
 Read them per channel and per landing page, never as one sitewide average. A sitewide average hides the problem you are looking for.
 
-## A real example: our own site, last 28 days
+## A worked example: the Google Merchandise Store
 
-We asked [Toffu](https://toffu.ai/tools/google_analytics) to run exactly this analysis on toffu.ai on 16 November 2026: 19 Oct to 15 Nov 2026, compared with the 28 days before. We show shares and percentage changes, not raw counts.
+Google publishes real GA4 data from its own online store as a [public BigQuery dataset](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset). Anyone can query it, so you can check every number below. We compared 1 to 28 December 2020 with 3 to 30 November 2020, the same 28-day length.
 
-**By channel**
+Google obfuscates part of the dataset, so some sources show as "<Other>" or "(data deleted)". We keep those as their own row instead of guessing.
 
-| Channel | Share of sessions | Previous period | Sessions change | Engagement rate | Avg engagement time |
-|---|---|---|---|---|---|
-| Direct | 61.5% | 44.9% | +85% | 53.4% | 167s |
-| Organic Social | 11.6% | 10.2% | +53% | 59.7% | 341s |
-| Organic Search | 10.0% | 9.3% | +46% | 59.3% | 151s |
-| Unassigned | 7.9% | 23.1% | −54% | 7.8% | 189s |
-| Referral | 5.0% | 5.1% | +30% | 71.0% | 218s |
-| AI Assistant | 2.1% | 1.5% | +88% | 65.4% | 69s |
+**Topline:** 124,084 sessions against 102,060, **+22%**. Purchases +18%. A good month, at first sight.
 
-Smaller channels (paid, shopping, video, email) are left out.
+**By channel (December)**
 
-**By landing page (top 5)**
+| Channel | Sessions | Change vs Nov | Avg engagement time | Purchases per 100 sessions |
+|---|---|---|---|---|
+| Organic Search | 34,504 | +25% | 93s | 2.34 |
+| No source recorded | 31,000 | +44% | 8s | 0.00 |
+| Referral from the store's own domain | 19,639 | +5% | 124s | 3.38 |
+| Direct | 14,474 | +16% | 76s | 1.17 |
+| Obfuscated by Google | 12,086 | +16% | 78s | 1.37 |
+| Referral (other sites) | 9,120 | +8% | 146s | 5.53 |
+| Paid Search | 2,991 | +19% | 64s | 0.87 |
 
-| Landing page | Share of sessions | Engagement rate | Key events per session |
+**By landing page (December, top 5)**
+
+| Landing page | Sessions | Avg engagement time | Purchases per 100 sessions |
 |---|---|---|---|
-| (not set) | 51.5% | 25.8% | 0.001 |
-| / (home) | 12.4% | 77.6% | 0.080 |
-| /account/login | 0.7% | 57.7% | 0.036 |
-| /clients | 0.6% | 83.2% | 0.264 |
-| /tools/facebook | 0.5% | 71.7% | 0.292 |
+| / (home) | 47,814 | 116s | 2.58 |
+| /Google+Redesign/Apparel | 15,587 | 28s | 0.41 |
+| /Google+Redesign/Apparel/Google+Dino+Game+Tee | 9,827 | 6s | 0.01 |
+| (not set) | 8,951 | 8s | 0.00 |
+| /Google+Redesign/Shop+by+Brand/YouTube | 8,514 | 47s | 0.38 |
 
-At first sight, total sessions were up about 35%. Then the landing-page table shows the real story.
+The two tables show three problems that the topline hides.
 
-**51.5% of sessions have no landing page.** Those sessions engage 26% of the time and almost never convert (0.001 key events per session). Real pages convert 80 to 290 times better. The same group doubled against the previous period. At the same time Direct jumped from 45% to 62% of all sessions.
+**1. One product page went from 30 to 550 sessions a day overnight.** The Dino Game Tee page got about 30 landing sessions a day in November. From 4 December it got 400 to 600 a day on weekdays. The new sessions came from every channel at once, lasted 6 seconds, and produced 1 purchase in 9,827 sessions. A real promotion brings people who look at the product. This is a pattern to investigate (a link placed somewhere unusual, a crawler, or a tag firing on a preview) before anyone reports it as growth.
 
-When Direct and "(not set)" grow together and engagement is low, it is almost always one of two things:
+**2. A quarter of all sessions have no source.** 31,000 sessions carry no source or medium at all. They average 8 seconds and produced zero purchases. This group grew 44%, twice as fast as the site.
 
-- **Bots or automated traffic** that runs your tag without loading a page normally.
-- **Broken tagging:** hits that arrive without a `page_view` event, so GA4 can't assign a landing page.
+**3. The store refers traffic to itself.** 16% of sessions are credited to a referral from the store's own domain, and those sessions made 28% of all purchases. That is a classic cross-domain or self-referral setup error: the visitor came from somewhere real, and GA4 lost it when they crossed between hostnames. Every one of those buyers is credited to the wrong channel.
 
-Our 35% growth was mostly noise. The real pages (home, pricing, tool pages) were flat or down. Without the landing-page check we would have reported a great month.
+Remove the Dino Tee spike and the no-source sessions, and sessions grew from 79,738 to 83,417: **+4.6%, not +22%**. Purchases still grew 18%. So the real story of December was better conversion during the holiday season, not more traffic. That is a different report, and a different decision about where to spend.
 
 ## How to find fake or broken traffic in your own GA4
 
@@ -90,7 +92,7 @@ Until you fix the cause, report conversion rates on traffic **with landing page 
 - **Organic Search** is people who found you on Google or Bing. Pair GA4 with Search Console to see the queries. GA4 doesn't show them.
 - **Direct** is "we don't know". Typed URLs and bookmarks, but also links from apps, PDFs, email clients that strip the referrer, and bots. A big Direct share is a measurement question before it is a marketing one.
 - **Unassigned** is traffic GA4 can't fit into any channel rule, usually because of missing or odd UTM parameters. If it is above a few percent, check your UTM naming.
-- **AI Assistant** is visits from ChatGPT, Perplexity, Gemini and similar tools. It is small for most sites, but on ours it grew 88% in one period and engages better than Direct. Watch its trend.
+- **AI Assistant** is visits from ChatGPT, Perplexity, Gemini and similar tools. It is small for most sites, but it grows fast. Watch its trend.
 - **Paid Search / Paid Social** should match the clicks in your ad platforms within a reasonable margin. A big gap means broken UTMs or a landing page that loads slowly.
 
 ## Diagnosing a traffic drop in 5 minutes
@@ -102,7 +104,7 @@ Until you fix the cause, report conversion rates on traffic **with landing page 
 
 ## Doing this without the clicking
 
-The analysis above took Toffu under a minute: it pulled the channel and landing-page reports from GA4, compared the two periods, and flagged the "(not set)" problem on its own. You can ask the same in plain words, for example "compare this month's traffic by channel and landing page with last month and tell me what's real". [See what Toffu does with Google Analytics](https://toffu.ai/tools/google_analytics).
+The checks above take a few report changes and a comparison. [Toffu](https://toffu.ai/tools/google_analytics) connects to your GA4 property and runs them when you ask in plain words, for example "compare this month's traffic by channel and landing page with last month and tell me what's real". It pulls the reports, compares the periods, and flags spikes like the Dino Tee page or a self-referral before you report a number. [See what Toffu does with Google Analytics](https://toffu.ai/tools/google_analytics).
 
 ## FAQ
 
@@ -114,6 +116,9 @@ GA4 recorded the session but no page view with it, so it can't name a landing pa
 
 **What is a good engagement rate?**
 It depends on the page type. Look at the trend and compare channels with each other. A channel far below the rest, or under 20%, needs a check.
+
+**Why does my own domain show up as a referral?**
+Usually a cross-domain setup error: the visitor moves between two of your hostnames (for example the shop and the checkout) and GA4 starts a new session. Add both domains under Admin → Data streams → Configure tag settings → Configure your domains, and list your own domains under unwanted referrals.
 
 **Why is my Direct traffic so high?**
 Direct collects every visit without a referrer: typed URLs, bookmarks, apps, some email clients, and bots. Break it down by country, device and landing page before you trust it.
