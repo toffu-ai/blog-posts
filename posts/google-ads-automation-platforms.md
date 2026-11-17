@@ -1,7 +1,7 @@
 ---
 title: "Google Ads Automation Tools in 2026: What Each One Automates and What It Costs"
 seoTitle: "Google Ads Automation Tools (2026): Prices and a Real Test"
-description: "Google Ads automation, layer by layer: free rules and scripts, the Google Ads API, rule engines, audit tools and AI agents. Prices checked 17 Nov 2026, plus a real agent audit."
+description: "Google Ads automation by layer: free rules and scripts, the API, rule engines, audit tools and AI agents. Prices checked Nov 2026, plus a real agent audit."
 date: "2025-10-17"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/google-ads-automation-platforms-hero.png"
 slug: "google-ads-automation-platforms"
