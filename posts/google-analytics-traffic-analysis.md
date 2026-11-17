@@ -55,6 +55,8 @@ Google obfuscates part of the dataset, so some sources show as "<Other>" or "(da
 | Referral (other sites) | 9,120 | +8% | 146s | 5.53 |
 | Paid Search | 2,991 | +19% | 64s | 0.87 |
 
+![Share of sessions vs share of purchases by channel, Google Merchandise Store, December 2020](https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ga4-traffic-analysis-sessions-vs-purchases.png)
+
 **By landing page (December, top 5)**
 
 | Landing page | Sessions | Avg engagement time | Purchases per 100 sessions |
@@ -68,6 +70,8 @@ Google obfuscates part of the dataset, so some sources show as "<Other>" or "(da
 The two tables show three problems that the topline hides.
 
 **1. One product page went from 30 to 550 sessions a day overnight.** The Dino Game Tee page got about 30 landing sessions a day in November. From 4 December it got 400 to 600 a day on weekdays. The new sessions came from every channel at once, lasted 6 seconds, and produced 1 purchase in 9,827 sessions. A real promotion brings people who look at the product. This is a pattern to investigate (a link placed somewhere unusual, a crawler, or a tag firing on a preview) before anyone reports it as growth.
+
+![Daily landing sessions on the Dino Game Tee page jump from about 30 to 400-600 on 4 December 2020](https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/ga4-traffic-analysis-dino-tee-spike.png)
 
 **2. A quarter of all sessions have no source.** 31,000 sessions carry no source or medium at all. They average 8 seconds and produced zero purchases. This group grew 44%, twice as fast as the site.
 
