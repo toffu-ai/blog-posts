@@ -1,207 +1,143 @@
 ---
-title: "Meta Ad Library Competitor Research with AI"
-description: "Automate Meta Ad Library competitor research with AI. Analyze Facebook and Instagram competitor strategies and improve campaign performance systematically."
+title: "How to Research Competitor Ads in the Meta Ad Library (With a Real 3-Brand Example)"
+seoTitle: "Meta Ad Library Competitor Research: A Real 3-Brand Example"
+description: "Research competitor ads in the Meta Ad Library: search by Page, filter the noise, read run dates, tag offers and formats. Real meal-kit example, Nov 2026."
 date: "2025-03-05"
 image: "https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/meta-ad-library-research-hero.png"
 slug: "meta-ad-library-competitor-research"
-author: "Toffu Team"
+author: "Toffu Research"
 ---
 
-# Meta Ad Library Competitor Research with AI
+*Updated 18 November 2026. Every number below comes from the public Meta Ad Library on that day.*
 
-Analyzing Meta Ad Library data manually feels like trying to reverse-engineer competitor strategies with a magnifying glass - you can see individual ads, but missing the systematic intelligence needed to understand competitor testing patterns, budget allocation, and seasonal strategies that directly impact your Facebook and Instagram advertising success.
+To research a competitor's ads in the Meta Ad Library: open [facebook.com/ads/library](https://www.facebook.com/ads/library/), pick the country you compete in, keep the category on **All ads**, search for the competitor's **Page** (not a keyword), filter to **Active**, and record every ad in one sheet with the same fields: start date, format, platforms, hook, offer and CTA. Then compare brands by share and by run length, not by raw ad count.
 
-Here's the Meta competitive research reality every social media advertiser faces: **manual Ad Library analysis provides snapshots without strategic context**, yet understanding competitor behavior is crucial for staying competitive in increasingly expensive Meta auctions. You're essentially making creative and targeting decisions while partially blind to competitor strategies.
+That is the whole method. The rest of this post shows it on real data, and the mistakes that make most Ad Library research wrong.
 
-But what if AI could automatically analyze competitor Meta ads, identify successful patterns, and optimize your campaigns based on competitive intelligence?
+## What the Meta Ad Library shows, and what it hides
 
-## Why Manual Meta Ad Library Research Falls Short
+The library is free and needs no login. What you can see depends on where the ad ran:
 
-The complexity of Meta competitive analysis becomes overwhelming when you realize that successful competitors might be running hundreds of ad variations across multiple campaigns, audiences, and placements. You're dealing with creative testing patterns, audience strategies, and seasonal adjustments that manual analysis cannot process comprehensively.
+| | Commercial ad outside the EU/UK | Commercial ad delivered in the EU/UK | Political or social issue ad |
+|---|---|---|---|
+| Creative, Page, start date, platforms | Yes | Yes | Yes |
+| Spend and reach | No | Reach and targeting summary | Spend and impression ranges |
+| After the ad stops | Gone | Kept 1 year after the last impression | Kept 7 years |
 
-### The Pattern Recognition Problem
+Sources: [Meta Ad Library tools](https://transparency.meta.com/researchtools/ad-library-tools/), Meta's Digital Services Act update ([August 2023](https://about.fb.com/news/2023/08/new-features-and-additional-transparency-measures-as-the-digital-services-act-comes-into-effect/)).
 
-From Reddit social media advertising discussions, marketers struggle with Meta competitive intelligence:
+Two consequences:
 
-According to [MagicBrief's comprehensive 2024 guide](https://magicbrief.com/post/complete-guide-master-the-facebook-ad-library-in-2023), effective Meta Ad Library research requires:
+1. **Outside Europe, you only see what is live today.** If you want history for a US competitor, you have to capture it yourself, on a schedule.
+2. **If the competitor also advertises in the EU, search an EU country.** You get a year of inactive ads and a reach figure per ad, which is the closest thing to spend data Meta gives you.
 
-### The Strategic Context Challenge
+## A real example: three meal-kit brands, 18 November 2026
 
-According to [Social Media Examiner's Ad Library guide](https://www.socialmediaexaminer.com/facebook-ad-library-competitive-research/), effective competitor research requires:
+We asked Toffu to do the research for the three biggest US meal-kit advertisers: HelloFresh, Factor and Home Chef. Public Ad Library data only, US, active ads. It took 66 seconds. Here is the result.
 
-> "Systematic analysis of competitor ad creatives, identification of testing patterns, understanding of audience targeting approaches, and recognition of seasonal strategy changes."
+![Toffu's Meta Ad Library comparison of HelloFresh, Factor and Home Chef: active ads found, oldest start date, lead offer, main format and platforms](https://raw.githubusercontent.com/toffu-ai/blog-posts/main/images/meta-ad-library-meal-kits-toffu.png)
 
-But manual implementation reveals the complexity:
+| | HelloFresh | Factor | Home Chef |
+|---|---|---|---|
+| Active ads found | 18 | 45 | 19 (2 brand Pages, 17 partner and creator Pages) |
+| Oldest still running | 21 Oct | 29 Oct (38 of 45 ads started that day) | 21 Aug |
+| Lead offer | 10 free meals + free breakfast for life | 50% off the first box (23 ads), + free breakfast (18) | Audience-specific discounts, free pan, kids eat free |
+| Main format | Dynamic creative (15 of 18) | Dynamic creative (20) and video (18) | Video (11 of 19) |
+| Platforms | Facebook, Instagram, Threads | + WhatsApp; 2 ads on Audience Network | + WhatsApp; 6 ads on Messenger |
+| Hook angle | "Dinner in 30 min" | "Protein-packed meals in 2 min" | Savings for a group: teachers, nurses, military, AAA members |
 
-> "The Facebook Ad Library has evolved well beyond its initial purpose and is now one of the most useful tools to keep track of your competitors while staying on-top of market trends." - [Foreplay's Complete 2025 Guide](https://www.foreplay.co/post/facebook-ads-library)
+The counts are the ads found in the first 60 results of each search, so read them as "at least", not as totals.
 
-**The Intelligence Gap Problem**
+What a strategist takes from this in five minutes:
 
-The biggest challenge isn't seeing competitor ads - it's understanding why certain ads succeed and how to apply those insights to your own campaigns:
+- **Home Chef's oldest ad is the only real long-runner.** It started 21 August and is still live three months later. Its hook: "THIS deal is once in a lifetime, literally," a lifetime 10% discount plus 50% off the first box for teachers, doctors, nurses, military and first responders ([ad](https://www.facebook.com/ads/library/?id=1700152841058373)). An AAA-member version runs the same idea at 60% off ([ad](https://www.facebook.com/ads/library/?id=1104195588835691)).
+- **Factor launched a campaign on 29 October.** 38 of its 45 ads share that start date. That is a coordinated push of one offer (50% off the first box) across video, image and dynamic creative ([ad](https://www.facebook.com/ads/library/?id=928768263500819)). Three weeks of runtime says nothing yet about which variant wins.
+- **HelloFresh lets Meta assemble the ad.** 15 of 18 ads are dynamic creative, so the Ad Library shows you the parts, not the combination that wins ([ad](https://www.facebook.com/ads/library/?id=1057832693949394)).
+- **All three stack a long tail on the first-box discount:** free breakfast for life (HelloFresh), free breakfast for a year (Factor), free dessert for life and a lifetime 10% off (Home Chef, [ad](https://www.facebook.com/ads/library/?id=1862546261764116)). When three competitors run the same offer structure at the same time, treat it as the category norm, not as an idea.
+- **The gap:** in the ads we captured, none of the three talks about skipping weeks or cancelling. Subscription lock-in is the main objection to meal kits. A challenger brand could lead with it.
 
-> "Most advertisers can browse Ad Library and see what competitors are doing, but they lack the analytical framework to turn competitor activity into actionable optimization strategies." - [AdEspresso Competitive Research](https://web.archive.org/web/2024/https://adespresso.com/blog/facebook-ad-library-competitive-research/)
+That last point is the useful output. Copying the category norm makes you look like everyone else. The gap is where a brief starts.
 
-## AI-Powered Meta Ad Library Analysis
+## Mistakes that make Ad Library research wrong
 
-AI automation transforms Meta competitive research from ad browsing into systematic competitive intelligence. Instead of hoping you'll spot important patterns during manual reviews, AI processes competitor data continuously and identifies strategic opportunities.
+### 1. Searching a keyword instead of the Page
 
-**How AI Revolutionizes Meta Competitive Intelligence**
+A keyword search returns every advertiser whose ad text matches. In our run, the "HelloFresh" search also returned ads from "Hello Nancy", "Hello Products" and a cleaning brand. The "Home Chef" search returned 23 Kroger ads and 12 Walmart ads alongside the Home Chef ones. Counting those would have made Home Chef look like a retailer.
 
-Unlike manual analysis that examines ads individually, AI processes competitive data systematically:
+Search the Page. If you search by keyword, filter by advertiser before you count anything.
 
-- **Pattern recognition**: Identifying successful creative themes and testing strategies across competitor campaigns
-- **Performance correlation**: Understanding which competitor ads likely perform well based on longevity and variation patterns
-- **Strategic intelligence**: Recognizing competitor audience targeting and budget allocation strategies
-- **Trend analysis**: Identifying seasonal patterns and emerging creative approaches in your industry
-- **Actionable insights**: Translating competitor activity into specific optimization recommendations for your campaigns
+### 2. Missing the partner ads
 
-**Toffu's Intelligent Meta Competitive Analysis**
+Home Chef had 2 ads on its own Pages and 17 on partner and creator Pages (AAA, a veterans' publication, a cookware brand, individual creators). A Page-only search would have shown 2 ads and called Home Chef a small advertiser. For brands that run partnership ads, search the brand name too, then keep the ads that promote the brand.
 
-With [Toffu's Meta Ad Library integration](https://toffu.ai/tools/meta_ads), you can set up comprehensive Meta competitive intelligence:
+### 3. Treating run length as proof
 
-- **Automated competitor ad monitoring** with pattern recognition and strategic analysis
-- **Creative intelligence gathering** that identifies successful ad formats and messaging themes
-- **Competitive strategy insights** based on testing patterns and campaign behavior
-- **Strategic recommendations** for improving your Meta campaigns based on competitive intelligence
+"It has run for 60 days, so it must be profitable" is the most repeated line in Ad Library guides. It is a good signal, not proof. An ad that runs for months is one the advertiser is content to keep. A start date shared by 38 ads (Factor, 29 October) is a launch, not 38 winners. Use run length to pick what to study, then judge the idea on its own.
 
-**Setting Up AI-Powered Meta Ad Library Analysis**
+### 4. Comparing raw ad counts
 
-Here's how to implement intelligent Meta competitive research using Toffu:
+Factor's 45 ads and HelloFresh's 18 do not mean Factor spends 2.5 times more. Dynamic creative packs many versions into one ad. Compare each brand's **share** of its own output (for example, 15 of 18 HelloFresh ads are dynamic creative) and the number of distinct offers.
 
-1. **Configure competitor monitoring**: Start a conversation with Toffu and say:
+### 5. Researching once
+
+Outside the EU and UK, an ad that stops disappears from the library. The launch-and-kill pattern (15 variants this week, 3 left in two weeks) is the most useful thing the library can show you, and you see it only if you look twice. Capture the same competitors on a fixed day each week.
+
+## The checklist
+
+For each competitor, one row per ad:
+
+| Field | Why |
+|---|---|
+| Page and Ad Library link | Proof, because the ad may disappear |
+| Start date and status | Run length; launches show as shared dates |
+| Format | Video, image, carousel, dynamic creative, catalog |
+| Platforms | Facebook, Instagram, Messenger, WhatsApp, Threads, Audience Network |
+| Hook (first line) | The angle the brand bets on |
+| Offer | Discount, free item, trial, lead magnet |
+| CTA and landing URL | What the ad asks for; UTM parameters can show the market |
+| Capture date | So next week's capture can show what was killed |
+
+Then, per brand: share of ads by format and by offer, the oldest live ad, any shared launch date, and the one angle nobody runs.
+
+## Doing it with an AI agent
+
+The manual method works, but the slow parts are filtering the noise, tagging formats and offers, and doing it again next week.
+
+Toffu searches the Meta Ad Library itself, no export or extension needed. The run above used this prompt:
+
 ```
-"Set up automated Meta Ad Library analysis for my key competitors. I want AI to monitor their ad activity, identify successful creative patterns, analyze their testing strategies, and provide optimization recommendations for my Facebook and Instagram campaigns."
-```
-
-2. **Define competitive analysis parameters**: Provide specific research criteria:
-```
-"Focus on: creative themes that appear frequently, ad formats showing testing variations, messaging strategies that persist over time, seasonal pattern changes, and successful video/image approaches. Identify insights that can improve my campaign performance."
-```
-
-3. **Set up strategic intelligence reporting**: Configure insights delivery:
-```
-"Generate weekly competitive intelligence reports showing: successful competitor creative patterns, emerging trends in ad formats, testing strategy insights, and specific recommendations for optimizing my Meta campaigns. Focus on actionable intelligence."
-```
-
-## Automated Meta Competitive Intelligence
-
-The key to effective AI-powered Ad Library analysis is systematic intelligence gathering that identifies not just what competitors are doing, but why their strategies succeed and how to apply those insights strategically.
-
-**Implementation Strategy Using Toffu's Features**
-
-Rather than manually browsing Ad Library, implement AI-powered competitive workflows systematically:
-
-**Week 1**: Set up comprehensive competitor identification and baseline analysis using [scheduled tasks](https://toffu.ai/academy/scheduled-tasks).
-
-**Week 2**: Implement pattern recognition for successful creative themes and strategic insights.
-
-**Week 3+**: Expand to predictive analysis that identifies emerging trends before competitors fully capitalize on them.
-
-**Conversation-Based Meta Intelligence**
-
-Tell Toffu exactly what competitive intelligence you need:
-
-```
-"I want comprehensive Meta Ad Library analysis that turns competitor activity into campaign optimization strategies. Create automated research that:
-
-1. Monitors key competitors' ad activity and identifies successful patterns
-2. Analyzes creative testing strategies and identifies high-performance themes
-3. Recognizes audience targeting approaches and budget allocation insights
-4. Identifies seasonal trends and emerging creative opportunities
-5. Provides specific recommendations for improving my Meta campaign performance
-
-Focus on actionable competitive intelligence rather than basic ad monitoring."
-[Research from Foreplay shows](https://www.foreplay.co/post/facebook-ads-library) that systematic Meta Ad Library analysis delivers measurable benefits:
-
-**Advanced Meta Competitive Intelligence**
-
-Unlike manual analysis that examines ads in isolation, AI identifies complex strategic patterns:
-
-- **Creative evolution tracking**: Understanding how successful competitors adapt their creative strategies over time
-- **Audience strategy inference**: Identifying targeting approaches based on ad creative and messaging patterns
-- **Budget intelligence**: Recognizing spending patterns and campaign prioritization through ad frequency analysis
-- **Market trend prediction**: Identifying emerging creative and strategic trends before they become widely adopted
-
-This connects to broader [social media automation workflows](https://toffu.ai/academy/social-media) where competitive intelligence drives creative and strategic decisions.
-
-## Results from Automated Meta Ad Library Analysis
-
-**Real Performance Improvements**
-
-Systematic Meta competitive intelligence typically delivers:
-
-- **25-40% improvement** in creative performance through successful pattern adoption
-- **20-30% better** audience targeting based on competitive strategy insights
-- **Strategic advantage** through early trend identification and implementation
-- **Time savings of 10-15 hours weekly** previously spent on manual competitive research
-
-**Success Stories from Intelligent Competitive Analysis**
-
-[Facebook Business research shows](https://www.facebook.com/business/success) that advertisers using competitive intelligence systematically outperform those relying solely on internal testing:
-
-> "Advertisers who analyze competitive strategies and adapt successful approaches typically see 20-35% better campaign performance compared to those operating without competitive context."
-
-The key difference is systematic intelligence rather than occasional ad browsing:
-
-*Ready to set up intelligent Meta competitive analysis? Learn more about [Toffu's Meta Ad Library integration](https://toffu.ai/tools/meta_ads), [social media automation workflows](https://toffu.ai/academy/social-media), and [scheduled task automation](https://toffu.ai/academy/scheduled-tasks) that turn competitor activity into strategic advantage.*
-*Part of our complete ad library research series:*
-- *Meta Ad Library Competitor Research (you are here)*
-- *[Ad Library Competitor Research Guide](/blog/ultimate-ad-library-competitor-research)*
-- *[Ultimate Ad Library Research Guide](https://toffu.ai/blog/ultimate-ad-library-competitor-research)*
-
-**Mistake 2: Focusing Only on Creative Elements**
-Successful ads combine creative, targeting, and strategic elements. AI analyzes holistic campaign strategies.
-
-**Mistake 3: Generic Competitive Copying**
-Direct copying rarely works due to audience and brand differences. AI identifies strategic principles that can be adapted effectively.
-
-**Advanced Meta Competitive Strategies**
-
-Once basic automated analysis is working effectively, expand to:
-
-**Predictive Trend Analysis**: Use competitive pattern recognition to identify emerging trends before they become mainstream.
-
-**Cross-Industry Intelligence**: Apply successful competitive strategies from related industries and markets.
-
-**Integration with Campaign Testing**: Coordinate competitive insights with internal testing workflows for comprehensive optimization.
-
-**Real-Time Competitive Response**: Implement automated campaign adjustments based on competitor strategy changes.
-
-## Getting Started with AI Meta Ad Library Analysis
-
-**Immediate Action Steps**
-
-1. **Identify Key Competitors**: List competitors whose Meta advertising strategies most directly impact your campaigns.
-
-2. **Start Automated Analysis**: Go to [Toffu](https://toffu.ai/) and begin with:
-```
-"I want to set up comprehensive Meta Ad Library competitive analysis that helps me optimize my Facebook and Instagram campaigns. Create automated competitor monitoring with strategic insights and optimization recommendations."
+Competitor ad research on public Meta Ad Library data only. Pull the ads that are
+active right now in the US for HelloFresh, Factor and Home Chef. For each brand give:
+number of active ads, the oldest still-running ad (start date and hook), the main
+offers, the creative formats and the platforms. Then a short comparison table, the
+3 patterns worth copying, and one gap none of them covers. Cite the Ad Library link
+for every ad you quote.
 ```
 
-3. **Define Success Metrics**: Establish goals like identifying 5+ successful creative patterns monthly, improving campaign performance by 25%, and reducing competitive research time by 80%.
+What it did: four Ad Library searches, then code to drop the ads from other advertisers (Kroger, Walmart, Hello Nancy), keep Home Chef's partner ads, count formats and offers, and find the oldest live ad per brand. It flagged on its own that the HelloFresh and Factor ads were too young to call winners.
 
-**Long-Term Strategy Using Toffu Features**
+To make it a weekly habit, ask Toffu to run the same prompt as a [scheduled task](https://toffu.ai/academy/scheduled-tasks) every Monday and to report only what changed: new ads, killed ads, new offers. Toffu has 500 free credits, no card needed.
 
-- **Month 1**: Implement automated competitive monitoring with pattern recognition and strategic analysis
-- **Month 2**: Expand to predictive trend analysis and strategic response automation
-- **Month 3+**: Develop comprehensive competitive intelligence systems that drive systematic campaign optimization
+## Related
 
-The goal isn't just monitoring competitor ads - it's building systematic competitive intelligence that maintains strategic advantage in Meta advertising.
+- [Google Ads Transparency Center: how to research competitor search and YouTube ads](https://toffu.ai/blog/google-ads-transparency-research)
+- [Ad library research across Meta, Google, LinkedIn and TikTok](https://toffu.ai/blog/ultimate-ad-library-competitor-research)
+- [Competitor analysis with Toffu](https://toffu.ai/use-cases/competitor-analysis)
+- [Toffu for Meta Ads](https://toffu.ai/tools/meta_ads)
 
-## The Future of Intelligent Meta Competitive Analysis
+## FAQ
 
-AI-powered Ad Library analysis represents a shift from ad browsing to strategic competitive intelligence. Instead of hoping you'll spot important competitor patterns, you're implementing systems that continuously optimize for competitive advantage.
+### Is the Meta Ad Library free?
+Yes. Anyone can use it at [facebook.com/ads/library](https://www.facebook.com/ads/library/) without a Facebook account.
 
-Traditional Meta competitive research treats Ad Library as a browsing tool for inspiration. Automated analysis treats it as systematic intelligence that drives strategic decision-making.
+### Can I see how much a competitor spends on Meta ads?
+Not for commercial ads. Meta shows spend ranges only for political and social issue ads. For ads delivered in the EU or UK, you see reach and a targeting summary, which is the best proxy available.
 
-For businesses competing in expensive Meta auctions, [Toffu's automated competitive intelligence](https://toffu.ai/tools/meta_ads) demonstrates how conversational AI can transform basic ad monitoring into systematic competitive advantage.
+### Can I see a competitor's old ads?
+Only if the ads ran in the EU or UK (kept for one year) or are political or issue ads (kept for seven years). Other ads disappear when they stop running, so capture them on a schedule.
 
-The choice isn't whether to improve your competitive research - it's whether you want to continue making strategic decisions with limited competitive context or implement intelligent systems that maintain strategic advantage through systematic competitor analysis.
+### How do I know which competitor ads work?
+You can't know for certain. The best public signals are run length (an ad kept live for months), the same offer repeated across many new variants, and the same angle used by several competitors at once.
 
-**Start building competitive advantage with AI-powered Meta Ad Library analysis**: [toffu.ai](https://toffu.ai/)
-
-Your competitors' strategies contain insights that could significantly improve your Meta campaign performance. The question is whether you'll implement systematic competitive intelligence before competitors gain permanent strategic advantages.
-
----
-
-*Ready to set up intelligent Meta competitive analysis? Learn more about [Toffu's Meta Ad Library integration](https://toffu.ai/tools/meta_ads), [social media automation workflows](https://toffu.ai/academy/social-media), and [scheduled task automation](https://toffu.ai/academy/scheduled-tasks) that turn competitor activity into strategic advantage.*
+### Why does my search show ads from other brands?
+A keyword search matches ad text, not only the advertiser. Search for the competitor's Page, or filter the results by advertiser before you count them.
