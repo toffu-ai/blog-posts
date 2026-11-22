@@ -84,19 +84,19 @@ Most agencies shortlist four or five tools. This table compares them on what thi
 | Looker Studio (Data Studio) | No white labeling | None built in |
 | Toffu | Your domain on report links, password on every report | Builds the report from a chat request; report chatbot answers client questions |
 
-Sources: [AgencyAnalytics pricing](https://agencyanalytics.com/pricing) and [AI reporting tools](https://agencyanalytics.com/features/ai-reporting-tools), [DashThis pricing](https://dashthis.com/pricing/), [Whatagraph pricing](https://whatagraph.com/pricing), [Google's Data Studio page](https://cloud.google.com/looker-studio), [Toffu pricing](https://toffu.ai/pricing).
+Sources: [AgencyAnalytics plans](https://agencyanalytics.com/pricing) and [AI reporting tools](https://agencyanalytics.com/features/ai-reporting-tools), [DashThis plans](https://dashthis.com/pricing/), [Whatagraph plans](https://whatagraph.com/pricing), [Google's Data Studio page](https://cloud.google.com/looker-studio), [Toffu for agencies](https://toffu.ai/agencies).
 
 ### How to Read the Table
 
-**AgencyAnalytics** is the default for many agencies, and per-client pricing keeps the cost predictable. Its AI explains the data that is already on the dashboard.
+**AgencyAnalytics** is the default for many agencies, with full white labeling built in. Its AI explains the data that is already on the dashboard.
 
-**DashThis** prices by dashboard, not by client, so it is cheap for a small agency with a few large accounts. The free AI Insights are fixed presets. Asking your own questions costs extra.
+**DashThis** is quick to set up and removes its own branding completely. The built-in AI Insights are fixed presets. Asking your own questions needs the chat add-on.
 
-**Whatagraph** aims at agencies with large, complex reporting needs. You talk to sales before you see a price, and a custom report domain needs the top plan plus an add-on.
+**Whatagraph** aims at agencies with large, complex reporting needs. A custom report domain needs the top plan plus an add-on.
 
-**Looker Studio** costs nothing and connects natively to Google products. You pay in setup time, and your clients see Google's name on every report.
+**Looker Studio** connects natively to Google products. You pay in setup time, and your clients see Google's name on every report.
 
-**Toffu** costs the most per client because reporting is only one part of it. The same agent also checks accounts, fixes campaign issues and does campaign work in Google Ads, Meta, DV360 and other platforms. If you only need reports, a dedicated tool is cheaper. If your team also spends hours answering client questions and acting on the numbers, compare Toffu with the time that work takes today.
+**Toffu** is not only a reporting tool. The same agent also checks accounts, fixes campaign issues and does campaign work in Google Ads, Meta, DV360 and other platforms. If you only need reports, a dedicated tool may be enough. If your team also spends hours answering client questions and acting on the numbers, an agent covers that work too.
 
 ## When a Dedicated Reporting Tool Is Still the Right Choice
 
