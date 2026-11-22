@@ -74,15 +74,15 @@ That is the part template tools do not cover. The client asks "which campaign dr
 
 ## White Label AI Reporting Tools Compared
 
-Most agencies shortlist four or five tools. This table compares them on what this post covers: whose name the client sees, what the AI does, and how the price grows with your client list. Prices are from each vendor's pricing page in November 2026 and change often, so check before you buy.
+Most agencies shortlist four or five tools. This table compares them on what this post covers: whose name the client sees and what the AI does. Details are from each vendor's site in November 2026 and change often, so check before you buy.
 
-| Tool | White label | What the AI does | Price |
-|---|---|---|---|
-| AgencyAnalytics | Logo, colors and custom domain | Ask AI and AI Summary explain report data | $20 per client per month, billed annually |
-| DashThis | Removes DashThis branding; custom domain and custom email | Preset AI Insights (summary, opportunities, wins, issues); chat is a paid add-on | From $44 per month for 3 dashboards, billed annually |
-| Whatagraph | White-label reports on the Max plan; custom report domain is an add-on on Prime | IQ Agents | Quote only |
-| Looker Studio (Data Studio) | No white labeling | None built in | Free; a paid Pro version exists |
-| Toffu | Your domain on report links, password on every report | Builds the report from a chat request; report chatbot answers client questions | Agency plan, $300 per client per month |
+| Tool | White label | What the AI does |
+|---|---|---|
+| AgencyAnalytics | Logo, colors and custom domain | Ask AI and AI Summary explain report data |
+| DashThis | Removes DashThis branding; custom domain and custom email | Preset AI Insights (summary, opportunities, wins, issues); chat is a paid add-on |
+| Whatagraph | White-label reports on the Max plan; custom report domain is an add-on on Prime | IQ Agents |
+| Looker Studio (Data Studio) | No white labeling | None built in |
+| Toffu | Your domain on report links, password on every report | Builds the report from a chat request; report chatbot answers client questions |
 
 Sources: [AgencyAnalytics pricing](https://agencyanalytics.com/pricing) and [AI reporting tools](https://agencyanalytics.com/features/ai-reporting-tools), [DashThis pricing](https://dashthis.com/pricing/), [Whatagraph pricing](https://whatagraph.com/pricing), [Google's Data Studio page](https://cloud.google.com/looker-studio), [Toffu pricing](https://toffu.ai/pricing).
 
