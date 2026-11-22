@@ -72,6 +72,32 @@ The agency can also allow a **report chatbot**: a chat on the shared report that
 
 That is the part template tools do not cover. The client asks "which campaign drove most of the conversions?" on the report itself, and gets an answer without a new email to the account manager.
 
+## White Label AI Reporting Tools Compared
+
+Most agencies shortlist four or five tools. This table compares them on what this post covers: whose name the client sees, what the AI does, and how the price grows with your client list. Prices are from each vendor's pricing page in November 2026 and change often, so check before you buy.
+
+| Tool | White label | What the AI does | Price |
+|---|---|---|---|
+| AgencyAnalytics | Logo, colors and custom domain | Ask AI and AI Summary explain report data | $20 per client per month, billed annually |
+| DashThis | Removes DashThis branding; custom domain and custom email | Preset AI Insights (summary, opportunities, wins, issues); chat is a paid add-on | From $44 per month for 3 dashboards, billed annually |
+| Whatagraph | White-label reports on the Max plan; custom report domain is an add-on on Prime | IQ Agents | Quote only |
+| Looker Studio (Data Studio) | No white labeling | None built in | Free; a paid Pro version exists |
+| Toffu | Your domain on report links, password on every report | Builds the report from a chat request; report chatbot answers client questions | Agency plan, $300 per client per month |
+
+Sources: [AgencyAnalytics pricing](https://agencyanalytics.com/pricing) and [AI reporting tools](https://agencyanalytics.com/features/ai-reporting-tools), [DashThis pricing](https://dashthis.com/pricing/), [Whatagraph pricing](https://whatagraph.com/pricing), [Google's Data Studio page](https://cloud.google.com/looker-studio), [Toffu pricing](https://toffu.ai/pricing).
+
+### How to Read the Table
+
+**AgencyAnalytics** is the default for many agencies, and per-client pricing keeps the cost predictable. Its AI explains the data that is already on the dashboard.
+
+**DashThis** prices by dashboard, not by client, so it is cheap for a small agency with a few large accounts. The free AI Insights are fixed presets. Asking your own questions costs extra.
+
+**Whatagraph** aims at agencies with large, complex reporting needs. You talk to sales before you see a price, and a custom report domain needs the top plan plus an add-on.
+
+**Looker Studio** costs nothing and connects natively to Google products. You pay in setup time, and your clients see Google's name on every report.
+
+**Toffu** costs the most per client because reporting is only one part of it. The same agent also checks accounts, fixes campaign issues and does campaign work in Google Ads, Meta, DV360 and other platforms. If you only need reports, a dedicated tool is cheaper. If your team also spends hours answering client questions and acting on the numbers, compare Toffu with the time that work takes today.
+
 ## When a Dedicated Reporting Tool Is Still the Right Choice
 
 AI reporting is not the answer for every agency. A dedicated tool such as AgencyAnalytics or DashThis may suit you better when:
