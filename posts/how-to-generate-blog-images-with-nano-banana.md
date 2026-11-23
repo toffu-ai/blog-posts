@@ -33,7 +33,7 @@ The next step is to resize the image to the size you want the blog images to be.
 
 Here is an example of what I use for base image: 
 
-![Toffu's Base image](https://toffu-assets.s3.amazonaws.com/email/toffu-ref.png)
+![Toffu's Base image](https://i.toffu.ai/email/toffu-ref.png)
 
 ### The instructions
 
@@ -45,7 +45,7 @@ Blog Image Guidelines
 Technical Requirements: 
 - Must use edit_image tool (not generate_image)
 - Always rectangular size 1536x1024
-- Always start from base image: https://toffu-assets.s3.amazonaws.com/email/toffu-ref.png
+- Always start from base image: https://i.toffu.ai/email/toffu-ref.png
 
 Content Rules: 
 - No text - purely visual content only
@@ -78,4 +78,4 @@ I only had to ask it once and now it's done.
 
 Want to see how I generated the image for this blog post? See this [Toffu session](https://toffu.ai?public=true&session_id=c22e9960-93d8-4ef9-8b31-a059a80ddb94)
 
-![](https://toffu-assets.s3.amazonaws.com/email/nano-chat.png)
+![](https://i.toffu.ai/email/nano-chat.png)
