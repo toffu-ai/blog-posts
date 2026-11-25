@@ -121,6 +121,15 @@ GA4 recorded the session but no page view with it, so it can't name a landing pa
 **What is a good engagement rate?**
 It depends on the page type. Look at the trend and compare channels with each other. A channel far below the rest, or under 20%, needs a check.
 
+**What is referral traffic in Google Analytics?**
+Visits that arrive by a link on another website. GA4 puts a session in the Referral channel when the referrer is a site that is not a search engine, a social network or a paid source. Open Traffic acquisition, set the dimension to Session source / medium, and filter for "referral" to see which sites send it.
+
+**What is "(other)" traffic in Google Analytics?**
+In GA4, "(other)" is a row, not a channel. A report shows it when a dimension has more unique values than the report can hold, so the rare values fold into one row. Use a shorter date range, fewer dimensions, or an Exploration to see them. Traffic that fits no channel rule is a different row: GA4 calls it Unassigned.
+
+**What are entrances in Google Analytics?**
+The number of times a page was the first page of a session. Add the Entrances metric to the Landing page report, or to Pages and screens, to see where visits start.
+
 **Why does my own domain show up as a referral?**
 Usually a cross-domain setup error: the visitor moves between two of your hostnames (for example the shop and the checkout) and GA4 starts a new session. Add both domains under Admin → Data streams → Configure tag settings → Configure your domains, and list your own domains under unwanted referrals.
 

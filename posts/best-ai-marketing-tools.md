@@ -98,12 +98,15 @@ Every tool above is only as good as the data under it. Both are free. If you are
 
 **Google AI Max and Performance Max** and **Meta Advantage+** are AI campaign types inside the ad platforms. They cost nothing extra beyond your ad budget. They optimize delivery well when your conversion tracking is clean and you give them enough creative. They don't tell you *why* something works, so keep your own reporting next to them.
 
-## How to choose
+## How to choose an AI marketing tool that improves results
+
+Choose by the hours and the numbers a tool changes, not by its feature list. Then measure it.
 
 1. **List the 5 tasks that take your team the most hours each week.** Pick tools for those, not for the categories in a roundup.
 2. **Check API and integration access before you buy.** In 2026 the value of a tool is often in what it lets other tools do with its data.
 3. **Test on real work.** Every tool here has a free plan or a trial. Run your actual weekly report or audit through it.
 4. **Count the hand-offs.** If a task still needs you to move data between three tools, you need an agent, not another assistant.
+5. **Measure one number before and after.** Pick the number the task affects, for example hours per client report, time to launch a campaign, or cost per lead. Write it down before the trial and check it again after four weeks. Keep the tool only if that number moved.
 
 ## FAQ
 

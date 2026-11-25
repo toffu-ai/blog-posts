@@ -110,6 +110,9 @@ Links come and go. Once a month:
 **How do I check competitor backlinks for free?**
 Use Bing Webmaster Tools. Its backlinks report works on domains you don't own and can compare several sites. The data is a sample, not the full list.
 
+**How do I check backlinks manually?**
+For your own site, open Google Search Console → Links: it lists the top linking sites and linked pages. For a competitor, search Google for their brand or domain name and exclude their own site with `-site:competitor.com`. Then open the pages and look for the link. It is slow and incomplete, so use it to check a few links, not to build a full list.
+
 **What is a backlink gap?**
 The list of sites that link to one or more of your competitors but not to you. Ahrefs calls the report Link Intersect. Semrush calls it Backlink Gap.
 
