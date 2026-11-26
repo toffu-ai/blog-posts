@@ -47,13 +47,15 @@ group them by page, and tell me the 5 pages where a content update
 would gain the most clicks, with the specific change for each.
 ```
 
-It took 51 seconds. Toffu pulled 3,759 query-and-page rows, filtered them to 62 pairs, ranked the pages and wrote the changes. The top three:
+It took 51 seconds. Toffu pulled every query-and-page row for the last 28 days, kept the pairs in positions 8 to 20, ranked the pages and wrote the changes. The top three:
 
-| Page | Top query | Position | Impressions (28 days) | Change it proposed |
-|---|---|---|---|---|
-| /tools/ahrefs | ahref | 8.4 | 6,168 | Match the misspelled brand query in title, H1 and intro; add an FAQ and internal links |
-| /blog/google-analytics-traffic-analysis | traffic analytics | 15.2 | 468 | Use the exact query phrases in title and H2s; add step-by-step instructions near the top |
-| /blog/best-ai-marketing-tools | best ai marketing tools | 9.7 | 452 | Add a comparison table and a clear top-picks list; show the update date |
+| Page | Top query | Change it proposed |
+|---|---|---|
+| /tools/ahrefs | ahref | Match the misspelled brand query in title, H1 and intro; add an FAQ and internal links |
+| /blog/google-analytics-traffic-analysis | traffic analytics | Use the exact query phrases in title and H2s; add step-by-step instructions near the top |
+| /blog/best-ai-marketing-tools | best ai marketing tools | Add a comparison table and a clear top-picks list; show the update date |
+
+We removed the positions and impression counts from the table: they are our own Search Console data.
 
 The third row is this page. You are reading the result. The same request in the Search Console UI takes an export, a spreadsheet and an hour.
 
